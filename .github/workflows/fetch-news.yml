@@ -1,0 +1,38 @@
+name: Fetch News
+
+on:
+  schedule:
+    # Chạy mỗi 3 tiếng (UTC) — tương đương 3h, 6h, 9h, 12h, 15h, 18h, 21h, 0h VN+7
+    - cron: '0 0,3,6,9,12,15,18,21 * * *'
+  workflow_dispatch:  # Cho phép chạy thủ công từ GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Cần quyền để commit data
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch & Summarize News
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch.py
+
+      - name: Commit & Push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          # Chỉ commit nếu có thay đổi thực sự
+          git diff --cached --quiet || git commit -m "🗞️ Update news $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Tổng hợp tin tức AI & công nghệ hàng ngày, tóm tắt bằng tiếng Việt với Gemini AI.">
+<title>NewsDigest — Tin Tức AI & Tech</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Noto+Serif+Display:ital,wght@0,300;0,600;1,300&family=Noto+Sans+JP:wght@300;400&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --bg: #0d0d0f;
+  --bg2: #13131a;
+  --bg3: #1a1a24;
+  --border: #2a2a3a;
+  --border-bright: #3d3d55;
+  --text: #e8e8f0;
+  --text-dim: #8888a8;
+  --text-faint: #44445a;
+  --accent: #ff6b35;
+  --accent2: #7c6af7;
+  --accent3: #2dd4bf;
+  --tag-ai: #ff6b3520;
+  --tag-ai-text: #ff9060;
+  --tag-tech: #7c6af720;
+  --tag-tech-text: #9d8ff8;
+  --tag-dev: #2dd4bf20;
+  --tag-dev-text: #2dd4bf;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 300;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Scanline overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0,0,0,0.03) 2px,
+    rgba(0,0,0,0.03) 4px
+  );
+  pointer-events: none;
+  z-index: 9999;
+}
+
+/* ── Header ── */
+header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(13,13,15,0.92);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+}
+
+.header-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  height: 56px;
+  gap: 24px;
+}
+
+.logo {
+  font-family: 'Space Mono', monospace;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.logo-dot {
+  width: 8px; height: 8px;
+  background: var(--accent);
+  border-radius: 50%;
+  animation: pulse 2s ease infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.7); }
+}
+
+.header-nav {
+  display: flex;
+  gap: 4px;
+  flex: 1;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.header-nav::-webkit-scrollbar { display: none; }
+
+.cat-btn {
+  padding: 5px 14px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--text-dim);
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.cat-btn:hover { border-color: var(--border-bright); color: var(--text); }
+.cat-btn.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.date-nav {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.date-btn {
+  width: 28px; height: 28px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-dim);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  display: flex; align-items: center; justify-content: center;
+  transition: all 0.15s;
+}
+.date-btn:hover { border-color: var(--accent); color: var(--accent); }
+.date-btn:disabled { opacity: 0.3; cursor: default; }
+
+.date-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: var(--text-dim);
+  white-space: nowrap;
+}
+
+/* ── Layout ── */
+.layout {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 0;
+  min-height: calc(100vh - 56px);
+}
+
+/* ── Sidebar ── */
+.sidebar {
+  border-right: 1px solid var(--border);
+  padding: 24px 0;
+  position: sticky;
+  top: 56px;
+  height: calc(100vh - 56px);
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+.sidebar-section {
+  padding: 0 16px 24px;
+}
+
+.sidebar-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.15em;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  padding: 0 8px;
+  margin-bottom: 8px;
+}
+
+.source-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.12s;
+  border: 1px solid transparent;
+}
+.source-item:hover { background: var(--bg3); }
+.source-item.active { background: var(--bg3); border-color: var(--border); }
+
+.source-dot {
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.source-dot.AI { background: var(--accent); }
+.source-dot.Tech { background: var(--accent2); }
+.source-dot.Dev { background: var(--accent3); }
+
+.source-name {
+  font-size: 12px;
+  color: var(--text-dim);
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.source-count {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--text-faint);
+}
+
+/* ── Main content ── */
+.main {
+  padding: 0;
+}
+
+.stats-bar {
+  padding: 14px 32px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.stat { display: flex; align-items: center; gap: 6px; }
+.stat-value { color: var(--text); font-weight: 700; }
+.stat-sep { color: var(--border-bright); }
+
+.search-wrap {
+  padding: 16px 32px;
+  border-bottom: 1px solid var(--border);
+}
+
+.search-input {
+  width: 100%;
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 16px;
+  color: var(--text);
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  outline: none;
+  transition: border-color 0.15s;
+}
+.search-input:focus { border-color: var(--accent2); }
+.search-input::placeholder { color: var(--text-faint); }
+
+/* ── News Grid ── */
+.news-grid {
+  padding: 24px 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 16px;
+}
+
+.news-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+}
+
+.news-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--card-accent, var(--accent2)), transparent);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.news-card:hover {
+  border-color: var(--border-bright);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+}
+.news-card:hover::before { opacity: 1; }
+
+.news-card.AI { --card-accent: var(--accent); }
+.news-card.Tech { --card-accent: var(--accent2); }
+.news-card.Dev { --card-accent: var(--accent3); }
+
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-source {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--text-faint);
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-cat {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-weight: 700;
+}
+.card-cat.AI { background: var(--tag-ai); color: var(--tag-ai-text); }
+.card-cat.Tech { background: var(--tag-tech); color: var(--tag-tech-text); }
+.card-cat.Dev { background: var(--tag-dev); color: var(--tag-dev-text); }
+
+.card-score {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--text-faint);
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+
+.score-bar {
+  display: flex;
+  gap: 2px;
+}
+.score-pip {
+  width: 3px; height: 10px;
+  border-radius: 1px;
+  background: var(--border-bright);
+}
+.score-pip.filled { background: var(--accent); }
+
+.card-title {
+  font-family: 'Noto Serif Display', serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--text);
+}
+
+.card-summary {
+  font-size: 12.5px;
+  color: var(--text-dim);
+  line-height: 1.65;
+  flex: 1;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
+.card-link {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--accent2);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.card-time {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--text-faint);
+}
+
+/* ── Loading & Empty ── */
+.state-container {
+  padding: 80px 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.loader {
+  width: 32px; height: 32px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.state-title {
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  color: var(--text-dim);
+}
+.state-sub {
+  font-size: 12px;
+  color: var(--text-faint);
+  text-align: center;
+}
+
+/* ── Footer ── */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 24px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--text-faint);
+}
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  .sidebar { display: none; }
+  .layout { grid-template-columns: 1fr; }
+  .news-grid { padding: 16px; gap: 12px; grid-template-columns: 1fr; }
+  .stats-bar { padding: 12px 16px; gap: 12px; flex-wrap: wrap; }
+  .search-wrap { padding: 12px 16px; }
+  .header-inner { gap: 12px; }
+  footer { flex-direction: column; gap: 8px; text-align: center; }
+}
+
+/* ── Lang Toggle ── */
+.lang-toggle {
+  display: flex;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.lang-btn {
+  padding: 5px 10px;
+  background: transparent;
+  border: none;
+  color: var(--text-dim);
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.lang-btn.active {
+  background: var(--accent2);
+  color: #fff;
+}
+.lang-btn:not(.active):hover { color: var(--text); background: var(--bg3); }
+
+/* ── Bilingual card ── */
+.card-summary-vi { display: block; }
+.card-summary-en { display: none; }
+body.lang-en .card-summary-vi { display: none; }
+body.lang-en .card-summary-en { display: block; }
+
+/* ── Animations ── */
+.news-card {
+  opacity: 0;
+  animation: fadeUp 0.3s ease forwards;
+}
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="?">
+      <span class="logo-dot"></span>
+      NEWSDIGEST
+    </a>
+
+    <nav class="header-nav" id="catNav">
+      <button class="cat-btn active" data-cat="all" onclick="filterCat('all')">Tất cả</button>
+    </nav>
+
+    <div class="header-right">
+      <div class="lang-toggle">
+        <button class="lang-btn active" id="btnVI" onclick="setLang('vi')">VI</button>
+        <button class="lang-btn" id="btnEN" onclick="setLang('en')">EN</button>
+      </div>
+      <div class="date-nav">
+        <button class="date-btn" id="btnPrev" onclick="navigate(-1)" title="Ngày trước">‹</button>
+        <span class="date-label" id="dateLabel">—</span>
+        <button class="date-btn" id="btnNext" onclick="navigate(1)" title="Ngày sau">›</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-label">Nguồn tin</div>
+      <div id="sourceList"></div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="stats-bar" id="statsBar" style="display:none">
+      <div class="stat">
+        <span class="stat-value" id="statTotal">0</span>
+        <span>bài</span>
+      </div>
+      <span class="stat-sep">·</span>
+      <div class="stat">
+        <span class="stat-value" id="statSources">0</span>
+        <span>nguồn</span>
+      </div>
+      <span class="stat-sep">·</span>
+      <div class="stat">
+        <span>cập nhật</span>
+        <span class="stat-value" id="statUpdated">—</span>
+      </div>
+    </div>
+
+    <div class="search-wrap">
+      <input class="search-input" type="text" id="searchInput"
+        placeholder="⌕  Tìm kiếm tin tức..." oninput="doSearch(this.value)">
+    </div>
+
+    <div id="newsGrid" class="news-grid"></div>
+
+    <footer>
+      <span>NewsDigest · Tóm tắt bằng Gemini AI · Tiếng Việt</span>
+      <span id="footerUpdated"></span>
+    </footer>
+  </main>
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────────────────────────────
+let allDates   = [];
+let currentIdx = 0;
+let allItems   = [];
+let filtered   = [];
+let activeCat  = 'all';
+let activeSrc  = 'all';
+let searchQ    = '';
+
+// ── Language ──────────────────────────────────────────────────────────────────
+let currentLang = localStorage.getItem('nd-lang') || 'vi';
+
+function setLang(lang) {
+  currentLang = lang;
+  localStorage.setItem('nd-lang', lang);
+  document.body.classList.toggle('lang-en', lang === 'en');
+  document.getElementById('btnVI').classList.toggle('active', lang === 'vi');
+  document.getElementById('btnEN').classList.toggle('active', lang === 'en');
+}
+
+// ── Init ───────────────────────────────────────────────────────────────────
+async function init() {
+  // Đọc date từ URL query
+  const params = new URLSearchParams(location.search);
+  const reqDate = params.get('date');
+
+  // Load danh sách ngày
+  try {
+    const r = await fetch('data/index.json');
+    allDates = await r.json();
+  } catch {
+    allDates = [today()];
+  }
+
+  if (!allDates.length) allDates = [today()];
+
+  // Tìm index ngày cần xem
+  currentIdx = reqDate ? allDates.indexOf(reqDate) : 0;
+  if (currentIdx < 0) currentIdx = 0;
+
+  await loadDate(allDates[currentIdx]);
+}
+
+function today() {
+  return new Date().toISOString().split('T')[0];
+}
+
+async function loadDate(date) {
+  updateDateUI(date);
+  showLoading();
+
+  try {
+    const r = await fetch(`data/${date}.json`);
+    if (!r.ok) throw new Error('not found');
+    const data = await r.json();
+    allItems = data.items || [];
+
+    // Update stats
+    document.getElementById('statsBar').style.display = 'flex';
+    document.getElementById('statTotal').textContent = allItems.length;
+    document.getElementById('statSources').textContent =
+      new Set(allItems.map(i => i.source)).size;
+    const updAt = data.updatedAt ? new Date(data.updatedAt) : null;
+    const updStr = updAt ? updAt.toLocaleTimeString('vi-VN', {hour:'2-digit',minute:'2-digit'}) + ' UTC' : '—';
+    document.getElementById('statUpdated').textContent = updStr;
+    document.getElementById('footerUpdated').textContent = `Cập nhật: ${updStr}`;
+
+    buildCatNav(data.categories || []);
+    buildSidebar(data.sources || [], allItems);
+    applyFilters();
+
+  } catch {
+    showEmpty('Chưa có dữ liệu cho ngày này', 'Dữ liệu sẽ được cập nhật tự động mỗi 3 giờ.');
+  }
+}
+
+// ── Navigation ─────────────────────────────────────────────────────────────
+function navigate(dir) {
+  const newIdx = currentIdx + dir;
+  if (newIdx < 0 || newIdx >= allDates.length) return;
+  currentIdx = newIdx;
+  const date = allDates[currentIdx];
+  history.pushState({}, '', `?date=${date}`);
+  loadDate(date);
+}
+
+function updateDateUI(date) {
+  const [y, m, d] = date.split('-');
+  document.getElementById('dateLabel').textContent = `${d}/${m}/${y}`;
+  document.getElementById('btnPrev').disabled = currentIdx >= allDates.length - 1;
+  document.getElementById('btnNext').disabled = currentIdx <= 0;
+  document.title = `NewsDigest — ${d}/${m}/${y}`;
+}
+
+window.onpopstate = () => {
+  const params = new URLSearchParams(location.search);
+  const date = params.get('date') || allDates[0];
+  currentIdx = allDates.indexOf(date);
+  if (currentIdx < 0) currentIdx = 0;
+  loadDate(allDates[currentIdx]);
+};
+
+// ── Category Nav ───────────────────────────────────────────────────────────
+function buildCatNav(categories) {
+  const nav = document.getElementById('catNav');
+  nav.innerHTML = '<button class="cat-btn ' + (activeCat==='all'?'active':'') + '" data-cat="all" onclick="filterCat(\'all\')">Tất cả</button>';
+  categories.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn' + (activeCat === cat ? ' active' : '');
+    btn.dataset.cat = cat;
+    btn.textContent = cat;
+    btn.onclick = () => filterCat(cat);
+    nav.appendChild(btn);
+  });
+}
+
+function filterCat(cat) {
+  activeCat = cat;
+  activeSrc = 'all';
+  document.querySelectorAll('.cat-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.cat === cat);
+  });
+  document.querySelectorAll('.source-item').forEach(s => s.classList.remove('active'));
+  applyFilters();
+}
+
+// ── Sidebar ────────────────────────────────────────────────────────────────
+function buildSidebar(sources, items) {
+  const counts = {};
+  items.forEach(i => { counts[i.source] = (counts[i.source] || 0) + 1; });
+
+  const list = document.getElementById('sourceList');
+  list.innerHTML = '';
+
+  // All item
+  const allEl = document.createElement('div');
+  allEl.className = 'source-item' + (activeSrc === 'all' ? ' active' : '');
+  allEl.innerHTML = `<span class="source-dot ${activeCat !== 'all' ? activeCat : 'Tech'}"></span>
+    <span class="source-name">Tất cả</span>
+    <span class="source-count">${items.length}</span>`;
+  allEl.onclick = () => { activeSrc = 'all'; document.querySelectorAll('.source-item').forEach(s=>s.classList.remove('active')); allEl.classList.add('active'); applyFilters(); };
+  list.appendChild(allEl);
+
+  sources.forEach(src => {
+    const cnt = counts[src.id] || 0;
+    if (!cnt) return;
+    const el = document.createElement('div');
+    el.className = 'source-item' + (activeSrc === src.id ? ' active' : '');
+    el.innerHTML = `<span class="source-dot ${src.category}"></span>
+      <span class="source-name" title="${src.name}">${src.name}</span>
+      <span class="source-count">${cnt}</span>`;
+    el.onclick = () => {
+      activeSrc = src.id;
+      document.querySelectorAll('.source-item').forEach(s=>s.classList.remove('active'));
+      el.classList.add('active');
+      applyFilters();
+    };
+    list.appendChild(el);
+  });
+}
+
+// ── Filters ────────────────────────────────────────────────────────────────
+function filterItems() {
+  return allItems.filter(item => {
+    if (activeCat !== 'all' && item.category !== activeCat) return false;
+    if (activeSrc !== 'all' && item.source !== activeSrc) return false;
+    if (searchQ) {
+      const q = searchQ.toLowerCase();
+      const haystack = (item.title + ' ' + item.summary + ' ' + item.sourceName).toLowerCase();
+      if (!haystack.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function applyFilters() {
+  filtered = filterItems();
+  renderGrid(filtered);
+}
+
+function doSearch(q) {
+  searchQ = q.trim();
+  applyFilters();
+}
+
+// ── Render ─────────────────────────────────────────────────────────────────
+function renderGrid(items) {
+  const grid = document.getElementById('newsGrid');
+
+  if (!items.length) {
+    grid.innerHTML = '';
+    showEmpty('Không có bài nào', 'Thử chọn danh mục khác hoặc xóa bộ lọc.');
+    return;
+  }
+
+  grid.innerHTML = items.map((item, i) => {
+    const delay = Math.min(i * 30, 600);
+    const scoreNum = item.score || 5;
+    const pips = Array.from({length: 10}, (_, j) =>
+      `<span class="score-pip ${j < scoreNum ? 'filled' : ''}"></span>`
+    ).join('');
+
+    const summary_vi = item.summary_vi || item.description || '(Không có tóm tắt)';
+    const summary_en = item.summary_en || item.description || '(No summary available)';
+    const timeStr = formatTime(item.publishedAt);
+
+    return `<a class="news-card ${item.category}" href="${escHtml(item.url)}"
+        target="_blank" rel="noopener"
+        style="animation-delay:${delay}ms">
+      <div class="card-header">
+        <span class="source-dot ${item.category}" style="width:6px;height:6px;border-radius:50%;display:inline-block;flex-shrink:0"></span>
+        <span class="card-source">${escHtml(item.sourceName)}</span>
+        <span class="card-cat ${item.category}">${item.category}</span>
+        <div class="card-score">
+          <div class="score-bar">${pips}</div>
+        </div>
+      </div>
+      <div class="card-title">${escHtml(item.title)}</div>
+      <div class="card-summary card-summary-vi">${escHtml(summary_vi)}</div>
+      <div class="card-summary card-summary-en">${escHtml(summary_en)}</div>
+      <div class="card-footer">
+        <span class="card-link">Đọc bài ↗</span>
+        ${timeStr ? `<span class="card-time">${timeStr}</span>` : ''}
+      </div>
+    </a>`;
+  }).join('');
+}
+
+function formatTime(str) {
+  if (!str) return '';
+  try {
+    const d = new Date(str);
+    if (isNaN(d)) return '';
+    const diff = (Date.now() - d) / 1000;
+    if (diff < 3600) return `${Math.round(diff/60)}p trước`;
+    if (diff < 86400) return `${Math.round(diff/3600)}h trước`;
+    return d.toLocaleDateString('vi-VN');
+  } catch { return ''; }
+}
+
+function escHtml(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// ── Loading states ─────────────────────────────────────────────────────────
+function showLoading() {
+  document.getElementById('newsGrid').innerHTML = `
+    <div class="state-container" style="grid-column:1/-1">
+      <div class="loader"></div>
+      <div class="state-title">Đang tải tin tức...</div>
+    </div>`;
+}
+
+function showEmpty(title, sub) {
+  document.getElementById('newsGrid').innerHTML = `
+    <div class="state-container" style="grid-column:1/-1">
+      <div style="font-size:32px">📭</div>
+      <div class="state-title">${title}</div>
+      <div class="state-sub">${sub}</div>
+    </div>`;
+}
+
+// ── Keyboard shortcuts ──────────────────────────────────────────────────────
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (e.key === 'ArrowLeft')  navigate(1);
+  if (e.key === 'ArrowRight') navigate(-1);
+});
+
+// ── Boot ───────────────────────────────────────────────────────────────────
+init();
+setLang(currentLang);
+</script>
+</body>
+</html>
