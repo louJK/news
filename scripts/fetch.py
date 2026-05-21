@@ -25,7 +25,7 @@ TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 OUTPUT_FILE = OUTPUT_DIR / f"{TODAY}.json"
 
 MAX_ITEMS_PER_SOURCE = 8   # số tin tối đa mỗi nguồn
-GEMINI_DELAY = 1.5         # giây giữa các API call
+GEMINI_DELAY = 4.0         # giây giữa các API call
 
 # ── Nguồn tin (giữ nguyên theo bản gốc) ────────────────────────────────────
 SOURCES = [
@@ -189,21 +189,29 @@ def gemini_summarize(title, description):
         "generationConfig": {"temperature": 0.3, "maxOutputTokens": 300}
     }).encode()
 
-    try:
-        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            result = json.loads(resp.read().decode())
-            text = result["candidates"][0]["content"]["parts"][0]["text"]
-            text_clean = re.sub(r"```json|```", "", text).strip()
-            parsed = json.loads(text_clean)
-            return (
-                parsed.get("summary_vi", fallback),
-                parsed.get("summary_en", fallback),
-                int(parsed.get("score", 5)),
-            )
-    except Exception as e:
-        print(f"  \u26a0\ufe0f  Gemini error: {e}")
-        return fallback, fallback, 5
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                result = json.loads(resp.read().decode())
+                text = result["candidates"][0]["content"]["parts"][0]["text"]
+                text_clean = re.sub(r"```json|```", "", text).strip()
+                parsed = json.loads(text_clean)
+                return (
+                    parsed.get("summary_vi", fallback),
+                    parsed.get("summary_en", fallback),
+                    int(parsed.get("score", 5)),
+                )
+        except Exception as e:
+            err = str(e)
+            if "429" in err and attempt < 2:
+                wait = (attempt + 1) * 10
+                print(f"  \u23f3 Rate limit, retry in {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"  \u26a0\ufe0f  Gemini error: {e}")
+                return fallback, fallback, 5
+    return fallback, fallback, 5
 
 # ── Main ────────────────────────────────────────────────────────────────────
 def main():
