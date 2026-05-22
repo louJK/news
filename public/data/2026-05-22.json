@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "updatedAt": "2026-05-22T17:16:03.182488+00:00",
+  "updatedAt": "2026-05-22T19:58:32.194612+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -179,6 +179,19 @@
       "score": 5
     },
     {
+      "id": "50ff72bb6a1d",
+      "title": "SpaceX files to go public, and the math requires a little faith",
+      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+      "description": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 22 May 2026 14:30:00 +0000",
+      "summary_vi": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and...",
+      "summary_en": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and...",
+      "score": 5
+    },
+    {
       "id": "0bfd75471bad",
       "title": "Meta quietly launches a new Reddit-like app called Forum",
       "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 22 May 2026 14:24:16 +0000",
       "summary_vi": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"...",
       "summary_en": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"...",
-      "score": 5
-    },
-    {
-      "id": "d4f604fbf2b9",
-      "title": "Smart ring maker Oura files to go public",
-      "url": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
-      "description": "The Finnish company said in September that it has sold 5.5 million smart rings to date.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 14:03:35 +0000",
-      "summary_vi": "The Finnish company said in September that it has sold 5.5 million smart rings to date....",
-      "summary_en": "The Finnish company said in September that it has sold 5.5 million smart rings to date....",
       "score": 5
     },
     {
