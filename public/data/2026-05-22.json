@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "updatedAt": "2026-05-22T19:58:32.194612+00:00",
+  "updatedAt": "2026-05-22T22:14:46.785721+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "e3e1f21c8d7e",
+      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
+      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+      "description": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 22 May 2026 21:37:17 +0000",
+      "summary_vi": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
+      "summary_en": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
+      "score": 5
+    },
+    {
+      "id": "d4ba36838dce",
+      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "description": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 22 May 2026 21:02:36 +0000",
+      "summary_vi": "You can now disco ball-ify your entire Pixel homescreen, says Google....",
+      "summary_en": "You can now disco ball-ify your entire Pixel homescreen, says Google....",
+      "score": 5
+    },
+    {
+      "id": "6c669bd48f01",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 22 May 2026 20:40:48 +0000",
+      "summary_vi": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware....",
+      "summary_en": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware....",
+      "score": 5
+    },
+    {
       "id": "4cd1169bfeb0",
       "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
       "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 22 May 2026 15:37:15 +0000",
       "summary_vi": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view...",
       "summary_en": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view...",
-      "score": 5
-    },
-    {
-      "id": "8e301ac137f3",
-      "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-      "description": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 14:30:52 +0000",
-      "summary_vi": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it nee...",
-      "summary_en": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it nee...",
-      "score": 5
-    },
-    {
-      "id": "50ff72bb6a1d",
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "description": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 14:30:00 +0000",
-      "summary_vi": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and...",
-      "summary_en": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and...",
-      "score": 5
-    },
-    {
-      "id": "0bfd75471bad",
-      "title": "Meta quietly launches a new Reddit-like app called Forum",
-      "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
-      "description": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 14:24:16 +0000",
-      "summary_vi": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"...",
-      "summary_en": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"...",
       "score": 5
     },
     {
