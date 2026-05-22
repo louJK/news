@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "updatedAt": "2026-05-22T04:25:41.042949+00:00",
+  "updatedAt": "2026-05-22T09:41:27.164137+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "6d211f15cd8a",
+      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "description": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 22 May 2026 06:41:28 +0000",
+      "summary_vi": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages...",
+      "summary_en": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages...",
+      "score": 5
+    },
+    {
       "id": "98d9dd82ea65",
       "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 21 May 2026 19:35:21 +0000",
       "summary_vi": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far...",
       "summary_en": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far...",
-      "score": 5
-    },
-    {
-      "id": "1e4681c5b3bf",
-      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-      "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
-      "description": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 21 May 2026 19:33:39 +0000",
-      "summary_vi": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now be...",
-      "summary_en": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now be...",
       "score": 5
     },
     {
