@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "updatedAt": "2026-05-23T19:21:11.951254+00:00",
+  "updatedAt": "2026-05-23T21:59:56.678160+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "fc4bedbc0cf5",
+      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 23 May 2026 20:03:13 +0000",
+      "summary_vi": "SolarSquare could be valued at up to $500 million in the financing expected to close next month....",
+      "summary_en": "SolarSquare could be valued at up to $500 million in the financing expected to close next month....",
+      "score": 5
+    },
+    {
       "id": "354027cba18e",
       "title": "These special phone and app features can help protect you from spyware",
       "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 22 May 2026 22:55:57 +0000",
       "summary_vi": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come....",
       "summary_en": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come....",
-      "score": 5
-    },
-    {
-      "id": "e3e1f21c8d7e",
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-      "description": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 21:37:17 +0000",
-      "summary_vi": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
-      "summary_en": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
       "score": 5
     },
     {
