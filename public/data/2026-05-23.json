@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "updatedAt": "2026-05-23T04:03:49.448829+00:00",
+  "updatedAt": "2026-05-23T08:28:18.363558+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "e504babf4306",
+      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
+      "description": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 23 May 2026 07:01:00 +0000",
+      "summary_vi": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups....",
+      "summary_en": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups....",
+      "score": 5
+    },
+    {
       "id": "fd275f985643",
       "title": "AI is being used to resurrect the voices of dead pilots",
       "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 22 May 2026 16:27:57 +0000",
       "summary_vi": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment ...",
       "summary_en": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment ...",
-      "score": 5
-    },
-    {
-      "id": "a8bc5e2a2198",
-      "title": "Spotify’s AI bet: more of everything, less of what you want",
-      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
-      "description": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 16:18:10 +0000",
-      "summary_vi": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much....",
-      "summary_en": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much....",
       "score": 5
     },
     {
