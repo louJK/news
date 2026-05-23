@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "updatedAt": "2026-05-23T13:52:32.934117+00:00",
+  "updatedAt": "2026-05-23T16:07:45.528416+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "354027cba18e",
+      "title": "These special phone and app features can help protect you from spyware",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "description": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 23 May 2026 16:00:00 +0000",
+      "summary_vi": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes ...",
+      "summary_en": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes ...",
+      "score": 5
+    },
+    {
+      "id": "32e0243942b6",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
+      "summary_vi": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience....",
+      "summary_en": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience....",
+      "score": 5
+    },
+    {
+      "id": "85b6e7147c49",
+      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+      "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 23 May 2026 14:50:00 +0000",
+      "summary_vi": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story....",
+      "summary_en": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story....",
+      "score": 5
+    },
+    {
       "id": "049609b07c31",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 22 May 2026 21:37:17 +0000",
       "summary_vi": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
       "summary_en": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail....",
-      "score": 5
-    },
-    {
-      "id": "d4ba36838dce",
-      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-      "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 21:02:36 +0000",
-      "summary_vi": "You can now disco ball-ify your entire Pixel home screen, says Google....",
-      "summary_en": "You can now disco ball-ify your entire Pixel home screen, says Google....",
-      "score": 5
-    },
-    {
-      "id": "6c669bd48f01",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 20:40:48 +0000",
-      "summary_vi": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware....",
-      "summary_en": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware....",
-      "score": 5
-    },
-    {
-      "id": "4cd1169bfeb0",
-      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
-      "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-      "description": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 16:28:06 +0000",
-      "summary_vi": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware....",
-      "summary_en": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware....",
       "score": 5
     },
     {
