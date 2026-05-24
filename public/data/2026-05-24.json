@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "updatedAt": "2026-05-24T13:50:13.252374+00:00",
+  "updatedAt": "2026-05-24T16:08:01.431605+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "c1d4da231cd2",
+      "title": "TechCrunch Mobility: Robotaxi reality check",
+      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 24 May 2026 16:05:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
+      "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
+      "score": 5
+    },
+    {
+      "id": "8907bc013160",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
+      "summary_vi": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety....",
+      "summary_en": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety....",
+      "score": 5
+    },
+    {
       "id": "3ece2b86dd89",
       "title": "The Dreamie alarm clock got me to stop using my phone in bed",
       "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 23 May 2026 13:00:00 +0000",
       "summary_vi": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p...",
       "summary_en": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p...",
-      "score": 5
-    },
-    {
-      "id": "e504babf4306",
-      "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
-      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-      "description": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 23 May 2026 07:01:00 +0000",
-      "summary_vi": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups....",
-      "summary_en": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups....",
-      "score": 5
-    },
-    {
-      "id": "fd275f985643",
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 23:03:33 +0000",
-      "summary_vi": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....",
-      "summary_en": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....",
       "score": 5
     },
     {
