@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "updatedAt": "2026-05-24T16:08:01.431605+00:00",
+  "updatedAt": "2026-05-24T19:26:41.433428+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "e723064f8654",
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "description": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 24 May 2026 19:00:00 +0000",
+      "summary_vi": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point....",
+      "summary_en": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point....",
+      "score": 5
+    },
+    {
+      "id": "2a5f5cfbf974",
+      "title": "6 kitchen gadgets that make adulting feel easier",
+      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "description": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 24 May 2026 17:00:00 +0000",
+      "summary_vi": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood....",
+      "summary_en": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood....",
+      "score": 5
+    },
+    {
       "id": "c1d4da231cd2",
       "title": "TechCrunch Mobility: Robotaxi reality check",
       "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
       "summary_vi": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience....",
       "summary_en": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience....",
-      "score": 5
-    },
-    {
-      "id": "85b6e7147c49",
-      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
-      "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
-      "description": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 23 May 2026 14:50:00 +0000",
-      "summary_vi": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story....",
-      "summary_en": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story....",
-      "score": 5
-    },
-    {
-      "id": "049609b07c31",
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 23 May 2026 13:00:00 +0000",
-      "summary_vi": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p...",
-      "summary_en": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he p...",
       "score": 5
     },
     {
