@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "updatedAt": "2026-05-24T10:45:55.624332+00:00",
+  "updatedAt": "2026-05-24T13:50:13.252374+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "3ece2b86dd89",
+      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+      "description": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 24 May 2026 13:00:00 +0000",
+      "summary_vi": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts....",
+      "summary_en": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts....",
+      "score": 5
+    },
+    {
       "id": "fc4bedbc0cf5",
       "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
       "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 22 May 2026 23:03:33 +0000",
       "summary_vi": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....",
       "summary_en": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system....",
-      "score": 5
-    },
-    {
-      "id": "1c7f984fcfa7",
-      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-      "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-      "description": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 22 May 2026 22:55:57 +0000",
-      "summary_vi": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come....",
-      "summary_en": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come....",
       "score": 5
     },
     {
