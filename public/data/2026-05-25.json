@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "updatedAt": "2026-05-25T10:22:59.723375+00:00",
+  "updatedAt": "2026-05-25T15:24:16.176908+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "96a0ae8f1cd7",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "description": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 25 May 2026 15:09:41 +0000",
+      "summary_vi": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ...",
+      "summary_en": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the ...",
+      "score": 5
+    },
+    {
+      "id": "cbd0cecd9533",
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "description": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 25 May 2026 15:00:00 +0000",
+      "summary_vi": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he di...",
+      "summary_en": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he di...",
+      "score": 5
+    },
+    {
+      "id": "78243e70169e",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "description": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 25 May 2026 14:30:00 +0000",
+      "summary_vi": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $...",
+      "summary_en": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $...",
+      "score": 5
+    },
+    {
+      "id": "218e902321e9",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "description": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 25 May 2026 14:00:00 +0000",
+      "summary_vi": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase....",
+      "summary_en": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase....",
+      "score": 5
+    },
+    {
       "id": "a1acbef14ea2",
       "title": "Everyone is navigating AI security in real time — even Google",
       "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -150,58 +202,6 @@
       "publishedAt": "Sun, 24 May 2026 16:05:00 +0000",
       "summary_vi": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
       "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
-      "score": 5
-    },
-    {
-      "id": "8907bc013160",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
-      "summary_vi": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety....",
-      "summary_en": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety....",
-      "score": 5
-    },
-    {
-      "id": "3ece2b86dd89",
-      "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-      "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-      "description": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 24 May 2026 13:00:00 +0000",
-      "summary_vi": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts....",
-      "summary_en": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts....",
-      "score": 5
-    },
-    {
-      "id": "fc4bedbc0cf5",
-      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 23 May 2026 20:03:13 +0000",
-      "summary_vi": "SolarSquare could be valued at up to $500 million in the financing expected to close next month....",
-      "summary_en": "SolarSquare could be valued at up to $500 million in the financing expected to close next month....",
-      "score": 5
-    },
-    {
-      "id": "354027cba18e",
-      "title": "These special phone and app features can help protect you from spyware",
-      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-      "description": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 23 May 2026 16:00:00 +0000",
-      "summary_vi": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes ...",
-      "summary_en": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes ...",
       "score": 5
     },
     {
