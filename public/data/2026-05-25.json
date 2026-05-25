@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "updatedAt": "2026-05-25T15:24:16.176908+00:00",
+  "updatedAt": "2026-05-25T19:51:32.983366+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "abb22fea2763",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 25 May 2026 16:00:00 +0000",
+      "summary_vi": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents....",
+      "summary_en": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents....",
+      "score": 5
+    },
+    {
       "id": "96a0ae8f1cd7",
       "title": "The pope’s AI encyclical isn’t really about AI",
       "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sun, 24 May 2026 17:00:00 +0000",
       "summary_vi": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood....",
       "summary_en": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood....",
-      "score": 5
-    },
-    {
-      "id": "c1d4da231cd2",
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 24 May 2026 16:05:00 +0000",
-      "summary_vi": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
-      "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
       "score": 5
     },
     {
