@@ -1,6 +1,6 @@
 {
   "date": "2026-05-26",
-  "updatedAt": "2026-05-26T20:23:11.283727+00:00",
+  "updatedAt": "2026-05-26T22:25:34.728749+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "ec54900c5c2d",
+      "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+      "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+      "description": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 26 May 2026 21:03:56 +0000",
+      "summary_vi": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that ma...",
+      "summary_en": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that ma...",
+      "score": 5
+    },
+    {
       "id": "0f9c22836c8e",
       "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
       "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 26 May 2026 15:16:34 +0000",
       "summary_vi": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV....",
       "summary_en": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV....",
-      "score": 5
-    },
-    {
-      "id": "f2c5d9ca1e26",
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "description": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 26 May 2026 14:55:05 +0000",
-      "summary_vi": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies...",
-      "summary_en": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies...",
       "score": 5
     },
     {
