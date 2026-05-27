@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "updatedAt": "2026-05-27T04:34:14.053119+00:00",
+  "updatedAt": "2026-05-27T10:09:14.289332+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "debda17fc412",
+      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+      "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+      "description": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with Austin. The new investment reflects a [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 27 May 2026 08:00:00 +0000",
+      "summary_vi": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outsi...",
+      "summary_en": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outsi...",
+      "score": 5
+    },
+    {
       "id": "cdbc08b2629d",
       "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
       "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 26 May 2026 18:48:04 +0000",
       "summary_vi": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX....",
       "summary_en": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX....",
-      "score": 5
-    },
-    {
-      "id": "1ab37a271eb8",
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 26 May 2026 18:33:01 +0000",
-      "summary_vi": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here....",
-      "summary_en": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here....",
       "score": 5
     },
     {
