@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "updatedAt": "2026-05-27T20:29:25.403431+00:00",
+  "updatedAt": "2026-05-27T22:47:12.617132+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "aef95ed50564",
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "description": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 27 May 2026 21:15:04 +0000",
+      "summary_vi": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launche...",
+      "summary_en": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launche...",
+      "score": 5
+    },
+    {
+      "id": "3bb425fa4e68",
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "description": "The Series B round was led by Battery Ventures.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 27 May 2026 21:11:15 +0000",
+      "summary_vi": "The Series B round was led by Battery Ventures....",
+      "summary_en": "The Series B round was led by Battery Ventures....",
+      "score": 5
+    },
+    {
       "id": "d73c2adfc401",
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
@@ -167,7 +193,7 @@
     },
     {
       "id": "f99b46de820e",
-      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
       "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
       "description": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Wed, 27 May 2026 16:59:19 +0000",
       "summary_vi": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use ...",
       "summary_en": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use ...",
-      "score": 5
-    },
-    {
-      "id": "05063096037a",
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "description": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 27 May 2026 16:00:00 +0000",
-      "summary_vi": "As Cognition reaches $492 in annualized revenue run rate, it more than doubled its valuation in eight months, it says....",
-      "summary_en": "As Cognition reaches $492 in annualized revenue run rate, it more than doubled its valuation in eight months, it says....",
-      "score": 5
-    },
-    {
-      "id": "9788635b5234",
-      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-      "url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
-      "description": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 27 May 2026 15:20:16 +0000",
-      "summary_vi": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight....",
-      "summary_en": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight....",
       "score": 5
     },
     {
