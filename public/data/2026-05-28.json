@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "updatedAt": "2026-05-28T20:37:05.237815+00:00",
+  "updatedAt": "2026-05-28T22:43:51.909099+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "7b1aab1a5e8d",
+      "title": "The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "description": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 28 May 2026 21:24:01 +0000",
+      "summary_vi": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-g...",
+      "summary_en": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-g...",
+      "score": 5
+    },
+    {
       "id": "4867456f4c56",
       "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
       "url": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
@@ -115,9 +128,9 @@
     },
     {
       "id": "0d22b3289c3b",
-      "title": "Asana acquires no-code agent-builder Stack AI",
+      "title": "Asana acquires no-code agent-builder StackAI",
       "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "description": "Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
+      "description": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 28 May 2026 18:08:37 +0000",
       "summary_vi": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data....",
       "summary_en": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data....",
-      "score": 5
-    },
-    {
-      "id": "ad88c1e100de",
-      "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
-      "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
-      "description": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 28 May 2026 18:00:00 +0000",
-      "summary_vi": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communi...",
-      "summary_en": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communi...",
       "score": 5
     },
     {
