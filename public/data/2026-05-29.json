@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "updatedAt": "2026-05-29T20:37:10.284529+00:00",
+  "updatedAt": "2026-05-29T22:41:39.211451+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "4f181a54ae99",
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "description": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 29 May 2026 22:21:38 +0000",
+      "summary_vi": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing....",
+      "summary_en": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing....",
+      "score": 5
+    },
+    {
+      "id": "62b1c2746533",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 29 May 2026 22:14:22 +0000",
+      "summary_vi": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for...",
+      "summary_en": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for...",
+      "score": 5
+    },
+    {
       "id": "75f84cfeffeb",
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -127,9 +153,9 @@
       "score": 5
     },
     {
-      "id": "5cb3d263b55c",
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "id": "fe0f51562a56",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 29 May 2026 14:15:00 +0000",
       "summary_vi": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conve...",
       "summary_en": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conve...",
-      "score": 5
-    },
-    {
-      "id": "23be547c0da8",
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "description": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 14:00:00 +0000",
-      "summary_vi": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,00...",
-      "summary_en": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,00...",
-      "score": 5
-    },
-    {
-      "id": "a205088c9383",
-      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-      "description": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 13:00:00 +0000",
-      "summary_vi": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try....",
-      "summary_en": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try....",
       "score": 5
     },
     {
