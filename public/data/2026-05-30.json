@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T16:10:46.569584+00:00",
+  "updatedAt": "2026-05-30T19:28:34.194780+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "3ffabc5abc63",
+      "title": "Snap alums unveil Ghost Angels fund",
+      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "description": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 17:00:00 +0000",
+      "summary_vi": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....",
+      "summary_en": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....",
+      "score": 5
+    },
+    {
+      "id": "54225d41602f",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
+      "summary_vi": "The golden age of Microsoft's Github Copilot appears to be at an end....",
+      "summary_en": "The golden age of Microsoft's Github Copilot appears to be at an end....",
+      "score": 5
+    },
+    {
       "id": "361533e64698",
       "title": "Meta is reportedly developing an AI pendant",
       "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
       "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
       "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
-      "score": 5
-    },
-    {
-      "id": "5be6cff8b2ce",
-      "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
-      "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
-      "description": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 02:00:00 +0000",
-      "summary_vi": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords....",
-      "summary_en": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords....",
-      "score": 5
-    },
-    {
-      "id": "51cbc0bbd75c",
-      "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
-      "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
-      "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 00:39:13 +0000",
-      "summary_vi": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business ...",
-      "summary_en": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business ...",
       "score": 5
     },
     {
