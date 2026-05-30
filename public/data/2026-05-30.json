@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T10:49:47.424422+00:00",
+  "updatedAt": "2026-05-30T13:56:46.506976+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "4fd271260b06",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
+      "summary_vi": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
+      "summary_en": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
+      "score": 5
+    },
+    {
+      "id": "bc5a5e4a806d",
+      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
+      "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
+      "description": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
+      "summary_vi": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellet...",
+      "summary_en": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellet...",
+      "score": 5
+    },
+    {
+      "id": "ab2b3abb1532",
+      "title": "TikTok’s road to becoming a super app",
+      "url": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
+      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
+      "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "score": 5
+    },
+    {
       "id": "5be6cff8b2ce",
       "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
       "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 29 May 2026 18:49:19 +0000",
       "summary_vi": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
       "summary_en": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
-      "score": 5
-    },
-    {
-      "id": "4fd5861e26d9",
-      "title": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "description": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 17:57:05 +0000",
-      "summary_vi": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A...",
-      "summary_en": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder A...",
-      "score": 5
-    },
-    {
-      "id": "fe0f51562a56",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "description": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 17:27:13 +0000",
-      "summary_vi": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ...",
-      "summary_en": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining ...",
-      "score": 5
-    },
-    {
-      "id": "fe212dea92c8",
-      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-      "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-      "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 17:03:39 +0000",
-      "summary_vi": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software....",
-      "summary_en": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software....",
       "score": 5
     },
     {
