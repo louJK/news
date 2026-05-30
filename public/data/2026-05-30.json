@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T19:28:34.194780+00:00",
+  "updatedAt": "2026-05-30T22:06:27.507176+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "4f54dd187fdc",
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
+      "summary_vi": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....",
+      "summary_en": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....",
+      "score": 5
+    },
+    {
+      "id": "b6fd04d690e3",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "description": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 21:12:37 +0000",
+      "summary_vi": "The YouTube-to-prestige-horror pipeline is looking very strong....",
+      "summary_en": "The YouTube-to-prestige-horror pipeline is looking very strong....",
+      "score": 5
+    },
+    {
       "id": "3ffabc5abc63",
       "title": "Snap alums unveil Ghost Angels fund",
       "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
       "summary_vi": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
       "summary_en": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
-      "score": 5
-    },
-    {
-      "id": "bc5a5e4a806d",
-      "title": "This $300 pizza oven can easily help elevate your summer pizza nights",
-      "url": "https://techcrunch.com/2026/05/30/this-300-pizza-oven-can-easily-help-elevate-your-summer-pizza-nights/",
-      "description": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellets, unlike many other pizza ovens.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
-      "summary_vi": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellet...",
-      "summary_en": "The Ninja Artisan Outdoor Pizza Oven is aimed at people who want delicious pizza nights without having to deal with things like propane or wood pellet...",
-      "score": 5
-    },
-    {
-      "id": "ab2b3abb1532",
-      "title": "TikTok’s road to becoming a super app",
-      "url": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
-      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
-      "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
-      "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
       "score": 5
     },
     {
