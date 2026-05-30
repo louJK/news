@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T13:56:46.506976+00:00",
+  "updatedAt": "2026-05-30T16:10:46.569584+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "361533e64698",
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "description": "Meta seems to be making big bets on AI-powered hardware.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
+      "summary_vi": "Meta seems to be making big bets on AI-powered hardware....",
+      "summary_en": "Meta seems to be making big bets on AI-powered hardware....",
+      "score": 5
+    },
+    {
+      "id": "efe0c0c4c881",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
+      "summary_vi": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product....",
+      "summary_en": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product....",
+      "score": 5
+    },
+    {
+      "id": "1091c10f9199",
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "description": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 30 May 2026 14:49:27 +0000",
+      "summary_vi": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi...",
+      "summary_en": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi...",
+      "score": 5
+    },
+    {
       "id": "4fd271260b06",
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 00:39:13 +0000",
       "summary_vi": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business ...",
       "summary_en": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business ...",
-      "score": 5
-    },
-    {
-      "id": "4f181a54ae99",
-      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-      "description": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 22:21:38 +0000",
-      "summary_vi": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing....",
-      "summary_en": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing....",
-      "score": 5
-    },
-    {
-      "id": "62b1c2746533",
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 22:14:22 +0000",
-      "summary_vi": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for...",
-      "summary_en": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for...",
-      "score": 5
-    },
-    {
-      "id": "75f84cfeffeb",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 29 May 2026 18:49:19 +0000",
-      "summary_vi": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
-      "summary_en": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
       "score": 5
     },
     {
