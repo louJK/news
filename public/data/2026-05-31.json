@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "updatedAt": "2026-05-31T11:04:52.970047+00:00",
+  "updatedAt": "2026-05-31T14:01:22.126434+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "3e476249ebcc",
+      "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
+      "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
+      "description": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 13:00:00 +0000",
+      "summary_vi": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business ...",
+      "summary_en": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business ...",
+      "score": 5
+    },
+    {
       "id": "4f54dd187fdc",
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
       "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 14:49:27 +0000",
       "summary_vi": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi...",
       "summary_en": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi...",
-      "score": 5
-    },
-    {
-      "id": "4fd271260b06",
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
-      "summary_vi": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
-      "summary_en": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
       "score": 5
     },
     {
