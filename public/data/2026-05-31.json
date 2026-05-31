@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "updatedAt": "2026-05-31T14:01:22.126434+00:00",
+  "updatedAt": "2026-05-31T16:18:50.353087+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "25426526b484",
+      "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
+      "url": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 16:05:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "score": 5
+    },
+    {
+      "id": "219fb65d984a",
+      "title": "Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "description": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 15:30:00 +0000",
+      "summary_vi": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"...",
+      "summary_en": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"...",
+      "score": 5
+    },
+    {
+      "id": "d11ddbb842b3",
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "description": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationships, and early introductions.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 15:00:00 +0000",
+      "summary_vi": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationsh...",
+      "summary_en": "Speaking to TechCrunch, Crunchbase’s head of research Gené Teare, said the factors holding back Black founders include “access to networks, relationsh...",
+      "score": 5
+    },
+    {
       "id": "3e476249ebcc",
       "title": "What happens in Vega$: steroids, swimmers, and a billion-dollar hustle",
       "url": "https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
       "summary_vi": "The golden age of Microsoft's Github Copilot appears to be at an end....",
       "summary_en": "The golden age of Microsoft's Github Copilot appears to be at an end....",
-      "score": 5
-    },
-    {
-      "id": "361533e64698",
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "description": "Meta seems to be making big bets on AI-powered hardware.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
-      "summary_vi": "Meta seems to be making big bets on AI-powered hardware....",
-      "summary_en": "Meta seems to be making big bets on AI-powered hardware....",
-      "score": 5
-    },
-    {
-      "id": "efe0c0c4c881",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
-      "summary_vi": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product....",
-      "summary_en": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product....",
-      "score": 5
-    },
-    {
-      "id": "1091c10f9199",
-      "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "description": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 14:49:27 +0000",
-      "summary_vi": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi...",
-      "summary_en": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, thi...",
       "score": 5
     },
     {
