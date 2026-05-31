@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "updatedAt": "2026-05-31T19:27:43.330649+00:00",
+  "updatedAt": "2026-05-31T22:05:58.584423+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "6e2aa85b95d5",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "description": "Environmental activist Erin Brockovich has a new mission.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 21:05:14 +0000",
+      "summary_vi": "Environmental activist Erin Brockovich has a new mission....",
+      "summary_en": "Environmental activist Erin Brockovich has a new mission....",
+      "score": 5
+    },
+    {
       "id": "43b874f58198",
       "title": "This weekend’s two biggest movies were both directed by YouTubers",
       "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
       "summary_vi": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....",
       "summary_en": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity....",
-      "score": 5
-    },
-    {
-      "id": "3ffabc5abc63",
-      "title": "Snap alums unveil Ghost Angels fund",
-      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "description": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 17:00:00 +0000",
-      "summary_vi": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....",
-      "summary_en": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....",
       "score": 5
     },
     {
