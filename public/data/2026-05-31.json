@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "updatedAt": "2026-05-31T16:18:50.353087+00:00",
+  "updatedAt": "2026-05-31T19:27:43.330649+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "43b874f58198",
+      "title": "This weekend’s two biggest movies were both directed by YouTubers",
+      "url": "https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
+      "description": "The YouTube-to-prestige-horror pipeline is looking very strong.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 18:34:58 +0000",
+      "summary_vi": "The YouTube-to-prestige-horror pipeline is looking very strong....",
+      "summary_en": "The YouTube-to-prestige-horror pipeline is looking very strong....",
+      "score": 5
+    },
+    {
+      "id": "c1384759d49d",
+      "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+      "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+      "description": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 31 May 2026 18:28:17 +0000",
+      "summary_vi": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme....",
+      "summary_en": "The startup has apparently taken down the ads using KC Green's \"This is fine\" meme....",
+      "score": 5
+    },
+    {
       "id": "25426526b484",
       "title": "TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce",
       "url": "https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/",
@@ -166,19 +192,6 @@
       "score": 5
     },
     {
-      "id": "b6fd04d690e3",
-      "title": "This weekend’s two biggest movies were both directed by YouTubers",
-      "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-      "description": "The YouTube-to-prestige-horror pipeline is looking very strong.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 21:12:37 +0000",
-      "summary_vi": "The YouTube-to-prestige-horror pipeline is looking very strong....",
-      "summary_en": "The YouTube-to-prestige-horror pipeline is looking very strong....",
-      "score": 5
-    },
-    {
       "id": "3ffabc5abc63",
       "title": "Snap alums unveil Ghost Angels fund",
       "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 30 May 2026 17:00:00 +0000",
       "summary_vi": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....",
       "summary_en": "A group of 20 Snap alumni has come together to launch a fund called Ghost Angels to back the next generation of social media....",
-      "score": 5
-    },
-    {
-      "id": "54225d41602f",
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
-      "summary_vi": "The golden age of Microsoft's Github Copilot appears to be at an end....",
-      "summary_en": "The golden age of Microsoft's Github Copilot appears to be at an end....",
       "score": 5
     },
     {
