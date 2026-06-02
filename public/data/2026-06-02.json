@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "updatedAt": "2026-06-02T04:55:13.926742+00:00",
+  "updatedAt": "2026-06-02T10:48:59.352519+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -205,6 +205,19 @@
       "score": 5
     },
     {
+      "id": "e0ba9cd4bb87",
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 02 Jun 2026 09:00:00 +0000",
+      "summary_vi": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
+      "summary_en": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
+      "score": 5
+    },
+    {
       "id": "f706a3b8d9c5",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
@@ -293,19 +306,6 @@
       "publishedAt": "Thu, 21 May 2026 20:41:05 +0000",
       "summary_vi": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recen...",
       "summary_en": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recen...",
-      "score": 5
-    },
-    {
-      "id": "13fdcf243334",
-      "title": "Scaling creativity in the age of AI",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "description": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 21 May 2026 19:16:43 +0000",
-      "summary_vi": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always bee...",
-      "summary_en": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always bee...",
       "score": 5
     }
   ]
