@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "updatedAt": "2026-06-03T05:04:56.092142+00:00",
+  "updatedAt": "2026-06-03T11:14:55.105255+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "c3ba441ec6ca",
+      "title": "The world’s largest privately owned laser just turned on",
+      "url": "https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/",
+      "description": "Fusion startup Xcimer fired up the world's largest privately owned laser.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 03 Jun 2026 10:00:00 +0000",
+      "summary_vi": "Fusion startup Xcimer fired up the world's largest privately owned laser....",
+      "summary_en": "Fusion startup Xcimer fired up the world's largest privately owned laser....",
+      "score": 5
+    },
+    {
       "id": "702a2f0f4d1a",
       "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
       "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 02 Jun 2026 18:16:53 +0000",
       "summary_vi": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding....",
       "summary_en": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding....",
-      "score": 5
-    },
-    {
-      "id": "d011fdfd6855",
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "description": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 02 Jun 2026 18:02:44 +0000",
-      "summary_vi": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system....",
-      "summary_en": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system....",
       "score": 5
     },
     {
