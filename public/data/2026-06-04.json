@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "updatedAt": "2026-06-04T20:17:35.833571+00:00",
+  "updatedAt": "2026-06-04T22:26:31.831487+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,49 @@
   ],
   "items": [
     {
+      "id": "4d8de7d9e556",
+      "title": "Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app",
+      "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/",
+      "description": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 04 Jun 2026 21:44:09 +0000",
+      "summary_vi": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature i...",
+      "summary_en": "This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature i...",
+      "score": 5
+    },
+    {
+      "id": "87f245147ca4",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "description": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "summary_vi": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring ...",
+      "summary_en": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring ...",
+      "score": 5
+    },
+    {
+      "id": "f1501202b85c",
+      "title": "Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney",
+      "url": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
+      "description": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking over Stripe Tour Sydney for a night that the Australian startup ecosystem won't forget.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 04 Jun 2026 20:55:38 +0000",
+      "summary_vi": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking...",
+      "summary_en": "On August 19, Startup Battlefield is returning to Sydney in partnership with Stripe, one of the world's most iconic technology companies. We're taking...",
+      "score": 5
+    },
+    {
       "id": "292be7eaabe4",
       "title": "Meta steals a tactic from Tesla and builds data centers in tents",
       "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "description": "Meta may have one found one way to slash its massive data center bill: tents.",
+      "description": "Meta may have found one way to slash its massive data center bill: tents.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -163,45 +202,6 @@
       "publishedAt": "Thu, 04 Jun 2026 16:32:48 +0000",
       "summary_vi": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers ...",
       "summary_en": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers ...",
-      "score": 5
-    },
-    {
-      "id": "c0573bd77080",
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "description": "Apple's WWDC nears: Here's what you can look forward to.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 04 Jun 2026 16:31:12 +0000",
-      "summary_vi": "Apple's WWDC nears: Here's what you can look forward to....",
-      "summary_en": "Apple's WWDC nears: Here's what you can look forward to....",
-      "score": 5
-    },
-    {
-      "id": "a9f5799d3419",
-      "title": "A burglar used a Waymo to steal yoga clothes in San Francisco — and got away with it",
-      "url": "https://techcrunch.com/2026/06/04/a-burglar-used-a-waymo-to-steal-yoga-clothes-in-sf-and-got-away-with-it/",
-      "description": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 04 Jun 2026 16:16:37 +0000",
-      "summary_vi": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis....",
-      "summary_en": "The incident helps shed some new light on how Waymo treats and stores the footage captured by its robotaxis....",
-      "score": 5
-    },
-    {
-      "id": "002414726df1",
-      "title": "Cash App launches a wand for tap-and-pay",
-      "url": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-      "description": "Cash App plans to launch more tap-to-pay tags.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 04 Jun 2026 16:00:00 +0000",
-      "summary_vi": "Cash App plans to launch more tap-to-pay tags....",
-      "summary_en": "Cash App plans to launch more tap-to-pay tags....",
       "score": 5
     },
     {
