@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "updatedAt": "2026-06-05T20:10:20.242214+00:00",
+  "updatedAt": "2026-06-05T22:21:34.581627+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,36 @@
   ],
   "items": [
     {
+      "id": "7d1e92292a58",
+      "title": "Founders share VC horror stories, and some are naming names",
+      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
+      "description": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 05 Jun 2026 21:47:56 +0000",
+      "summary_vi": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating....",
+      "summary_en": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating....",
+      "score": 5
+    },
+    {
+      "id": "08d3a72c1bd6",
+      "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+      "url": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+      "description": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM of not disclosing and actively covering it up.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 05 Jun 2026 20:31:04 +0000",
+      "summary_vi": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM...",
+      "summary_en": "IBM and two of its subsidiary companies were allegedly breached during the mid-2010s — a lawsuit filed by a former cybersecurity executive accuses IBM...",
+      "score": 5
+    },
+    {
       "id": "5f705da3009f",
       "title": "Startup Battlefield 200 applications officially close in 3 days",
       "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Now’s not the time to wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -117,7 +143,7 @@
       "id": "0a80813a45dd",
       "title": "Google will pay SpaceX $920M per month for compute",
       "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "description": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
+      "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 05 Jun 2026 16:32:27 +0000",
       "summary_vi": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe...",
       "summary_en": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe...",
-      "score": 5
-    },
-    {
-      "id": "e82ae84d0e95",
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "url": "https://techcrunch.com/2026/06/05/google-and-fbi-warn-of-ransomware-group-that-sends-fake-it-workers-to-hack-victims-in-person/",
-      "description": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the criminals have stolen data using USB drives or remote access tools.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 16:07:46 +0000",
-      "summary_vi": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the c...",
-      "summary_en": "Cybercriminals, part of a gang known as Silent Ransom Group, have sent people pretending to be IT support employees to law firms' offices, where the c...",
-      "score": 5
-    },
-    {
-      "id": "177fcfdc05d4",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "description": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 14:49:12 +0000",
-      "summary_vi": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"...",
-      "summary_en": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"...",
       "score": 5
     },
     {
