@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "updatedAt": "2026-06-05T04:33:14.721786+00:00",
+  "updatedAt": "2026-06-05T10:04:22.131131+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "54bfebc8b596",
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "description": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 05 Jun 2026 05:06:37 +0000",
+      "summary_vi": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exi...",
+      "summary_en": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exi...",
+      "score": 5
+    },
+    {
       "id": "6db06110db22",
       "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
       "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 04 Jun 2026 19:33:09 +0000",
       "summary_vi": "Meta may have found one way to slash its massive data center bill: tents....",
       "summary_en": "Meta may have found one way to slash its massive data center bill: tents....",
-      "score": 5
-    },
-    {
-      "id": "8b644a7e5ea0",
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-      "description": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 04 Jun 2026 19:20:58 +0000",
-      "summary_vi": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Busines...",
-      "summary_en": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Busines...",
       "score": 5
     },
     {
