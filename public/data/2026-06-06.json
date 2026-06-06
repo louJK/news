@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "updatedAt": "2026-06-06T13:59:13.251650+00:00",
+  "updatedAt": "2026-06-06T16:13:07.150865+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "5a875338103b",
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "description": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 06 Jun 2026 15:00:00 +0000",
+      "summary_vi": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community....",
+      "summary_en": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community....",
+      "score": 5
+    },
+    {
       "id": "a40a1f1bc5d5",
       "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
       "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 05 Jun 2026 17:38:06 +0000",
       "summary_vi": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months....",
       "summary_en": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months....",
-      "score": 5
-    },
-    {
-      "id": "79cc28ab279b",
-      "title": "The most interesting startups right now want to get you off your phone",
-      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "description": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 17:17:06 +0000",
-      "summary_vi": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu...",
-      "summary_en": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Pu...",
       "score": 5
     },
     {
