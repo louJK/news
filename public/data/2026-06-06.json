@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "updatedAt": "2026-06-06T16:13:07.150865+00:00",
+  "updatedAt": "2026-06-06T19:42:40.000945+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "fa9b3f426447",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "description": "Apple's WWDC nears: Here's what you can look forward to.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "summary_vi": "Apple's WWDC nears: Here's what you can look forward to....",
+      "summary_en": "Apple's WWDC nears: Here's what you can look forward to....",
+      "score": 5
+    },
+    {
+      "id": "fc0aef7cf74a",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "description": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 06 Jun 2026 17:42:15 +0000",
+      "summary_vi": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy....",
+      "summary_en": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy....",
+      "score": 5
+    },
+    {
+      "id": "ccfe51be44a8",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "description": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 06 Jun 2026 16:17:21 +0000",
+      "summary_vi": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"...",
+      "summary_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"...",
+      "score": 5
+    },
+    {
       "id": "5a875338103b",
       "title": "Beyond Instagram: Introducing the next generation of social apps",
       "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 05 Jun 2026 20:00:00 +0000",
       "summary_vi": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrup...",
       "summary_en": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrup...",
-      "score": 5
-    },
-    {
-      "id": "0a80813a45dd",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 18:57:20 +0000",
-      "summary_vi": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products....",
-      "summary_en": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products....",
-      "score": 5
-    },
-    {
-      "id": "9672d2d9bf4c",
-      "title": "GM’s electric future depends on a new battery — and this facility",
-      "url": "https://techcrunch.com/2026/06/05/gms-electric-future-depends-on-a-new-battery-and-this-building/",
-      "description": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 17:44:18 +0000",
-      "summary_vi": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen....",
-      "summary_en": "GM wants to slash EV prices by deploying new battery tech up to a year earlier than planned. This building is key to making that happen....",
-      "score": 5
-    },
-    {
-      "id": "4c33757f9bcd",
-      "title": "As VC-backed e-bike startups went bankrupt, bootstrapped Lectric grew",
-      "url": "https://techcrunch.com/2026/06/05/as-vc-backed-e-bike-startups-went-bankrupt-bootstrapped-lectric-grew/",
-      "description": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 17:38:06 +0000",
-      "summary_vi": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months....",
-      "summary_en": "Lectric, which says the U.S. market is ripe for competition and choice, has launched three new brands in the past six months....",
       "score": 5
     },
     {
