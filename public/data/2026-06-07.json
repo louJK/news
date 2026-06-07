@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "updatedAt": "2026-06-07T16:23:47.713042+00:00",
+  "updatedAt": "2026-06-07T19:42:56.699456+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "c733bac7a8d4",
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 07 Jun 2026 17:56:22 +0000",
+      "summary_vi": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"...",
+      "summary_en": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"...",
+      "score": 5
+    },
+    {
+      "id": "893947abd016",
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 07 Jun 2026 16:23:22 +0000",
+      "summary_vi": "\"Chat is dead\" — at least, according to a senior OpenAI employee....",
+      "summary_en": "\"Chat is dead\" — at least, according to a senior OpenAI employee....",
+      "score": 5
+    },
+    {
       "id": "5556d9191e75",
       "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
       "url": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 06 Jun 2026 16:17:21 +0000",
       "summary_vi": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"...",
       "summary_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"...",
-      "score": 5
-    },
-    {
-      "id": "5a875338103b",
-      "title": "Beyond Instagram: Introducing the next generation of social apps",
-      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
-      "description": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 06 Jun 2026 15:00:00 +0000",
-      "summary_vi": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community....",
-      "summary_en": "These newer social apps offer alternatives to Big Tech’s feeds, focusing on interests, creativity, and community....",
-      "score": 5
-    },
-    {
-      "id": "a40a1f1bc5d5",
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
-      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-      "description": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 05 Jun 2026 22:35:01 +0000",
-      "summary_vi": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus....",
-      "summary_en": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus....",
       "score": 5
     },
     {
