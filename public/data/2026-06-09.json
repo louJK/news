@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "updatedAt": "2026-06-09T20:19:21.052300+00:00",
+  "updatedAt": "2026-06-09T22:29:43.611206+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "4fb5b3484d33",
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "url": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "description": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 09 Jun 2026 21:00:00 +0000",
+      "summary_vi": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories....",
+      "summary_en": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories....",
+      "score": 5
+    },
+    {
+      "id": "41d61a583cc5",
+      "title": "Hey, Siri, here’s what I actually want from AI",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 09 Jun 2026 20:50:17 +0000",
+      "summary_vi": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my...",
+      "summary_en": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my...",
+      "score": 5
+    },
+    {
+      "id": "344b80419ef8",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "description": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 09 Jun 2026 20:37:49 +0000",
+      "summary_vi": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders....",
+      "summary_en": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders....",
+      "score": 5
+    },
+    {
       "id": "c47fbc8c5e7f",
       "title": "Can tech companies learn to love cheaper AI models?",
       "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
@@ -140,9 +179,9 @@
       "score": 5
     },
     {
-      "id": "0d6f15e04d91",
+      "id": "407d457f16b2",
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
@@ -163,45 +202,6 @@
       "publishedAt": "Tue, 09 Jun 2026 16:46:08 +0000",
       "summary_vi": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"...",
       "summary_en": "Founder and CEO RJ Scaringe has called it \"maybe the most important thing we've launched to date.\"...",
-      "score": 5
-    },
-    {
-      "id": "13f5001827d5",
-      "title": "Apple’s foldable iPhone could be just around the corner",
-      "url": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
-      "description": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 09 Jun 2026 16:22:56 +0000",
-      "summary_vi": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device....",
-      "summary_en": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device....",
-      "score": 5
-    },
-    {
-      "id": "da7fe1785fe9",
-      "title": "It’s not FAANG anymore. It’s MANGOS.",
-      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "description": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 09 Jun 2026 16:09:14 +0000",
-      "summary_vi": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new ac...",
-      "summary_en": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new ac...",
-      "score": 5
-    },
-    {
-      "id": "ce34f28de3d9",
-      "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
-      "url": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
-      "description": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 09 Jun 2026 15:23:40 +0000",
-      "summary_vi": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users....",
-      "summary_en": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users....",
       "score": 5
     },
     {
