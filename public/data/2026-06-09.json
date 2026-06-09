@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "updatedAt": "2026-06-09T04:18:58.784588+00:00",
+  "updatedAt": "2026-06-09T09:58:27.350036+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "4dc79fbeefad",
+      "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
+      "url": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+      "description": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 09 Jun 2026 09:00:00 +0000",
+      "summary_vi": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites....",
+      "summary_en": "The startup is one of many entering the RV space, but it's banking on a hybrid power system that can go far beyond campsites....",
+      "score": 5
+    },
+    {
+      "id": "d498476bbd4a",
+      "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+      "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "description": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 09 Jun 2026 05:07:17 +0000",
+      "summary_vi": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue....",
+      "summary_en": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue....",
+      "score": 5
+    },
+    {
       "id": "bf51653a4ab1",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
       "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
@@ -179,29 +205,16 @@
       "score": 5
     },
     {
-      "id": "bae85cd85745",
-      "title": "Apple bets cheaper AI will woo small developers",
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "description": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 08 Jun 2026 20:53:55 +0000",
-      "summary_vi": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads....",
-      "summary_en": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads....",
-      "score": 5
-    },
-    {
-      "id": "970b9fe6819b",
-      "title": "Waymo bought Apple’s self-driving car proving ground for $220M",
-      "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/",
-      "description": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with Apple, according to documents filed with Maricopa County.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 08 Jun 2026 20:50:55 +0000",
-      "summary_vi": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with ...",
-      "summary_en": "Waymo has acquired a massive 5,500-acre proving ground in Arizona owned by Route 14 Investment Partners LLC, a Delaware shell company associated with ...",
+      "id": "5a0f8f20efd8",
+      "title": "Five things you need to know about AI",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "description": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 09 Jun 2026 09:16:45 +0000",
+      "summary_vi": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI rig...",
+      "summary_en": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI rig...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Tue, 26 May 2026 14:54:10 +0000",
       "summary_vi": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organ...",
       "summary_en": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organ...",
-      "score": 5
-    },
-    {
-      "id": "7400dc01b3a1",
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "description": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Tue, 26 May 2026 09:00:00 +0000",
-      "summary_vi": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisc...",
-      "summary_en": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisc...",
       "score": 5
     }
   ]
