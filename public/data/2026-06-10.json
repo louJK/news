@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "updatedAt": "2026-06-10T20:44:40.304265+00:00",
+  "updatedAt": "2026-06-10T22:56:03.290875+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "6de145b73128",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 10 Jun 2026 22:31:19 +0000",
+      "summary_vi": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic I...",
+      "summary_en": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic I...",
+      "score": 5
+    },
+    {
+      "id": "e2d4711a8f0d",
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "url": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "description": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all&#160;saying versions&#160;of the same thing.&#160; An entrepreneur at heart, [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 10 Jun 2026 22:24:12 +0000",
+      "summary_vi": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wea...",
+      "summary_en": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wea...",
+      "score": 5
+    },
+    {
+      "id": "c4ef9d3035ea",
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "url": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "description": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 10 Jun 2026 21:33:32 +0000",
+      "summary_vi": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities....",
+      "summary_en": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities....",
+      "score": 5
+    },
+    {
       "id": "12394780179a",
       "title": "Everyone wants a piece of Tesla’s battery business",
       "url": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
@@ -163,45 +202,6 @@
       "publishedAt": "Wed, 10 Jun 2026 17:13:02 +0000",
       "summary_vi": "The media giant is pushing to expand its mobile and gaming business....",
       "summary_en": "The media giant is pushing to expand its mobile and gaming business....",
-      "score": 5
-    },
-    {
-      "id": "7282240d4a4e",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "description": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 10 Jun 2026 17:07:35 +0000",
-      "summary_vi": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet....",
-      "summary_en": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet....",
-      "score": 5
-    },
-    {
-      "id": "84efdf4932c1",
-      "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
-      "url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
-      "description": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 10 Jun 2026 16:43:11 +0000",
-      "summary_vi": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story....",
-      "summary_en": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story....",
-      "score": 5
-    },
-    {
-      "id": "9562e83254d9",
-      "title": "How memory tools can make AI models worse",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "description": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 10 Jun 2026 16:11:08 +0000",
-      "summary_vi": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies....",
-      "summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies....",
       "score": 5
     },
     {
