@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T20:34:05.003061+00:00",
+  "updatedAt": "2026-06-11T22:52:34.924117+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "32f44ef46f2c",
+      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "description": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 11 Jun 2026 20:33:10 +0000",
+      "summary_vi": "Wits its official share pricing announcement, SpaceX's IPO has begun....",
+      "summary_en": "Wits its official share pricing announcement, SpaceX's IPO has begun....",
+      "score": 5
+    },
+    {
       "id": "4eebcae87f1c",
       "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
       "url": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 11 Jun 2026 16:36:20 +0000",
       "summary_vi": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music....",
       "summary_en": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music....",
-      "score": 5
-    },
-    {
-      "id": "2b73d1c2ceef",
-      "title": "These are the countries moving to ban social media for children",
-      "url": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
-      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 11 Jun 2026 16:17:50 +0000",
-      "summary_vi": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, inclu...",
-      "summary_en": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, inclu...",
       "score": 5
     },
     {
