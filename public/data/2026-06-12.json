@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T10:25:28.056138+00:00",
+  "updatedAt": "2026-06-12T15:32:22.817788+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "8324395ed62e",
+      "title": "SpaceX IPO: Everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "summary_vi": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX...",
+      "summary_en": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX...",
+      "score": 5
+    },
+    {
+      "id": "bce5c37cd9fb",
+      "title": "US surveillance law to expire for first time after lawmakers reject Trump’s controversial pick to lead spy agencies",
+      "url": "https://techcrunch.com/2026/06/12/us-spy-law-to-expire-for-first-time-after-lawmakers-reject-trumps-controversial-pick-to-lead-spy-agencies/",
+      "description": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first time.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 12 Jun 2026 11:43:32 +0000",
+      "summary_vi": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first t...",
+      "summary_en": "The spy law known as Section 702, which authorizes the NSA and FBI's warrantless surveillance, will all but certainly expire on Friday for the first t...",
+      "score": 5
+    },
+    {
       "id": "302fed5dd219",
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
@@ -176,32 +202,6 @@
       "publishedAt": "Thu, 11 Jun 2026 20:27:25 +0000",
       "summary_vi": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more ...",
       "summary_en": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more ...",
-      "score": 5
-    },
-    {
-      "id": "dc391d966a6d",
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "description": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 11 Jun 2026 19:58:01 +0000",
-      "summary_vi": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud....",
-      "summary_en": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud....",
-      "score": 5
-    },
-    {
-      "id": "af871cb942d6",
-      "title": "Bluesky launches group chats, as company shifts focus to community features",
-      "url": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
-      "description": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 11 Jun 2026 19:41:05 +0000",
-      "summary_vi": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities....",
-      "summary_en": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities....",
       "score": 5
     },
     {
