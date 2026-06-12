@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T04:55:09.790398+00:00",
+  "updatedAt": "2026-06-12T10:25:28.056138+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "302fed5dd219",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "description": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 12 Jun 2026 04:30:00 +0000",
+      "summary_vi": "Avataar AI's distilled video model is priced at $0.005 for every second of generation...",
+      "summary_en": "Avataar AI's distilled video model is priced at $0.005 for every second of generation...",
+      "score": 5
+    },
+    {
       "id": "712f58199740",
       "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
       "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 11 Jun 2026 19:41:05 +0000",
       "summary_vi": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities....",
       "summary_en": "Bluesky's latest feature is group chats, arriving amid a shift in focus on building features for smaller communities....",
-      "score": 5
-    },
-    {
-      "id": "bbf5b7796055",
-      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
-      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-      "description": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 11 Jun 2026 17:30:00 +0000",
-      "summary_vi": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and Yo...",
-      "summary_en": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and Yo...",
       "score": 5
     },
     {
