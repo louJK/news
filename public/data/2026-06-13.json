@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "updatedAt": "2026-06-13T09:26:29.572950+00:00",
+  "updatedAt": "2026-06-13T14:15:44.338005+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "6b8772b5ec86",
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "description": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 13 Jun 2026 11:00:00 +0000",
+      "summary_vi": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks....",
+      "summary_en": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks....",
+      "score": 5
+    },
+    {
       "id": "09924b25ccc2",
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 12 Jun 2026 19:28:31 +0000",
       "summary_vi": "A SpaceX-Tesla merger seems inevitable....",
       "summary_en": "A SpaceX-Tesla merger seems inevitable....",
-      "score": 5
-    },
-    {
-      "id": "ac49e7db99e3",
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "description": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 12 Jun 2026 17:38:11 +0000",
-      "summary_vi": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion....",
-      "summary_en": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion....",
       "score": 5
     },
     {
