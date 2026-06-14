@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "updatedAt": "2026-06-14T14:19:56.450358+00:00",
+  "updatedAt": "2026-06-14T16:43:25.816871+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "ba7f12545c7f",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000",
+      "summary_vi": "Startups are trying to \"ride that SpaceX IPO wave.\"...",
+      "summary_en": "Startups are trying to \"ride that SpaceX IPO wave.\"...",
+      "score": 5
+    },
+    {
+      "id": "eab45ba1aad3",
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 14 Jun 2026 16:05:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "score": 5
+    },
+    {
       "id": "9d54f6571b7d",
       "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
       "url": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 13 Jun 2026 16:47:18 +0000",
       "summary_vi": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data....",
       "summary_en": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data....",
-      "score": 5
-    },
-    {
-      "id": "9b1d592513d0",
-      "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
-      "url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
-      "description": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something else, such as podcasts, YouTube compilations, or my personal favorite: rain sounds. But earbuds can be uncomfortable, and playing audio out loud isn’t exactly considerate when I’m staying at [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 13 Jun 2026 16:00:00 +0000",
-      "summary_vi": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something ...",
-      "summary_en": "I’ve struggled with insomnia since I was very young. Like many chronic overthinkers, I tend to fall asleep best when my mind is occupied by something ...",
-      "score": 5
-    },
-    {
-      "id": "6b8772b5ec86",
-      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
-      "description": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 13 Jun 2026 11:00:00 +0000",
-      "summary_vi": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks....",
-      "summary_en": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks....",
       "score": 5
     },
     {
