@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "updatedAt": "2026-06-17T20:27:50.510019+00:00",
+  "updatedAt": "2026-06-17T22:50:02.789900+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "8e0f672b6866",
+      "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+      "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+      "description": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 17 Jun 2026 21:30:50 +0000",
+      "summary_vi": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist....",
+      "summary_en": "Chi-Hua Chien has spent more than two decades as a venture capitalist, but he thinks like a cultural anthropologist....",
+      "score": 5
+    },
+    {
+      "id": "3daf2dc5e48c",
+      "title": "Roelof Botha joins SpaceX’s board of directors",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 17 Jun 2026 20:32:52 +0000",
+      "summary_vi": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever....",
+      "summary_en": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever....",
+      "score": 5
+    },
+    {
+      "id": "358e207ac3c7",
+      "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 17 Jun 2026 20:24:28 +0000",
+      "summary_vi": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock....",
+      "summary_en": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock....",
+      "score": 5
+    },
+    {
       "id": "3d1666c95475",
       "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
       "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
@@ -163,45 +202,6 @@
       "publishedAt": "Wed, 17 Jun 2026 18:20:06 +0000",
       "summary_vi": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and V...",
       "summary_en": "An alleged Russian-speaking group of cybercriminals is reportedly compromising and targeting several major companies that use Fortinet Firewalls and V...",
-      "score": 5
-    },
-    {
-      "id": "a459b814ba8d",
-      "title": "Social media’s next evolution: user-controlled algorithms",
-      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-      "description": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 17 Jun 2026 18:19:48 +0000",
-      "summary_vi": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence t...",
-      "summary_en": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence t...",
-      "score": 5
-    },
-    {
-      "id": "d84f6e5d3df2",
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-      "description": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 17 Jun 2026 17:43:07 +0000",
-      "summary_vi": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch....",
-      "summary_en": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch....",
-      "score": 5
-    },
-    {
-      "id": "5c6eec2cbd8d",
-      "title": "Mastodon looks to newsletters to help revive the open social web",
-      "url": "https://techcrunch.com/2026/06/17/mastodon-looks-to-newsletters-to-help-revive-the-open-social-web/",
-      "description": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 17 Jun 2026 17:38:01 +0000",
-      "summary_vi": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account....",
-      "summary_en": "Mastodon’s newly launched newsletter feature lets anyone subscribe to creators by email, even without a Mastodon account....",
       "score": 5
     },
     {
