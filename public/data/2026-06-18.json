@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "updatedAt": "2026-06-18T20:38:39.178749+00:00",
+  "updatedAt": "2026-06-18T22:59:38.627883+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,23 @@
   ],
   "items": [
     {
+      "id": "c7f03eb380cc",
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "summary_vi": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on....",
+      "summary_en": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on....",
+      "score": 5
+    },
+    {
       "id": "8fd795d8c6da",
       "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
       "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "description": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 18 Jun 2026 18:00:00 +0000",
       "summary_vi": "Doomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this ...",
       "summary_en": "Doomscrolling on social media is a very common problem and can feel like an endless loop of constantly losing track of time. Instead of tackling this ...",
-      "score": 5
-    },
-    {
-      "id": "f9dbd01a64e0",
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "description": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 18 Jun 2026 17:49:23 +0000",
-      "summary_vi": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages....",
-      "summary_en": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages....",
       "score": 5
     },
     {
