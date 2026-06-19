@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updatedAt": "2026-06-19T19:57:56.935584+00:00",
+  "updatedAt": "2026-06-19T22:11:10.456772+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "a93cb6472fd1",
+      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
+      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
+      "description": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, which went public Tuesday, plans to use the ¥88.6 billion [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 19 Jun 2026 21:45:00 +0000",
+      "summary_vi": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing se...",
+      "summary_en": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing se...",
+      "score": 5
+    },
+    {
+      "id": "2c2b2e8f147a",
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
+      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "description": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digital. Digital frames have always been so popular [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 19 Jun 2026 21:00:34 +0000",
+      "summary_vi": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura ...",
+      "summary_en": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura ...",
+      "score": 5
+    },
+    {
       "id": "29e6f4e816a3",
       "title": "Every fusion startup that has raised over $100M",
       "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 19 Jun 2026 01:01:00 +0000",
       "summary_vi": "Telegram argues India should block specific content, not an entire platform used by millions....",
       "summary_en": "Telegram argues India should block specific content, not an entire platform used by millions....",
-      "score": 5
-    },
-    {
-      "id": "f7db370cf36f",
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "description": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 19 Jun 2026 00:51:11 +0000",
-      "summary_vi": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago....",
-      "summary_en": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago....",
-      "score": 5
-    },
-    {
-      "id": "c7f03eb380cc",
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "description": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 18 Jun 2026 21:20:13 +0000",
-      "summary_vi": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on....",
-      "summary_en": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on....",
       "score": 5
     },
     {
