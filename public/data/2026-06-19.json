@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "updatedAt": "2026-06-19T05:14:22.164675+00:00",
+  "updatedAt": "2026-06-19T10:50:05.684894+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "bd33e41be4e5",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "description": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 19 Jun 2026 07:59:12 +0000",
+      "summary_vi": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer....",
+      "summary_en": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer....",
+      "score": 5
+    },
+    {
       "id": "43dd03f73350",
       "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
       "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 18 Jun 2026 19:31:45 +0000",
       "summary_vi": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicl...",
       "summary_en": "Plaintiffs in the class -action complaint allege Rivian falsely promised for years it would bring hands-free driving to its first-generation R1 vehicl...",
-      "score": 5
-    },
-    {
-      "id": "0a368702d056",
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "description": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 18 Jun 2026 18:51:46 +0000",
-      "summary_vi": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and convers...",
-      "summary_en": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and convers...",
       "score": 5
     },
     {
