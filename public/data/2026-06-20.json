@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "updatedAt": "2026-06-20T19:48:48.321316+00:00",
+  "updatedAt": "2026-06-20T22:16:22.266064+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "7ddc78b7ede2",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "summary_vi": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...",
+      "summary_en": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”...",
+      "score": 5
+    },
+    {
       "id": "5cab6cb8b0ba",
       "title": "In the Weights is your new AI-centric vanity search",
       "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 19 Jun 2026 21:45:00 +0000",
       "summary_vi": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing se...",
       "summary_en": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing se...",
-      "score": 5
-    },
-    {
-      "id": "2c2b2e8f147a",
-      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
-      "description": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn&#8217;t even look digital. Digital frames have always been so popular [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 19 Jun 2026 21:00:34 +0000",
-      "summary_vi": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura ...",
-      "summary_en": "What&#8217;s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura ...",
       "score": 5
     },
     {
