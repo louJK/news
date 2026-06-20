@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "updatedAt": "2026-06-20T14:19:34.983845+00:00",
+  "updatedAt": "2026-06-20T16:25:28.262378+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "b3c99415eb5d",
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "description": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 20 Jun 2026 15:00:00 +0000",
+      "summary_vi": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at....",
+      "summary_en": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at....",
+      "score": 5
+    },
+    {
       "id": "cdf93af6a8fe",
       "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
       "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 19 Jun 2026 15:23:28 +0000",
       "summary_vi": "Reliance is weaving AI into telecom services used by more than 500 million people....",
       "summary_en": "Reliance is weaving AI into telecom services used by more than 500 million people....",
-      "score": 5
-    },
-    {
-      "id": "076b29791c7a",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "description": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 19 Jun 2026 13:00:00 +0000",
-      "summary_vi": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear....",
-      "summary_en": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear....",
       "score": 5
     },
     {
