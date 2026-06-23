@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-23T20:16:59.146808+00:00",
+  "updatedAt": "2026-06-23T22:19:37.183727+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "629ef74b9d99",
+      "title": "Superhuman acquires AI detection startup GPTZero",
+      "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "description": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 23 Jun 2026 21:48:23 +0000",
+      "summary_vi": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero....",
+      "summary_en": "Superhuman, which also has an AI detection tool as part of Grammarly, has snapped up GPTZero....",
+      "score": 5
+    },
+    {
       "id": "137f2f54de32",
       "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
       "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 23 Jun 2026 14:11:23 +0000",
       "summary_vi": "The smart glasses are available in several countries starting today in a variety of color and lens combinations....",
       "summary_en": "The smart glasses are available in several countries starting today in a variety of color and lens combinations....",
-      "score": 5
-    },
-    {
-      "id": "aca01865fd76",
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "description": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 23 Jun 2026 14:00:00 +0000",
-      "summary_vi": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June...",
-      "summary_en": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June...",
       "score": 5
     },
     {
