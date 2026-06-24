@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": "2026-06-24T17:13:35.805813+00:00",
+  "updatedAt": "2026-06-24T19:57:38.295561+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "9ec0c4a05e4c",
+      "title": "Here’s why Slate changed the battery in its cheap EV truck",
+      "url": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
+      "description": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that decision had been building for years.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 19:27:56 +0000",
+      "summary_vi": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that dec...",
+      "summary_en": "While there was probably a moment when Slate’s leadership had to green-light the switch from one battery type to another, the momentum toward that dec...",
+      "score": 5
+    },
+    {
+      "id": "e56119b650d5",
+      "title": "Facebook rolls out an AI companion app for creators",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 17:16:24 +0000",
+      "summary_vi": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it....",
+      "summary_en": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it....",
+      "score": 5
+    },
+    {
+      "id": "db4862837e14",
+      "title": "Deezer says its new feature lets fans remix songs with artist consent",
+      "url": "https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/",
+      "description": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 17:14:33 +0000",
+      "summary_vi": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs....",
+      "summary_en": "Global music streaming service Deezer is taking a contrarian approach to AI, even as it adds a feature that lets fans remix songs....",
+      "score": 5
+    },
+    {
       "id": "97c642dd855a",
       "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
       "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
@@ -163,45 +202,6 @@
       "publishedAt": "Wed, 24 Jun 2026 15:00:00 +0000",
       "summary_vi": "The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package....",
       "summary_en": "The Samsara Tracking Label hides a BLE system that can offer real-time location in a disposable package....",
-      "score": 5
-    },
-    {
-      "id": "b2b283d1fdd4",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 24 Jun 2026 14:54:46 +0000",
-      "summary_vi": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems....",
-      "summary_en": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems....",
-      "score": 5
-    },
-    {
-      "id": "8900fe233f15",
-      "title": "If you want to cut your screen time, just get a Brick",
-      "url": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
-      "description": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 24 Jun 2026 14:01:35 +0000",
-      "summary_vi": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic....",
-      "summary_en": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic....",
-      "score": 5
-    },
-    {
-      "id": "ffe3eb188173",
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 24 Jun 2026 14:00:00 +0000",
-      "summary_vi": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. R...",
-      "summary_en": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. R...",
       "score": 5
     },
     {
