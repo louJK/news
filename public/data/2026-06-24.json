@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": "2026-06-24T09:42:59.818113+00:00",
+  "updatedAt": "2026-06-24T14:49:12.988821+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "8900fe233f15",
+      "title": "If you want to cut your screen time, just get a Brick",
+      "url": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
+      "description": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 14:01:35 +0000",
+      "summary_vi": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic....",
+      "summary_en": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic....",
+      "score": 5
+    },
+    {
+      "id": "ffe3eb188173",
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 14:00:00 +0000",
+      "summary_vi": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. R...",
+      "summary_en": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. R...",
+      "score": 5
+    },
+    {
+      "id": "aba866e36e00",
+      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+      "url": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+      "description": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 13:58:14 +0000",
+      "summary_vi": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital....",
+      "summary_en": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital....",
+      "score": 5
+    },
+    {
+      "id": "ce403666bde6",
+      "title": "Slate Auto’s radically simple electric truck starts at $24,950",
+      "url": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
+      "description": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 12:33:34 +0000",
+      "summary_vi": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boos...",
+      "summary_en": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boos...",
+      "score": 5
+    },
+    {
       "id": "2b7f6348f5d7",
       "title": "How to invest when everything is moving too fast",
       "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
@@ -153,55 +205,16 @@
       "score": 5
     },
     {
-      "id": "137f2f54de32",
-      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "description": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 23 Jun 2026 19:49:55 +0000",
-      "summary_vi": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024....",
-      "summary_en": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024....",
-      "score": 5
-    },
-    {
-      "id": "2e4fbcaddb15",
-      "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
-      "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
-      "description": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing customers' data.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 23 Jun 2026 19:43:56 +0000",
-      "summary_vi": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing cu...",
-      "summary_en": "It's unclear why Klue had not revoked the credential after the limited pilot, which hackers then used to breach a system holding keys for accessing cu...",
-      "score": 5
-    },
-    {
-      "id": "78ee650bd0ab",
-      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-      "description": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engagement with the app.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 23 Jun 2026 19:19:44 +0000",
-      "summary_vi": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engag...",
-      "summary_en": "The app would be independent of Meta's other social media offerings, although sources told the NYT that those social sites could direct users to engag...",
-      "score": 5
-    },
-    {
-      "id": "492604e8457d",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "description": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000",
-      "summary_vi": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizationa...",
-      "summary_en": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizationa...",
+      "id": "abc015d0b086",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 24 Jun 2026 11:59:54 +0000",
+      "summary_vi": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, tho...",
+      "summary_en": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, tho...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Tue, 09 Jun 2026 10:20:06 +0000",
       "summary_vi": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a...",
       "summary_en": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a...",
-      "score": 5
-    },
-    {
-      "id": "5a0f8f20efd8",
-      "title": "Five things you need to know about AI",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "description": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Tue, 09 Jun 2026 09:16:45 +0000",
-      "summary_vi": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI rig...",
-      "summary_en": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI rig...",
       "score": 5
     }
   ]
