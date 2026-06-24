@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updatedAt": "2026-06-24T04:19:33.136927+00:00",
+  "updatedAt": "2026-06-24T09:42:59.818113+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "2b7f6348f5d7",
+      "title": "How to invest when everything is moving too fast",
+      "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
+      "description": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. They were as entertaining as they were illuminating.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 24 Jun 2026 06:26:11 +0000",
+      "summary_vi": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. The...",
+      "summary_en": "TechCrunch's StrictlyVC evening in Los Angeles late last week brought together two of the more straight-talking investors working in AI right now. The...",
+      "score": 5
+    },
+    {
       "id": "f39d69d0df95",
       "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
       "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 23 Jun 2026 17:00:00 +0000",
       "summary_vi": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizationa...",
       "summary_en": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizationa...",
-      "score": 5
-    },
-    {
-      "id": "ddf26551840f",
-      "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
-      "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
-      "description": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 23 Jun 2026 15:12:37 +0000",
-      "summary_vi": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached....",
-      "summary_en": "This is the second data breach to affect LastPass customers in recent years, after one of the password manager's tech partners was recently breached....",
       "score": 5
     },
     {
