@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-06-26T04:26:21.526535+00:00",
+  "updatedAt": "2026-06-26T09:40:17.444896+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -104,7 +104,7 @@
       "id": "7d96e7dab588",
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "description": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+      "description": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
