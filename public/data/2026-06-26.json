@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-06-26T14:39:21.681591+00:00",
+  "updatedAt": "2026-06-26T17:06:37.706200+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "cc8c8cb9f91a",
+      "title": "Tesla settles FSD crash lawsuit as federal investigations continue",
+      "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+      "description": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 26 Jun 2026 16:32:55 +0000",
+      "summary_vi": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving....",
+      "summary_en": "The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company's advanced driver assistance system known as Full Self-Driving....",
+      "score": 5
+    },
+    {
+      "id": "10c79006fa2f",
+      "title": "TikTok’s road to becoming a super app",
+      "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 26 Jun 2026 16:29:48 +0000",
+      "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "score": 5
+    },
+    {
+      "id": "d295ec6c7f14",
+      "title": "It’s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 26 Jun 2026 16:24:47 +0000",
+      "summary_vi": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collect...",
+      "summary_en": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collect...",
+      "score": 5
+    },
+    {
+      "id": "b96da9c599d1",
+      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
+      "url": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
+      "description": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 26 Jun 2026 15:46:05 +0000",
+      "summary_vi": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments ...",
+      "summary_en": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments ...",
+      "score": 5
+    },
+    {
       "id": "95139ea183b5",
       "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
       "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
@@ -150,58 +202,6 @@
       "publishedAt": "Thu, 25 Jun 2026 22:02:12 +0000",
       "summary_vi": "YouTube Shorts is getting a makeover....",
       "summary_en": "YouTube Shorts is getting a makeover....",
-      "score": 5
-    },
-    {
-      "id": "7f5ba665e4de",
-      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "description": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "summary_vi": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says....",
-      "summary_en": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says....",
-      "score": 5
-    },
-    {
-      "id": "f2624d4e3142",
-      "title": "Polymarket says hackers stole users’ funds",
-      "url": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
-      "description": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 25 Jun 2026 19:58:46 +0000",
-      "summary_vi": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach....",
-      "summary_en": "The prediction market giant Polymarket said it's refunding users who had funds stolen due to a third-party breach....",
-      "score": 5
-    },
-    {
-      "id": "482805ae4084",
-      "title": "Xbox follows Apple with price increases",
-      "url": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-      "description": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 25 Jun 2026 19:39:55 +0000",
-      "summary_vi": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels....",
-      "summary_en": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels....",
-      "score": 5
-    },
-    {
-      "id": "bfce68855dba",
-      "title": "Notion Mail shuts down amid agent takeover",
-      "url": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-      "description": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email to the agents.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 25 Jun 2026 19:14:46 +0000",
-      "summary_vi": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email...",
-      "summary_en": "The company said it is discontinuing its email inbox in favor of its AI agent offering as users are increasingly handing over the reins of their email...",
       "score": 5
     },
     {
