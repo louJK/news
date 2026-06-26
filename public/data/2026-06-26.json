@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-06-26T20:02:30.997380+00:00",
+  "updatedAt": "2026-06-26T22:19:45.947252+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "4ab60a41d7d3",
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "description": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 26 Jun 2026 22:00:37 +0000",
+      "summary_vi": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe codi...",
+      "summary_en": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe codi...",
+      "score": 5
+    },
+    {
       "id": "ad1f5403f521",
       "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
       "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
@@ -154,9 +167,9 @@
     },
     {
       "id": "383b21fa6ad1",
-      "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+      "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
       "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/",
-      "description": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.",
+      "description": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 26 Jun 2026 16:29:48 +0000",
       "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
       "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
-      "score": 5
-    },
-    {
-      "id": "d295ec6c7f14",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "description": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 26 Jun 2026 16:24:47 +0000",
-      "summary_vi": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collect...",
-      "summary_en": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collect...",
       "score": 5
     },
     {
