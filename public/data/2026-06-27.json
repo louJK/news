@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updatedAt": "2026-06-27T19:38:47.660090+00:00",
+  "updatedAt": "2026-06-27T22:10:00.268529+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "a731dc687094",
+      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+      "description": "Instagram users could soon see more ways to tune their content.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 27 Jun 2026 21:27:37 +0000",
+      "summary_vi": "Instagram users could soon see more ways to tune their content....",
+      "summary_en": "Instagram users could soon see more ways to tune their content....",
+      "score": 5
+    },
+    {
+      "id": "81c360008f98",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 27 Jun 2026 20:42:36 +0000",
+      "summary_vi": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
+      "summary_en": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
+      "score": 5
+    },
+    {
       "id": "1facd80fd98c",
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
@@ -141,7 +167,7 @@
     },
     {
       "id": "b18057ca1428",
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 26 Jun 2026 22:00:37 +0000",
       "summary_vi": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe codi...",
       "summary_en": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe codi...",
-      "score": 5
-    },
-    {
-      "id": "ad1f5403f521",
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "description": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 26 Jun 2026 19:13:40 +0000",
-      "summary_vi": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor....",
-      "summary_en": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor....",
-      "score": 5
-    },
-    {
-      "id": "f9c0cbd38e55",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "description": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000",
-      "summary_vi": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel...",
-      "summary_en": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel...",
       "score": 5
     },
     {
