@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "updatedAt": "2026-06-27T16:12:23.701135+00:00",
+  "updatedAt": "2026-06-27T19:38:47.660090+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "1facd80fd98c",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
+      "summary_vi": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....",
+      "summary_en": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....",
+      "score": 5
+    },
+    {
       "id": "d032b792729f",
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000",
       "summary_vi": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel...",
       "summary_en": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel...",
-      "score": 5
-    },
-    {
-      "id": "aea0b75b5039",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "description": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 26 Jun 2026 18:19:36 +0000",
-      "summary_vi": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring....",
-      "summary_en": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring....",
       "score": 5
     },
     {
