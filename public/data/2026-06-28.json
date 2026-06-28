@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-06-28T19:40:42.361719+00:00",
+  "updatedAt": "2026-06-28T22:07:34.770392+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "9419709926e3",
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "description": "Streaming ads might be getting a lot quieter.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 28 Jun 2026 21:34:14 +0000",
+      "summary_vi": "Streaming ads might be getting a lot quieter....",
+      "summary_en": "Streaming ads might be getting a lot quieter....",
+      "score": 5
+    },
+    {
       "id": "66a122702bc0",
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
@@ -115,7 +128,7 @@
     },
     {
       "id": "5c0c754ba2ce",
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
       "description": "Has Silicon Valley been building the wrong things?",
       "source": "techcrunch",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 27 Jun 2026 21:27:37 +0000",
       "summary_vi": "Instagram users could soon see more ways to tune their content....",
       "summary_en": "Instagram users could soon see more ways to tune their content....",
-      "score": 5
-    },
-    {
-      "id": "81c360008f98",
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 27 Jun 2026 20:42:36 +0000",
-      "summary_vi": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
-      "summary_en": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
       "score": 5
     },
     {
