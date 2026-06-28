@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-06-28T09:22:15.318777+00:00",
+  "updatedAt": "2026-06-28T14:04:18.735537+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "ba50c9009e9b",
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the good ice,” the soft, chewable [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 28 Jun 2026 14:00:00 +0000",
+      "summary_vi": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its late...",
+      "summary_en": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its late...",
+      "score": 5
+    },
+    {
       "id": "1c859993eeca",
       "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
       "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 27 Jun 2026 01:01:37 +0000",
       "summary_vi": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....",
       "summary_en": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....",
-      "score": 5
-    },
-    {
-      "id": "f8e9f26e10cc",
-      "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-      "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-      "description": "Mesh came out of stealth in February with a $50 million Series A.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 27 Jun 2026 00:38:34 +0000",
-      "summary_vi": "Mesh came out of stealth in February with a $50 million Series A....",
-      "summary_en": "Mesh came out of stealth in February with a $50 million Series A....",
       "score": 5
     },
     {
