@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-06-28T04:34:40.490924+00:00",
+  "updatedAt": "2026-06-28T09:22:15.318777+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "1c859993eeca",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "description": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 28 Jun 2026 05:00:00 +0000",
+      "summary_vi": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...",
+      "summary_en": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...",
+      "score": 5
+    },
+    {
       "id": "a731dc687094",
       "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
       "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 27 Jun 2026 00:38:34 +0000",
       "summary_vi": "Mesh came out of stealth in February with a $50 million Series A....",
       "summary_en": "Mesh came out of stealth in February with a $50 million Series A....",
-      "score": 5
-    },
-    {
-      "id": "4ab60a41d7d3",
-      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-      "description": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 26 Jun 2026 22:00:37 +0000",
-      "summary_vi": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe codi...",
-      "summary_en": "Corgi became embroiled in controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe codi...",
       "score": 5
     },
     {
