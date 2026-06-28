@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-06-28T16:19:27.296592+00:00",
+  "updatedAt": "2026-06-28T19:40:42.361719+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "66a122702bc0",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 28 Jun 2026 19:05:39 +0000",
+      "summary_vi": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
+      "summary_en": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
+      "score": 5
+    },
+    {
+      "id": "5c0c754ba2ce",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "description": "Has Silicon Valley been building the wrong things?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 28 Jun 2026 17:03:16 +0000",
+      "summary_vi": "Has Silicon Valley been building the wrong things?...",
+      "summary_en": "Has Silicon Valley been building the wrong things?...",
+      "score": 5
+    },
+    {
       "id": "0dbe3aa04b3b",
       "title": "TechCrunch Mobility: All eyes on Tesla FSD",
       "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 27 Jun 2026 20:42:36 +0000",
       "summary_vi": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
       "summary_en": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
-      "score": 5
-    },
-    {
-      "id": "1facd80fd98c",
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 27 Jun 2026 16:45:09 +0000",
-      "summary_vi": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....",
-      "summary_en": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....",
-      "score": 5
-    },
-    {
-      "id": "d032b792729f",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 27 Jun 2026 14:00:00 +0000",
-      "summary_vi": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — int...",
-      "summary_en": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — int...",
       "score": 5
     },
     {
