@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": "2026-06-29T20:17:13.459164+00:00",
+  "updatedAt": "2026-06-29T22:15:33.575815+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "465bbcda8556",
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "description": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 20:55:50 +0000",
+      "summary_vi": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception....",
+      "summary_en": "VCs remain thirsty to fund AI coding startups. This one, founded by investor Chamath Palihapitiya, is no exception....",
+      "score": 5
+    },
+    {
+      "id": "6e26addce97b",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "description": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "summary_vi": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your ...",
+      "summary_en": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your ...",
+      "score": 5
+    },
+    {
       "id": "584b6e10e975",
       "title": "Watch out, Amazon: The Kobo eReader now has a Goodreads rival",
       "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
@@ -117,7 +143,7 @@
       "id": "adebee947411",
       "title": "Waymo and Uber quietly part ways in Phoenix",
       "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
-      "description": "The companies confirmed to TechCrunch that their unusual partnership in Phoenix recently ended after nearly three years..",
+      "description": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Mon, 29 Jun 2026 17:03:50 +0000",
       "summary_vi": "Cursor has launched a new mobile app for remote oversight over coding agents....",
       "summary_en": "Cursor has launched a new mobile app for remote oversight over coding agents....",
-      "score": 5
-    },
-    {
-      "id": "de532f1e9970",
-      "title": "Trump administration threatens 92 GW of new electricity supply with red tape",
-      "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
-      "description": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capacity in the U.S.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 29 Jun 2026 16:58:30 +0000",
-      "summary_vi": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capaci...",
-      "summary_en": "The Trump administration's moves threaten $121 billion in new solar and wind power, two energy sources that are the biggest contributors to new capaci...",
-      "score": 5
-    },
-    {
-      "id": "8bd89edfd996",
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "description": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 29 Jun 2026 16:29:04 +0000",
-      "summary_vi": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said....",
-      "summary_en": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said....",
       "score": 5
     },
     {
