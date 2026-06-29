@@ -1,6 +1,6 @@
 {
   "date": "2026-06-29",
-  "updatedAt": "2026-06-29T11:13:58.112528+00:00",
+  "updatedAt": "2026-06-29T16:02:46.854941+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,71 @@
   ],
   "items": [
     {
+      "id": "40cab8b62756",
+      "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
+      "url": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
+      "description": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 15:02:07 +0000",
+      "summary_vi": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX....",
+      "summary_en": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX....",
+      "score": 5
+    },
+    {
+      "id": "d847e44ff01a",
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "description": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 14:00:08 +0000",
+      "summary_vi": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands....",
+      "summary_en": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands....",
+      "score": 5
+    },
+    {
+      "id": "acb3e054371b",
+      "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
+      "url": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
+      "description": "Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do items.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 13:16:00 +0000",
+      "summary_vi": "Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do item...",
+      "summary_en": "Pocket sells a $129 credit card-shaped puck, which sticks to the back of your phone, and promises unlimited recordings, transcriptions, and to-do item...",
+      "score": 5
+    },
+    {
+      "id": "c118138475cd",
+      "title": "Flipper Device’s new Busy Bar is a customizable display for productivity",
+      "url": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
+      "description": "Flipper Device's new Busy Bar will retail for $249.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "summary_vi": "Flipper Device's new Busy Bar will retail for $249....",
+      "summary_en": "Flipper Device's new Busy Bar will retail for $249....",
+      "score": 5
+    },
+    {
+      "id": "85c3f90dcf40",
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "description": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "summary_vi": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers....",
+      "summary_en": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers....",
+      "score": 5
+    },
+    {
       "id": "9419709926e3",
       "title": "California law targeting loud streaming ads takes effect on July 1",
       "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
@@ -140,68 +205,16 @@
       "score": 5
     },
     {
-      "id": "0dbe3aa04b3b",
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 28 Jun 2026 16:05:00 +0000",
-      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
-      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
-      "score": 5
-    },
-    {
-      "id": "c954eb691633",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "description": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "summary_vi": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron....",
-      "summary_en": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron....",
-      "score": 5
-    },
-    {
-      "id": "ba50c9009e9b",
-      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
-      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
-      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the good ice,” the soft, chewable [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 28 Jun 2026 14:00:00 +0000",
-      "summary_vi": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its late...",
-      "summary_en": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its late...",
-      "score": 5
-    },
-    {
-      "id": "1c859993eeca",
-      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-      "description": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 28 Jun 2026 05:00:00 +0000",
-      "summary_vi": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...",
-      "summary_en": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model...",
-      "score": 5
-    },
-    {
-      "id": "a731dc687094",
-      "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-      "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-      "description": "Instagram users could soon see more ways to tune their content.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 27 Jun 2026 21:27:37 +0000",
-      "summary_vi": "Instagram users could soon see more ways to tune their content....",
-      "summary_en": "Instagram users could soon see more ways to tune their content....",
+      "id": "90763c99a9ca",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "description": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 29 Jun 2026 14:44:01 +0000",
+      "summary_vi": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic busin...",
+      "summary_en": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic busin...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 15 Jun 2026 18:46:08 +0000",
       "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I ...",
       "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I ...",
-      "score": 5
-    },
-    {
-      "id": "5fa3405179d5",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "description": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 11 Jun 2026 11:00:45 +0000",
-      "summary_vi": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. Ac...",
-      "summary_en": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. Ac...",
       "score": 5
     }
   ]
