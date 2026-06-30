@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-06-30T04:21:03.877479+00:00",
+  "updatedAt": "2026-06-30T09:53:48.853699+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "b5ec53d600c1",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 30 Jun 2026 09:00:00 +0000",
+      "summary_vi": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents....",
+      "summary_en": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents....",
+      "score": 5
+    },
+    {
       "id": "e2142c8f1032",
       "title": "The AI jobs debate just got messier",
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
@@ -189,19 +202,6 @@
       "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000",
       "summary_vi": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival....",
       "summary_en": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival....",
-      "score": 5
-    },
-    {
-      "id": "cb6836702442",
-      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 29 Jun 2026 18:07:48 +0000",
-      "summary_vi": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country....",
-      "summary_en": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country....",
       "score": 5
     },
     {
