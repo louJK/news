@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-06-30T09:53:48.853699+00:00",
+  "updatedAt": "2026-06-30T14:35:13.217282+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,36 @@
   ],
   "items": [
     {
+      "id": "dfde6aac0449",
+      "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
+      "description": "From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0000",
+      "summary_vi": "From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026....",
+      "summary_en": "From October 10-16, host a Side Event and command the room during the week of TechCrunch Disrupt 2026....",
+      "score": 5
+    },
+    {
+      "id": "ce0e4d6477b9",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "description": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0000",
+      "summary_vi": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities....",
+      "summary_en": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities....",
+      "score": 5
+    },
+    {
       "id": "b5ec53d600c1",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
       "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "description": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "description": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -128,9 +154,9 @@
     },
     {
       "id": "0c981188ab6a",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "description": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "description": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -179,29 +205,16 @@
       "score": 5
     },
     {
-      "id": "adebee947411",
-      "title": "Waymo and Uber quietly part ways in Phoenix",
-      "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
-      "description": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 29 Jun 2026 18:45:12 +0000",
-      "summary_vi": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner....",
-      "summary_en": "Uber said it is readying the launch of a separate autonomous vehicle partnership in the city, but did not name the partner....",
-      "score": 5
-    },
-    {
-      "id": "a4fc79ea8f5a",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 29 Jun 2026 18:10:26 +0000",
-      "summary_vi": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival....",
-      "summary_en": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival....",
+      "id": "76712e6d8486",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "description": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "summary_vi": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying t...",
+      "summary_en": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying t...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000",
       "summary_vi": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottlene...",
       "summary_en": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottlene...",
-      "score": 5
-    },
-    {
-      "id": "a0c826c444f1",
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "description": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Tue, 16 Jun 2026 09:00:00 +0000",
-      "summary_vi": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collect...",
-      "summary_en": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collect...",
       "score": 5
     }
   ]
