@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T04:49:30.867044+00:00",
+  "updatedAt": "2026-07-01T10:02:13.759573+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -102,7 +102,7 @@
   "items": [
     {
       "id": "df664273bb94",
-      "title": "The “Father of the Internet” is finally retiring",
+      "title": "The ‘Father of the Internet’ is finally retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
       "source": "techcrunch",
@@ -117,7 +117,7 @@
       "id": "579fe9f94e4d",
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
       "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "description": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
