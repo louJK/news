@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T14:53:09.689146+00:00",
+  "updatedAt": "2026-07-01T17:23:02.705424+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "5833f14a6ac3",
+      "title": "Even Honda is pivoting to data centers",
+      "url": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+      "description": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 01 Jul 2026 17:13:45 +0000",
+      "summary_vi": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways....",
+      "summary_en": "Honda wants in on the lucrative energy storage market. This week it began producing batteries destined for data centers, not driveways....",
+      "score": 5
+    },
+    {
+      "id": "cace3177b75d",
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+      "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "description": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the talent wars and capital are heating up the same way they did the first time around. The money&#8217;s flowing back, and it&#8217;s the people who lived through that first [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 01 Jul 2026 16:48:58 +0000",
+      "summary_vi": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the ta...",
+      "summary_en": "The autonomous vehicle space is starting to feel like a repeat of the 2016 hype cycle. Travis Kalanick is back building a robotics company, and the ta...",
+      "score": 5
+    },
+    {
+      "id": "e420710263fa",
+      "title": "Lime raises $167M in IPO after years of teasing a public debut",
+      "url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
+      "description": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 01 Jul 2026 16:05:47 +0000",
+      "summary_vi": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities....",
+      "summary_en": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities....",
+      "score": 5
+    },
+    {
       "id": "01aa09519773",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -166,42 +205,16 @@
       "score": 5
     },
     {
-      "id": "df664273bb94",
-      "title": "The ‘Father of the Internet’ is finally retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "description": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 03:15:37 +0000",
-      "summary_vi": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....",
-      "summary_en": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....",
-      "score": 5
-    },
-    {
-      "id": "579fe9f94e4d",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "description": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 02:16:06 +0000",
-      "summary_vi": "Anthropic said it would begin restoring access to the Fable on July 1....",
-      "summary_en": "Anthropic said it would begin restoring access to the Fable on July 1....",
-      "score": 5
-    },
-    {
-      "id": "535fb062964a",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "description": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 02:04:40 +0000",
-      "summary_vi": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent....",
-      "summary_en": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent....",
+      "id": "b7a1a19f77c0",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "summary_vi": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g...",
+      "summary_en": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
       "summary_vi": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decke...",
       "summary_en": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decke...",
-      "score": 5
-    },
-    {
-      "id": "e5321e5c15e4",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Mon, 22 Jun 2026 18:00:00 +0000",
-      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of...",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of...",
       "score": 5
     }
   ]
