@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-02T19:44:57.486745+00:00",
+  "updatedAt": "2026-07-02T22:14:41.882757+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "81736f187fcb",
+      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+      "description": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 21:57:10 +0000",
+      "summary_vi": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing....",
+      "summary_en": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing....",
+      "score": 5
+    },
+    {
+      "id": "b15817faca23",
+      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+      "description": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 20:42:48 +0000",
+      "summary_vi": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion....",
+      "summary_en": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion....",
+      "score": 5
+    },
+    {
+      "id": "f4b450829600",
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000",
+      "summary_vi": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold....",
+      "summary_en": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold....",
+      "score": 5
+    },
+    {
       "id": "5e09c7f54623",
       "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
       "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
@@ -163,45 +202,6 @@
       "publishedAt": "Thu, 02 Jul 2026 17:30:04 +0000",
       "summary_vi": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test....",
       "summary_en": "A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test....",
-      "score": 5
-    },
-    {
-      "id": "5602b7ac8098",
-      "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II",
-      "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
-      "description": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 15:26:43 +0000",
-      "summary_vi": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures....",
-      "summary_en": "Early-stage firm Magnify Ventures has raised a $46.6 million Fund II from LPs, including Melinda French Gates’ Pivotal Ventures....",
-      "score": 5
-    },
-    {
-      "id": "638b856bf5e4",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "description": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
-      "summary_vi": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting th...",
-      "summary_en": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting th...",
-      "score": 5
-    },
-    {
-      "id": "9f0e96eaebd6",
-      "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
-      "url": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
-      "description": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 15:14:03 +0000",
-      "summary_vi": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products....",
-      "summary_en": "TV Time, the popular TV-tracking app, is shutting down on July 15 as parent company Whip Media pivots toward enterprise AI products....",
       "score": 5
     },
     {
