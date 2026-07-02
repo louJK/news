@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-02T09:25:40.427704+00:00",
+  "updatedAt": "2026-07-02T14:22:07.119661+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,62 @@
   ],
   "items": [
     {
+      "id": "86d262543960",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "description": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "summary_vi": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group....",
+      "summary_en": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group....",
+      "score": 5
+    },
+    {
+      "id": "f0b974cf3a58",
+      "title": "Tesla saw a massive sales jump in the second quarter",
+      "url": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
+      "description": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 13:20:15 +0000",
+      "summary_vi": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cyber...",
+      "summary_en": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cyber...",
+      "score": 5
+    },
+    {
+      "id": "4a60561ca8dc",
+      "title": "Rivian raises EV sales forecast as Q2 production ramps up",
+      "url": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
+      "description": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 12:30:00 +0000",
+      "summary_vi": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month....",
+      "summary_en": "The company now expects to ship a few thousand more vehicles by the end of 2026 than it previously expected, after launching its R2 SUV last month....",
+      "score": 5
+    },
+    {
+      "id": "cdac07352f7e",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 02 Jul 2026 12:00:00 +0000",
+      "summary_vi": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagr...",
+      "summary_en": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagr...",
+      "score": 5
+    },
+    {
       "id": "f23d1aa63f1a",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "description": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -153,55 +205,16 @@
       "score": 5
     },
     {
-      "id": "d4e5be8476b7",
-      "title": "WhatsApp usernames are already raising impersonation red flags",
-      "url": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
-      "description": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 22:02:24 +0000",
-      "summary_vi": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation....",
-      "summary_en": "Meta says usernames improve privacy, but critics question whether its safeguards can prevent impersonation....",
-      "score": 5
-    },
-    {
-      "id": "ac7611e55bea",
-      "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
-      "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
-      "description": "Research appears to reveal a bug that could render the feature effectively useless.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 19:18:07 +0000",
-      "summary_vi": "Research appears to reveal a bug that could render the feature effectively useless....",
-      "summary_en": "Research appears to reveal a bug that could render the feature effectively useless....",
-      "score": 5
-    },
-    {
-      "id": "cba85e1be003",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
-      "summary_vi": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless....",
-      "summary_en": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless....",
-      "score": 5
-    },
-    {
-      "id": "aeca795eedce",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 01 Jul 2026 18:47:22 +0000",
-      "summary_vi": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer...",
-      "summary_en": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer...",
+      "id": "76da70e4f32f",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "description": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 02 Jul 2026 12:51:44 +0000",
+      "summary_vi": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a...",
+      "summary_en": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Wed, 24 Jun 2026 11:59:54 +0000",
       "summary_vi": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, tho...",
       "summary_en": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, tho...",
-      "score": 5
-    },
-    {
-      "id": "3dba77af320d",
-      "title": "The $400 million machine powering the future of chipmaking",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "description": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Tue, 23 Jun 2026 09:00:00 +0000",
-      "summary_vi": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decke...",
-      "summary_en": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decke...",
       "score": 5
     }
   ]
