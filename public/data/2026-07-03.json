@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updatedAt": "2026-07-03T04:02:55.047039+00:00",
+  "updatedAt": "2026-07-03T09:29:42.951801+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "4c731e703923",
+      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
+      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
+      "description": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 03 Jul 2026 05:05:00 +0000",
+      "summary_vi": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on ...",
+      "summary_en": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on ...",
+      "score": 5
+    },
+    {
       "id": "77ac52eac655",
       "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
       "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 02 Jul 2026 19:14:46 +0000",
       "summary_vi": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges....",
       "summary_en": "AI has made it a lot harder for tech companies like Amazon and Google to deliver on their net-zero pledges....",
-      "score": 5
-    },
-    {
-      "id": "a37f0922b867",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "summary_vi": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts....",
-      "summary_en": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts....",
       "score": 5
     },
     {
