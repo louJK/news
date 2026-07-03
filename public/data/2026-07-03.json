@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updatedAt": "2026-07-03T19:40:23.520724+00:00",
+  "updatedAt": "2026-07-03T22:10:56.857241+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "eeb0f69b3cf9",
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "summary_vi": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
+      "summary_en": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
+      "score": 5
+    },
+    {
       "id": "f5e18ba468be",
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -117,7 +130,7 @@
       "id": "6a6abebc4fa2",
       "title": "The Dune keypad device can be your meeting controller and more",
       "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-      "description": "The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best.",
+      "description": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 02 Jul 2026 23:01:06 +0000",
       "summary_vi": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military....",
       "summary_en": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military....",
-      "score": 5
-    },
-    {
-      "id": "81736f187fcb",
-      "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "description": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 21:57:10 +0000",
-      "summary_vi": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing....",
-      "summary_en": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing....",
       "score": 5
     },
     {
