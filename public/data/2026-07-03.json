@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updatedAt": "2026-07-03T16:40:59.146120+00:00",
+  "updatedAt": "2026-07-03T19:40:23.520724+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,8 +101,34 @@
   ],
   "items": [
     {
+      "id": "f5e18ba468be",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 03 Jul 2026 18:43:00 +0000",
+      "summary_vi": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
+      "summary_en": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
+      "score": 5
+    },
+    {
+      "id": "6a6abebc4fa2",
+      "title": "The Dune keypad device can be your meeting controller and more",
+      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+      "description": "The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 03 Jul 2026 18:28:30 +0000",
+      "summary_vi": "The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best....",
+      "summary_en": "The $149 Dune keyboard can be a meeting controller at least and a script-executing keypad at best....",
+      "score": 5
+    },
+    {
       "id": "9e300c6f7bd3",
-      "title": "Chevy built an All-American EV truck. Why is nobody buying it?",
+      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
       "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
       "description": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Thu, 02 Jul 2026 21:57:10 +0000",
       "summary_vi": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing....",
       "summary_en": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing....",
-      "score": 5
-    },
-    {
-      "id": "b15817faca23",
-      "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-      "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-      "description": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 20:42:48 +0000",
-      "summary_vi": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion....",
-      "summary_en": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion....",
-      "score": 5
-    },
-    {
-      "id": "f4b450829600",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "description": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000",
-      "summary_vi": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold....",
-      "summary_en": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold....",
       "score": 5
     },
     {
