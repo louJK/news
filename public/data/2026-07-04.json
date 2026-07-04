@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-04T16:09:42.033319+00:00",
+  "updatedAt": "2026-07-04T19:25:03.840935+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "81db9c8e2dbc",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "summary_vi": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
+      "summary_en": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
+      "score": 5
+    },
+    {
+      "id": "ffdf2d6e4cd4",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000",
+      "summary_vi": "Alibaba has reportedly classified Claude Code as high-risk software....",
+      "summary_en": "Alibaba has reportedly classified Claude Code as high-risk software....",
+      "score": 5
+    },
+    {
       "id": "a00e4ef27862",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
       "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 03 Jul 2026 05:05:00 +0000",
       "summary_vi": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on ...",
       "summary_en": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on ...",
-      "score": 5
-    },
-    {
-      "id": "77ac52eac655",
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "description": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 03 Jul 2026 00:00:00 +0000",
-      "summary_vi": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity ...",
-      "summary_en": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity ...",
-      "score": 5
-    },
-    {
-      "id": "bbb33a2166fa",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000",
-      "summary_vi": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated....",
-      "summary_en": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated....",
       "score": 5
     },
     {
