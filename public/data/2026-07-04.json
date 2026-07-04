@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-04T13:48:46.965851+00:00",
+  "updatedAt": "2026-07-04T16:09:42.033319+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "a00e4ef27862",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "description": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
+      "summary_vi": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ...",
+      "summary_en": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ...",
+      "score": 5
+    },
+    {
       "id": "eeb0f69b3cf9",
       "title": "The only AI glossary you’ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000",
       "summary_vi": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated....",
       "summary_en": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated....",
-      "score": 5
-    },
-    {
-      "id": "f3c0e013d1d1",
-      "title": "Private space pilots are flying orbital missions for the US Space Force",
-      "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-      "description": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 02 Jul 2026 23:01:06 +0000",
-      "summary_vi": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military....",
-      "summary_en": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military....",
       "score": 5
     },
     {
