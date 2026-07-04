@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-04T19:25:03.840935+00:00",
+  "updatedAt": "2026-07-04T22:04:08.566621+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "4aeb7d2c2c24",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "summary_vi": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Go...",
+      "summary_en": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Go...",
+      "score": 5
+    },
+    {
       "id": "81db9c8e2dbc",
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 03 Jul 2026 16:30:00 +0000",
       "summary_vi": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better....",
       "summary_en": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better....",
-      "score": 5
-    },
-    {
-      "id": "4c731e703923",
-      "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-      "url": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
-      "description": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 03 Jul 2026 05:05:00 +0000",
-      "summary_vi": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on ...",
-      "summary_en": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on ...",
       "score": 5
     },
     {
