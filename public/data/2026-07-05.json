@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-05T09:15:22.914268+00:00",
+  "updatedAt": "2026-07-05T13:55:56.458112+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "5bc2038eeaa7",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 13:33:32 +0000",
+      "summary_vi": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "summary_en": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "score": 5
+    },
+    {
+      "id": "eb9d1942265e",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 12:47:39 +0000",
+      "summary_vi": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month....",
+      "summary_en": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month....",
+      "score": 5
+    },
+    {
       "id": "4aeb7d2c2c24",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 03 Jul 2026 18:43:00 +0000",
       "summary_vi": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
       "summary_en": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari....",
-      "score": 5
-    },
-    {
-      "id": "6a6abebc4fa2",
-      "title": "The Dune keypad device can be your meeting controller and more",
-      "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
-      "description": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 03 Jul 2026 18:28:30 +0000",
-      "summary_vi": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle...",
-      "summary_en": "The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle...",
-      "score": 5
-    },
-    {
-      "id": "9e300c6f7bd3",
-      "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-      "url": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
-      "description": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 03 Jul 2026 16:30:00 +0000",
-      "summary_vi": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better....",
-      "summary_en": "The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better....",
       "score": 5
     },
     {
