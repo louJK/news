@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-05T16:15:12.061832+00:00",
+  "updatedAt": "2026-07-05T19:34:42.372634+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "0600934a9010",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "description": "These may be the last days of Amazon’s Mechanical Turk.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 17:43:36 +0000",
+      "summary_vi": "These may be the last days of Amazon’s Mechanical Turk....",
+      "summary_en": "These may be the last days of Amazon’s Mechanical Turk....",
+      "score": 5
+    },
+    {
       "id": "7c17b3699d23",
       "title": "5 desk gadgets that can make your workday better",
       "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
       "summary_vi": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ...",
       "summary_en": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI ...",
-      "score": 5
-    },
-    {
-      "id": "eeb0f69b3cf9",
-      "title": "The only AI glossary you’ll need this year",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
-      "summary_vi": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
-      "summary_en": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo...",
       "score": 5
     },
     {
