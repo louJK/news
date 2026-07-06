@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-06",
+  "updatedAt": "2026-07-06T04:21:08.391235+00:00",
+  "totalItems": 16,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "5afb9f65c842",
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "url": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "description": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 21:35:17 +0000",
+      "summary_vi": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on ho...",
+      "summary_en": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on ho...",
+      "score": 5
+    },
+    {
+      "id": "45795ceb4809",
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "url": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "description": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 20:29:05 +0000",
+      "summary_vi": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million....",
+      "summary_en": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million....",
+      "score": 5
+    },
+    {
+      "id": "0600934a9010",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "description": "These may be the last days of Amazon’s Mechanical Turk.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 17:43:36 +0000",
+      "summary_vi": "These may be the last days of Amazon’s Mechanical Turk....",
+      "summary_en": "These may be the last days of Amazon’s Mechanical Turk....",
+      "score": 5
+    },
+    {
+      "id": "7c17b3699d23",
+      "title": "5 desk gadgets that can make your workday better",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "description": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 15:00:00 +0000",
+      "summary_vi": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day....",
+      "summary_en": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day....",
+      "score": 5
+    },
+    {
+      "id": "5bc2038eeaa7",
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 13:33:32 +0000",
+      "summary_vi": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "summary_en": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people....",
+      "score": 5
+    },
+    {
+      "id": "eb9d1942265e",
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 05 Jul 2026 12:47:39 +0000",
+      "summary_vi": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month....",
+      "summary_en": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month....",
+      "score": 5
+    },
+    {
+      "id": "4aeb7d2c2c24",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "summary_vi": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Go...",
+      "summary_en": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Go...",
+      "score": 5
+    },
+    {
+      "id": "81db9c8e2dbc",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
+      "summary_vi": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
+      "summary_en": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves....",
+      "score": 5
+    },
+    {
+      "id": "47a875ddb175",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "description": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
+      "summary_vi": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way...",
+      "summary_en": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way...",
+      "score": 5
+    },
+    {
+      "id": "76da70e4f32f",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "description": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 02 Jul 2026 12:51:44 +0000",
+      "summary_vi": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a...",
+      "summary_en": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a...",
+      "score": 5
+    },
+    {
+      "id": "b7a1a19f77c0",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "description": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 01 Jul 2026 14:35:16 +0000",
+      "summary_vi": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g...",
+      "summary_en": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to g...",
+      "score": 5
+    },
+    {
+      "id": "78c501247f18",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "description": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 30 Jun 2026 21:50:04 +0000",
+      "summary_vi": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product inten...",
+      "summary_en": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product inten...",
+      "score": 5
+    },
+    {
+      "id": "76712e6d8486",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "description": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "summary_vi": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying t...",
+      "summary_en": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying t...",
+      "score": 5
+    },
+    {
+      "id": "70b9fae892c6",
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 29 Jun 2026 18:00:00 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine comi...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine comi...",
+      "score": 5
+    },
+    {
+      "id": "90763c99a9ca",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "description": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 29 Jun 2026 14:44:01 +0000",
+      "summary_vi": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic busin...",
+      "summary_en": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic busin...",
+      "score": 5
+    },
+    {
+      "id": "21b4b9b70216",
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "description": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 25 Jun 2026 14:22:59 +0000",
+      "summary_vi": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be fla...",
+      "summary_en": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be fla...",
+      "score": 5
+    }
+  ]
+}
