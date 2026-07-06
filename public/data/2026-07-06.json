@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "updatedAt": "2026-07-06T20:11:00.564879+00:00",
+  "updatedAt": "2026-07-06T22:18:55.167775+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -156,7 +156,7 @@
       "id": "88a9e7b84587",
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "description": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
