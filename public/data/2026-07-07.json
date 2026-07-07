@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-07T04:11:12.941772+00:00",
+  "updatedAt": "2026-07-07T09:54:33.331276+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "a88205ef5d4e",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "description": "Forterra has deployed more than 100",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "summary_vi": "Forterra has deployed more than 100...",
+      "summary_en": "Forterra has deployed more than 100...",
+      "score": 5
+    },
+    {
       "id": "4df617c27620",
       "title": "Netflix invented binge-watching. Now it may have outgrown it.",
       "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
@@ -189,19 +202,6 @@
       "publishedAt": "Mon, 06 Jul 2026 18:12:01 +0000",
       "summary_vi": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms and is working on integration...",
       "summary_en": "Bookship.org seemed to delay this anticipated partnership again, but tells TechCrunch that it has settled business terms and is working on integration...",
-      "score": 5
-    },
-    {
-      "id": "88a9e7b84587",
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "description": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 06 Jul 2026 17:04:58 +0000",
-      "summary_vi": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as ...",
-      "summary_en": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as ...",
       "score": 5
     },
     {
