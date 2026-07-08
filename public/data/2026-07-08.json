@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": "2026-07-08T03:37:25.668697+00:00",
+  "updatedAt": "2026-07-08T08:39:44.924879+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "03bb7eb85c2e",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "description": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 08 Jul 2026 08:00:00 +0000",
+      "summary_vi": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly....",
+      "summary_en": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly....",
+      "score": 5
+    },
+    {
+      "id": "7e6b7a6e47de",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "description": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 08 Jul 2026 07:16:00 +0000",
+      "summary_vi": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion....",
+      "summary_en": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion....",
+      "score": 5
+    },
+    {
       "id": "8f331cf68067",
       "title": "Final extension: Startup Battlefield Australia applications now close July 20",
       "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
@@ -117,7 +143,7 @@
       "id": "43c24424eacf",
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "description": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+      "description": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Tue, 07 Jul 2026 18:38:29 +0000",
       "summary_vi": "Google's upcoming event in August will introduce new Pixel devices....",
       "summary_en": "Google's upcoming event in August will introduce new Pixel devices....",
-      "score": 5
-    },
-    {
-      "id": "580732949645",
-      "title": "Figma acquires team behind a vibe-coding app",
-      "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
-      "description": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 07 Jul 2026 18:37:01 +0000",
-      "summary_vi": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product....",
-      "summary_en": "The Y Combinator-backed company started a vibe-coding platform and later built an agent-creation product....",
-      "score": 5
-    },
-    {
-      "id": "7051a46ada24",
-      "title": "Netflix dabbles in shorter video content with its new set of publisher deals with Variety, others",
-      "url": "https://techcrunch.com/2026/07/07/netflix-dabbles-in-shorter-video-content-with-its-new-set-of-publisher-deals-with-variety-others/",
-      "description": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 07 Jul 2026 17:24:35 +0000",
-      "summary_vi": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety....",
-      "summary_en": "Netflix is bringing 2- to 20-minute videos to its platform through new partnerships with digital publishers, including Rolling Stone and Variety....",
       "score": 5
     },
     {
