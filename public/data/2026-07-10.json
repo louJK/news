@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T19:44:19.082912+00:00",
+  "updatedAt": "2026-07-10T22:11:49.724305+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "b040d389ac98",
+      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+      "description": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 21:51:55 +0000",
+      "summary_vi": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media plat...",
+      "summary_en": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media plat...",
+      "score": 5
+    },
+    {
+      "id": "80b272bb4140",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "summary_vi": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee....",
+      "summary_en": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee....",
+      "score": 5
+    },
+    {
       "id": "f902d1dbd812",
       "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
       "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 10 Jul 2026 16:06:49 +0000",
       "summary_vi": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2...",
       "summary_en": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2...",
-      "score": 5
-    },
-    {
-      "id": "aeecef85adcb",
-      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-      "description": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 15:00:09 +0000",
-      "summary_vi": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures....",
-      "summary_en": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures....",
-      "score": 5
-    },
-    {
-      "id": "226ed9407aaa",
-      "title": "Netflix could be planning ‘always-on’ live TV channels",
-      "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
-      "description": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 14:53:08 +0000",
-      "summary_vi": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/...",
-      "summary_en": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/...",
       "score": 5
     },
     {
