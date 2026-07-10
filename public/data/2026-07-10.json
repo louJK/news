@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T09:48:01.130231+00:00",
+  "updatedAt": "2026-07-10T14:44:11.719898+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "b2d0e9691941",
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 14:19:40 +0000",
+      "summary_vi": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly per...",
+      "summary_en": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly per...",
+      "score": 5
+    },
+    {
+      "id": "659e379844f7",
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 14:11:03 +0000",
+      "summary_vi": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers....",
+      "summary_en": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers....",
+      "score": 5
+    },
+    {
       "id": "945506d183f7",
       "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
       "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
@@ -130,7 +156,7 @@
       "id": "e692b64b9cb3",
       "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
       "url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-      "description": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+      "description": "The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -141,7 +167,7 @@
     },
     {
       "id": "ee3f32770183",
-      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "description": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Thu, 09 Jul 2026 22:08:58 +0000",
       "summary_vi": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actual...",
       "summary_en": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actual...",
-      "score": 5
-    },
-    {
-      "id": "3579a3be1f32",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "summary_vi": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome ext...",
-      "summary_en": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome ext...",
-      "score": 5
-    },
-    {
-      "id": "7a9493a91071",
-      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-      "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 09 Jul 2026 21:57:42 +0000",
-      "summary_vi": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can....",
-      "summary_en": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can....",
       "score": 5
     },
     {
