@@ -1,6 +1,6 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T17:05:22.007479+00:00",
+  "updatedAt": "2026-07-10T19:44:19.082912+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "f902d1dbd812",
+      "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+      "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+      "description": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 17:42:36 +0000",
+      "summary_vi": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising mee...",
+      "summary_en": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising mee...",
+      "score": 5
+    },
+    {
+      "id": "2e6f798b14e7",
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
+      "summary_vi": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
+      "summary_en": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
+      "score": 5
+    },
+    {
+      "id": "3e7690b67f0e",
+      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+      "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 10 Jul 2026 17:11:51 +0000",
+      "summary_vi": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable f...",
+      "summary_en": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable f...",
+      "score": 5
+    },
+    {
       "id": "95fe05534d0a",
       "title": "China is catching up to Elon Musk’s reusable rockets",
       "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 10 Jul 2026 14:53:08 +0000",
       "summary_vi": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/...",
       "summary_en": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/...",
-      "score": 5
-    },
-    {
-      "id": "b2d0e9691941",
-      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
-      "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
-      "description": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 14:19:40 +0000",
-      "summary_vi": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly per...",
-      "summary_en": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly per...",
-      "score": 5
-    },
-    {
-      "id": "659e379844f7",
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
-      "description": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 14:11:03 +0000",
-      "summary_vi": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers....",
-      "summary_en": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers....",
-      "score": 5
-    },
-    {
-      "id": "945506d183f7",
-      "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-      "url": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-      "description": "Vivo's joint venture could become a template for Chinese smartphone makers in India.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 04:36:20 +0000",
-      "summary_vi": "Vivo's joint venture could become a template for Chinese smartphone makers in India....",
-      "summary_en": "Vivo's joint venture could become a template for Chinese smartphone makers in India....",
       "score": 5
     },
     {
