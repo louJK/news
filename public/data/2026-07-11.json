@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "updatedAt": "2026-07-11T13:41:23.298888+00:00",
+  "updatedAt": "2026-07-11T16:01:11.578121+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "b9b468358fa6",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "description": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "summary_vi": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....",
+      "summary_en": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....",
+      "score": 5
+    },
+    {
       "id": "62b0eb139c5e",
       "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
       "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
       "summary_vi": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
       "summary_en": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
-      "score": 5
-    },
-    {
-      "id": "3e7690b67f0e",
-      "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
-      "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
-      "description": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 17:11:51 +0000",
-      "summary_vi": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable f...",
-      "summary_en": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable f...",
       "score": 5
     },
     {
