@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "updatedAt": "2026-07-11T16:01:11.578121+00:00",
+  "updatedAt": "2026-07-11T19:14:18.086923+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "07a128016180",
+      "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+      "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+      "description": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 11 Jul 2026 17:30:00 +0000",
+      "summary_vi": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are...",
+      "summary_en": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are...",
+      "score": 5
+    },
+    {
       "id": "b9b468358fa6",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 10 Jul 2026 17:42:36 +0000",
       "summary_vi": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising mee...",
       "summary_en": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising mee...",
-      "score": 5
-    },
-    {
-      "id": "2e6f798b14e7",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "description": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
-      "summary_vi": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
-      "summary_en": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
       "score": 5
     },
     {
