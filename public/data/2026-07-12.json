@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-12T16:03:32.516002+00:00",
+  "updatedAt": "2026-07-12T19:14:55.687861+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "d28529a52146",
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 12 Jul 2026 16:07:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "score": 5
+    },
+    {
       "id": "9b313e7582e2",
       "title": "Reed Jobs would rather talk about curing cancer than his last name",
       "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 10 Jul 2026 23:55:07 +0000",
       "summary_vi": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the c...",
       "summary_en": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the c...",
-      "score": 5
-    },
-    {
-      "id": "b040d389ac98",
-      "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
-      "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
-      "description": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 10 Jul 2026 21:51:55 +0000",
-      "summary_vi": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media plat...",
-      "summary_en": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media plat...",
       "score": 5
     },
     {
