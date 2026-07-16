@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": "2026-07-16T11:06:30.327139+00:00",
+  "updatedAt": "2026-07-16T14:09:54.545657+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "92bf3c7f3d86",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "description": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 16 Jul 2026 13:17:59 +0000",
+      "summary_vi": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market....",
+      "summary_en": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market....",
+      "score": 5
+    },
+    {
+      "id": "46a1768f8837",
+      "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "description": "Aina is going to pilot a new device in the coming weeks.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 16 Jul 2026 11:30:00 +0000",
+      "summary_vi": "Aina is going to pilot a new device in the coming weeks....",
+      "summary_en": "Aina is going to pilot a new device in the coming weeks....",
+      "score": 5
+    },
+    {
       "id": "4db0a0c0adc9",
       "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
       "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
@@ -115,7 +141,7 @@
     },
     {
       "id": "317b5a770d74",
-      "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe",
+      "title": "Phone maker OnePlus says it won’t release new phones in the US and Europe",
       "url": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
       "description": "OnePlus could also wind down its operations in India by 2027.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Wed, 15 Jul 2026 23:59:44 +0000",
       "summary_vi": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models....",
       "summary_en": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models....",
-      "score": 5
-    },
-    {
-      "id": "5193bf0255e8",
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-      "description": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 15 Jul 2026 20:22:52 +0000",
-      "summary_vi": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month....",
-      "summary_en": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month....",
-      "score": 5
-    },
-    {
-      "id": "eb8b516ebd9b",
-      "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
-      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
-      "description": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 15 Jul 2026 19:46:54 +0000",
-      "summary_vi": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health....",
-      "summary_en": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health....",
       "score": 5
     },
     {
