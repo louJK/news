@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": "2026-07-16T03:27:48.442964+00:00",
+  "updatedAt": "2026-07-16T08:25:39.272772+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "494509926a94",
+      "title": "Lululemon backs nylon-recycling startup Syntetica in $30M Series A",
+      "url": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+      "description": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "summary_vi": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors....",
+      "summary_en": "Syntetica, a French startup that has developed a novel approach to recycling nylon, has already obtained big-name partners and investors....",
+      "score": 5
+    },
+    {
+      "id": "3442e88d0150",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "description": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "summary_vi": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry....",
+      "summary_en": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry....",
+      "score": 5
+    },
+    {
       "id": "be3f43deba61",
       "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
       "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
@@ -176,32 +202,6 @@
       "publishedAt": "Wed, 15 Jul 2026 18:47:01 +0000",
       "summary_vi": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite....",
       "summary_en": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite....",
-      "score": 5
-    },
-    {
-      "id": "f35c64073c7a",
-      "title": "Apple bans home services from its upcoming Maps ads",
-      "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
-      "description": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with several other sensitive categories, suggesting Apple is taking a more curated approach to these ads.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 15 Jul 2026 18:21:22 +0000",
-      "summary_vi": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules proh...",
-      "summary_en": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules proh...",
-      "score": 5
-    },
-    {
-      "id": "d1802f967e8d",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "summary_vi": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and a...",
-      "summary_en": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and a...",
       "score": 5
     },
     {
