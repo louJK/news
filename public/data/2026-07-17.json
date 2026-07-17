@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": "2026-07-17T16:24:34.470413+00:00",
+  "updatedAt": "2026-07-17T19:21:09.565273+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "d6528d067479",
+      "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+      "url": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+      "description": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 17 Jul 2026 18:00:17 +0000",
+      "summary_vi": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design....",
+      "summary_en": "Designed for year-round comfort, the Dyson Hot+Cool HF1 combines quiet operation and simple controls with Dyson's signature bladeless design....",
+      "score": 5
+    },
+    {
+      "id": "0a1bc8bb93d4",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "summary_vi": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa...",
+      "summary_en": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pa...",
+      "score": 5
+    },
+    {
       "id": "445229ccfc43",
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
       "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 17 Jul 2026 14:30:00 +0000",
       "summary_vi": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding eve...",
       "summary_en": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding eve...",
-      "score": 5
-    },
-    {
-      "id": "df29967963cd",
-      "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-      "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "description": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 14:12:02 +0000",
-      "summary_vi": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders....",
-      "summary_en": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders....",
-      "score": 5
-    },
-    {
-      "id": "96ead98cb525",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "summary_vi": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
-      "summary_en": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
       "score": 5
     },
     {
