@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": "2026-07-17T10:53:17.388489+00:00",
+  "updatedAt": "2026-07-17T13:53:26.453427+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "96ead98cb525",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "summary_vi": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
+      "summary_en": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
+      "score": 5
+    },
+    {
       "id": "074ddc1cf8e8",
       "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
       "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 16 Jul 2026 17:37:03 +0000",
       "summary_vi": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns....",
       "summary_en": "BP Ventures is shutting down, ending a nearly 20-year run that was marked by reportedly lackluster returns....",
-      "score": 5
-    },
-    {
-      "id": "8bea902bbcd2",
-      "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-      "url": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-      "description": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of the world’s largest food-delivery platforms outside China.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 16 Jul 2026 17:12:00 +0000",
-      "summary_vi": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of t...",
-      "summary_en": "Uber has agreed to acquire Delivery Hero in a $14.8 billion all-stock deal that would nearly double the company’s global footprint and create one of t...",
       "score": 5
     },
     {
