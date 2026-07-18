@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T16:02:49.889707+00:00",
+  "updatedAt": "2026-07-18T19:14:13.657550+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "ee7e2eccd745",
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
+      "summary_vi": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
+      "summary_en": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
+      "score": 5
+    },
+    {
+      "id": "58ccde32528b",
+      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
+      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
+      "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 18 Jul 2026 16:30:00 +0000",
+      "summary_vi": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year....",
+      "summary_en": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year....",
+      "score": 5
+    },
+    {
       "id": "94e50275ee85",
       "title": "Federal employees can download TikTok on their work phones again",
       "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 17 Jul 2026 22:12:56 +0000",
       "summary_vi": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding....",
       "summary_en": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding....",
-      "score": 5
-    },
-    {
-      "id": "b590373eb591",
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 21:20:47 +0000",
-      "summary_vi": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?...",
-      "summary_en": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?...",
-      "score": 5
-    },
-    {
-      "id": "5814ee1085b0",
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "summary_vi": "Agility is opening a new training center for its Digit robots in Fremont, California....",
-      "summary_en": "Agility is opening a new training center for its Digit robots in Fremont, California....",
       "score": 5
     },
     {
