@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T03:20:30.455723+00:00",
+  "updatedAt": "2026-07-18T08:02:52.726092+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "5d2b0c79af65",
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
+      "summary_vi": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi...",
+      "summary_en": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi...",
+      "score": 5
+    },
+    {
       "id": "ab8715cdc914",
       "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
       "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 17 Jul 2026 19:49:53 +0000",
       "summary_vi": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps i...",
       "summary_en": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps i...",
-      "score": 5
-    },
-    {
-      "id": "0f52f75a7e2f",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "description": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 19:22:00 +0000",
-      "summary_vi": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices....",
-      "summary_en": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices....",
       "score": 5
     },
     {
