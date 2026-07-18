@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T13:36:29.003075+00:00",
+  "updatedAt": "2026-07-18T16:02:49.889707+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "94e50275ee85",
+      "title": "Federal employees can download TikTok on their work phones again",
+      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+      "description": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 18 Jul 2026 15:54:24 +0000",
+      "summary_vi": "The Department of Justice says that federal employees can now download TikTok on their government devices....",
+      "summary_en": "The Department of Justice says that federal employees can now download TikTok on their government devices....",
+      "score": 5
+    },
+    {
+      "id": "84617263c334",
+      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+      "description": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 18 Jul 2026 14:32:00 +0000",
+      "summary_vi": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S....",
+      "summary_en": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S....",
+      "score": 5
+    },
+    {
       "id": "5d2b0c79af65",
       "title": "Neil Rimer thinks the AI money is coming back out",
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 17 Jul 2026 20:19:49 +0000",
       "summary_vi": "Agility is opening a new training center for its Digit robots in Fremont, California....",
       "summary_en": "Agility is opening a new training center for its Digit robots in Fremont, California....",
-      "score": 5
-    },
-    {
-      "id": "0184cf98041b",
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 20:09:27 +0000",
-      "summary_vi": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy....",
-      "summary_en": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy....",
-      "score": 5
-    },
-    {
-      "id": "1ad694b18fb5",
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 19:49:53 +0000",
-      "summary_vi": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps i...",
-      "summary_en": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps i...",
       "score": 5
     },
     {
