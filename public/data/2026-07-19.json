@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T19:15:27.826684+00:00",
+  "updatedAt": "2026-07-19T22:00:26.258918+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "e44301e6775a",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "description": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 19 Jul 2026 21:45:00 +0000",
+      "summary_vi": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck....",
+      "summary_en": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck....",
+      "score": 5
+    },
+    {
+      "id": "3a06d71f5b9e",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "summary_vi": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem....",
+      "summary_en": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem....",
+      "score": 5
+    },
+    {
+      "id": "87a2e11003ab",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "summary_vi": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public....",
+      "summary_en": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public....",
+      "score": 5
+    },
+    {
       "id": "83117c4b0bdd",
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
       "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
       "summary_vi": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
       "summary_en": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
-      "score": 5
-    },
-    {
-      "id": "58ccde32528b",
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 18 Jul 2026 16:30:00 +0000",
-      "summary_vi": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year....",
-      "summary_en": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year....",
-      "score": 5
-    },
-    {
-      "id": "94e50275ee85",
-      "title": "Federal employees can download TikTok on their work phones again",
-      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "description": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 18 Jul 2026 15:54:24 +0000",
-      "summary_vi": "The Department of Justice says that federal employees can now download TikTok on their government devices....",
-      "summary_en": "The Department of Justice says that federal employees can now download TikTok on their government devices....",
-      "score": 5
-    },
-    {
-      "id": "84617263c334",
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "url": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-      "description": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 18 Jul 2026 14:32:00 +0000",
-      "summary_vi": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S....",
-      "summary_en": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S....",
       "score": 5
     },
     {
