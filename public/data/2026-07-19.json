@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T16:02:48.391638+00:00",
+  "updatedAt": "2026-07-19T19:15:27.826684+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "83117c4b0bdd",
+      "title": "TechCrunch Mobility: The battle over robotaxi rules",
+      "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 19 Jul 2026 16:05:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part....",
+      "score": 5
+    },
+    {
       "id": "f94394e35d70",
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 18 Jul 2026 14:32:00 +0000",
       "summary_vi": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S....",
       "summary_en": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S....",
-      "score": 5
-    },
-    {
-      "id": "5d2b0c79af65",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
-      "summary_vi": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi...",
-      "summary_en": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi...",
       "score": 5
     },
     {
