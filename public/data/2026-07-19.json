@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T13:38:27.396572+00:00",
+  "updatedAt": "2026-07-19T16:02:48.391638+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "f94394e35d70",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "description": "\"Everybody knows the Greeks are inside.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "summary_vi": "\"Everybody knows the Greeks are inside.\"...",
+      "summary_en": "\"Everybody knows the Greeks are inside.\"...",
+      "score": 5
+    },
+    {
+      "id": "cc5e7a064593",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000",
+      "summary_vi": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more....",
+      "summary_en": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more....",
+      "score": 5
+    },
+    {
       "id": "5e4afddfaae3",
       "title": "Waymo says San Francisco service has resumed after one-hour pause",
       "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 18 Jul 2026 04:47:25 +0000",
       "summary_vi": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi...",
       "summary_en": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redi...",
-      "score": 5
-    },
-    {
-      "id": "ab8715cdc914",
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "description": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world&#8217;s most [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 23:08:00 +0000",
-      "summary_vi": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Austral...",
-      "summary_en": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Austral...",
-      "score": 5
-    },
-    {
-      "id": "2d9cc2c8c02b",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "summary_vi": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day....",
-      "summary_en": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day....",
       "score": 5
     },
     {
