@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T19:52:50.743953+00:00",
+  "updatedAt": "2026-07-20T22:07:10.754067+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "20d9bcdf5693",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 21:21:15 +0000",
+      "summary_vi": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently....",
+      "summary_en": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently....",
+      "score": 5
+    },
+    {
+      "id": "9afbcd831bf6",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 20:50:40 +0000",
+      "summary_vi": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sou...",
+      "summary_en": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sou...",
+      "score": 5
+    },
+    {
       "id": "180974706d82",
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -176,32 +202,6 @@
       "publishedAt": "Mon, 20 Jul 2026 15:35:37 +0000",
       "summary_vi": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an e...",
       "summary_en": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an e...",
-      "score": 5
-    },
-    {
-      "id": "48ec45dfbbf6",
-      "title": "YouTube clarifies policies around AI slop and upsetting videos",
-      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-      "description": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 15:23:06 +0000",
-      "summary_vi": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue....",
-      "summary_en": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue....",
-      "score": 5
-    },
-    {
-      "id": "b2509b10b3d8",
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "description": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 15:15:00 +0000",
-      "summary_vi": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principa...",
-      "summary_en": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principa...",
       "score": 5
     },
     {
