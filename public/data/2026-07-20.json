@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T16:39:49.630606+00:00",
+  "updatedAt": "2026-07-20T19:52:50.743953+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,62 @@
   ],
   "items": [
     {
+      "id": "180974706d82",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "summary_vi": "X says the rebuilt version of its Android app is now available globally....",
+      "summary_en": "X says the rebuilt version of its Android app is now available globally....",
+      "score": 5
+    },
+    {
+      "id": "7eab661b9a59",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "summary_vi": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business....",
+      "summary_en": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business....",
+      "score": 5
+    },
+    {
+      "id": "3b423b75db7d",
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "description": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 19:11:25 +0000",
+      "summary_vi": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions....",
+      "summary_en": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions....",
+      "score": 5
+    },
+    {
+      "id": "2e8126135819",
+      "title": "Judge pauses $110B Paramount-Warner Bros. merger",
+      "url": "https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/",
+      "description": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 17:58:50 +0000",
+      "summary_vi": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences....",
+      "summary_en": "The lawsuit from the states alleges that the deal would harm movie theaters, basic cable distributors, and audiences....",
+      "score": 5
+    },
+    {
       "id": "af832c75a2ac",
       "title": "Adobe camera app’s new feature will critique your photos using AI",
       "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
+      "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -153,55 +205,16 @@
       "score": 5
     },
     {
-      "id": "a328830611e1",
-      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-      "description": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 15:01:20 +0000",
-      "summary_vi": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, p...",
-      "summary_en": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, p...",
-      "score": 5
-    },
-    {
-      "id": "7216c8fa0439",
-      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
-      "description": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 14:30:00 +0000",
-      "summary_vi": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing F...",
-      "summary_en": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing F...",
-      "score": 5
-    },
-    {
-      "id": "03756c5e0b25",
-      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-      "description": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 12:39:28 +0000",
-      "summary_vi": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity....",
-      "summary_en": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity....",
-      "score": 5
-    },
-    {
-      "id": "574925d1d1eb",
-      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
-      "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-      "description": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 12:30:00 +0000",
-      "summary_vi": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps eve...",
-      "summary_en": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps eve...",
+      "id": "61d13d198506",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 20 Jul 2026 18:00:00 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over th...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over th...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 06 Jul 2026 18:00:00 +0000",
       "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI ...",
       "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI ...",
-      "score": 5
-    },
-    {
-      "id": "47a875ddb175",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "description": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
-      "summary_vi": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way...",
-      "summary_en": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way...",
       "score": 5
     }
   ]
