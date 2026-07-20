@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T03:54:47.835516+00:00",
+  "updatedAt": "2026-07-20T09:27:53.967706+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -205,6 +205,19 @@
       "score": 5
     },
     {
+      "id": "d213c30d2534",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "description": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 20 Jul 2026 08:39:01 +0000",
+      "summary_vi": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you f...",
+      "summary_en": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you f...",
+      "score": 5
+    },
+    {
       "id": "5777494d3bc5",
       "title": "The risk of weather data sabotage is rising",
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
@@ -293,19 +306,6 @@
       "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
       "summary_vi": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way...",
       "summary_en": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way...",
-      "score": 5
-    },
-    {
-      "id": "9d9559f96015",
-      "title": "Building the foundation for an autonomous enterprise",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-      "description": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 02 Jul 2026 12:51:44 +0000",
-      "summary_vi": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a...",
-      "summary_en": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a...",
       "score": 5
     }
   ]
