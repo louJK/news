@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T09:27:53.967706+00:00",
+  "updatedAt": "2026-07-20T14:23:09.317795+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "03756c5e0b25",
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "description": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 12:39:28 +0000",
+      "summary_vi": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity....",
+      "summary_en": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity....",
+      "score": 5
+    },
+    {
+      "id": "574925d1d1eb",
+      "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
+      "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+      "description": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 20 Jul 2026 12:30:00 +0000",
+      "summary_vi": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps eve...",
+      "summary_en": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps eve...",
+      "score": 5
+    },
+    {
       "id": "e44301e6775a",
       "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
       "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
@@ -130,7 +156,7 @@
       "id": "87a2e11003ab",
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -169,39 +195,13 @@
       "id": "cc5e7a064593",
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+      "description": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
       "publishedAt": "Sun, 19 Jul 2026 14:00:00 +0000",
       "summary_vi": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more....",
       "summary_en": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more....",
-      "score": 5
-    },
-    {
-      "id": "5e4afddfaae3",
-      "title": "Waymo says San Francisco service has resumed after one-hour pause",
-      "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-      "description": "This isn’t the first time power outages have caused issues for Waymo.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 18 Jul 2026 19:30:23 +0000",
-      "summary_vi": "This isn’t the first time power outages have caused issues for Waymo....",
-      "summary_en": "This isn’t the first time power outages have caused issues for Waymo....",
-      "score": 5
-    },
-    {
-      "id": "ee7e2eccd745",
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 18 Jul 2026 18:51:07 +0000",
-      "summary_vi": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
-      "summary_en": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"...",
       "score": 5
     },
     {
