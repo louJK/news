@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T08:38:25.133998+00:00",
+  "updatedAt": "2026-07-21T11:13:41.157894+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "5b7c7b34706f",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "description": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 21 Jul 2026 10:00:00 +0000",
+      "summary_vi": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites....",
+      "summary_en": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites....",
+      "score": 5
+    },
+    {
       "id": "683e474adcf4",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
@@ -192,16 +205,16 @@
       "score": 5
     },
     {
-      "id": "3b423b75db7d",
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "description": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 20 Jul 2026 19:11:25 +0000",
-      "summary_vi": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions....",
-      "summary_en": "The one-year-old startup aims to reinvent financial architecture for autonomous AI transactions....",
+      "id": "6d5a86555da5",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 21 Jul 2026 10:37:34 +0000",
+      "summary_vi": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale dat...",
+      "summary_en": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale dat...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Tue, 07 Jul 2026 11:10:52 +0000",
       "summary_vi": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to...",
       "summary_en": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to...",
-      "score": 5
-    },
-    {
-      "id": "e930f63d2b61",
-      "title": "Your family’s $300 stake in OpenAI",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Mon, 06 Jul 2026 18:00:00 +0000",
-      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI ...",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI ...",
       "score": 5
     }
   ]
