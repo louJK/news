@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T19:44:52.942365+00:00",
+  "updatedAt": "2026-07-21T22:09:36.441087+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "de236485122f",
+      "title": "These are the countries moving to ban social media for children",
+      "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 21 Jul 2026 20:57:35 +0000",
+      "summary_vi": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, inclu...",
+      "summary_en": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, inclu...",
+      "score": 5
+    },
+    {
+      "id": "f122a38e6a99",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 21 Jul 2026 20:56:55 +0000",
+      "summary_vi": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry....",
+      "summary_en": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry....",
+      "score": 5
+    },
+    {
+      "id": "d77aa8a5fe08",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 21 Jul 2026 19:43:41 +0000",
+      "summary_vi": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation....",
+      "summary_en": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation....",
+      "score": 5
+    },
+    {
       "id": "0919b4f551ff",
       "title": "AI and the rise of the universal entertainment app",
       "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
@@ -163,45 +202,6 @@
       "publishedAt": "Tue, 21 Jul 2026 18:06:38 +0000",
       "summary_vi": "New data centers built through 2033 could consume as much electricity as India uses today....",
       "summary_en": "New data centers built through 2033 could consume as much electricity as India uses today....",
-      "score": 5
-    },
-    {
-      "id": "66d5c8985959",
-      "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-      "url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-      "description": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 21 Jul 2026 18:05:10 +0000",
-      "summary_vi": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised....",
-      "summary_en": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised....",
-      "score": 5
-    },
-    {
-      "id": "c096964be54d",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 21 Jul 2026 17:11:50 +0000",
-      "summary_vi": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI str...",
-      "summary_en": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI str...",
-      "score": 5
-    },
-    {
-      "id": "a189a2081c21",
-      "title": "Instagram now lets you swap out the music in your old posts",
-      "url": "https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/",
-      "description": "With the new \"Replace Audio\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, and reach intact.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 21 Jul 2026 16:15:00 +0000",
-      "summary_vi": "With the new \"Replace Audio,\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, an...",
-      "summary_en": "With the new \"Replace Audio,\" tool, users can update the music on their post at any time while keeping the post's existing likes, comments, shares, an...",
       "score": 5
     },
     {
