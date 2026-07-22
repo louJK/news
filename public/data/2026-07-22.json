@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-22T14:12:59.954640+00:00",
+  "updatedAt": "2026-07-22T16:26:49.992409+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "22ff93960bae",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "description": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 22 Jul 2026 16:24:08 +0000",
+      "summary_vi": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch....",
+      "summary_en": "As Chinese AI models grow in capability and popularity among US companies, the arguing over what should be done about them has reached a fever pitch....",
+      "score": 5
+    },
+    {
+      "id": "e02f160f3905",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 22 Jul 2026 16:23:09 +0000",
+      "summary_vi": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assis...",
+      "summary_en": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assis...",
+      "score": 5
+    },
+    {
+      "id": "031142badcc9",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 22 Jul 2026 16:13:30 +0000",
+      "summary_vi": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030....",
+      "summary_en": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030....",
+      "score": 5
+    },
+    {
+      "id": "62e0b0cea6b2",
+      "title": "If you pay a hacker’s ransom, chances are that they’ll come back for more",
+      "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
+      "description": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 22 Jul 2026 15:29:41 +0000",
+      "summary_vi": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion rack...",
+      "summary_en": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion rack...",
+      "score": 5
+    },
+    {
       "id": "f551c3881fc6",
       "title": "Cascade raises $3.5M to help construction firms find and win projects",
       "url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
@@ -150,58 +202,6 @@
       "publishedAt": "Wed, 22 Jul 2026 13:00:00 +0000",
       "summary_vi": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contact...",
       "summary_en": "WhatsApp on Apple CarPlay and Android Auto will let users hear and reply to messages, make calls, view their call history, and access favorite contact...",
-      "score": 5
-    },
-    {
-      "id": "e75398f513ac",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
-      "summary_vi": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises....",
-      "summary_en": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises....",
-      "score": 5
-    },
-    {
-      "id": "27421537c448",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 22 Jul 2026 08:00:00 +0000",
-      "summary_vi": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars ...",
-      "summary_en": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars ...",
-      "score": 5
-    },
-    {
-      "id": "0f1ee6934ed4",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 22 Jul 2026 03:20:57 +0000",
-      "summary_vi": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor....",
-      "summary_en": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor....",
-      "score": 5
-    },
-    {
-      "id": "3b54eca86ad9",
-      "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
-      "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
-      "description": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 22 Jul 2026 01:27:58 +0000",
-      "summary_vi": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago....",
-      "summary_en": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago....",
       "score": 5
     },
     {
