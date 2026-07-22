@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-22T08:38:30.979350+00:00",
+  "updatedAt": "2026-07-22T11:13:52.002138+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "e75398f513ac",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "summary_vi": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises....",
+      "summary_en": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises....",
+      "score": 5
+    },
+    {
       "id": "27421537c448",
       "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
       "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 21 Jul 2026 19:43:41 +0000",
       "summary_vi": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation....",
       "summary_en": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation....",
-      "score": 5
-    },
-    {
-      "id": "0919b4f551ff",
-      "title": "AI and the rise of the universal entertainment app",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 21 Jul 2026 19:39:30 +0000",
-      "summary_vi": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it ea...",
-      "summary_en": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it ea...",
       "score": 5
     },
     {
