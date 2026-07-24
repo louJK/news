@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "updatedAt": "2026-07-24T11:06:12.999655+00:00",
+  "updatedAt": "2026-07-24T13:59:53.907335+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "28465398b019",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 24 Jul 2026 13:36:42 +0000",
+      "summary_vi": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents....",
+      "summary_en": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents....",
+      "score": 5
+    },
+    {
+      "id": "ce7eb269f018",
+      "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+      "url": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+      "description": "Seller is a dedicated Marketplace app for people who list and sell items frequently.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 24 Jul 2026 12:47:15 +0000",
+      "summary_vi": "Seller is a dedicated Marketplace app for people who list and sell items frequently....",
+      "summary_en": "Seller is a dedicated Marketplace app for people who list and sell items frequently....",
+      "score": 5
+    },
+    {
       "id": "f254e58029de",
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
       "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
@@ -176,32 +202,6 @@
       "publishedAt": "Thu, 23 Jul 2026 20:13:24 +0000",
       "summary_vi": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out....",
       "summary_en": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out....",
-      "score": 5
-    },
-    {
-      "id": "433c26791d78",
-      "title": "Tesla’s door handles may spur new US safety rules",
-      "url": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
-      "description": "The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 23 Jul 2026 20:06:21 +0000",
-      "summary_vi": "The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars....",
-      "summary_en": "The new rule-making process follows a series of incidents, including fatal ones, in which people have become stuck inside cars....",
-      "score": 5
-    },
-    {
-      "id": "36439f7baf91",
-      "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
-      "url": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
-      "description": "Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 23 Jul 2026 19:41:54 +0000",
-      "summary_vi": "Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group....",
-      "summary_en": "Meta has made significant investments in natural gas over the past year. Now it's dropping out of an industry renewable energy group....",
       "score": 5
     },
     {
