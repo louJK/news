@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T16:07:32.272902+00:00",
+  "updatedAt": "2026-07-26T19:21:33.172709+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "7fb8a23f82f9",
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "url": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "description": "How one founder house is betting work-life balance can beat burnout .",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 26 Jul 2026 17:03:19 +0000",
+      "summary_vi": "How one founder house is betting work-life balance can beat burnout ....",
+      "summary_en": "How one founder house is betting work-life balance can beat burnout ....",
+      "score": 5
+    },
+    {
+      "id": "355626f29c21",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "summary_vi": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"...",
+      "summary_en": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"...",
+      "score": 5
+    },
+    {
       "id": "307c03d7676c",
       "title": "TechCrunch Mobility: Uber bets on its former CEO",
       "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 25 Jul 2026 16:46:46 +0000",
       "summary_vi": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”...",
       "summary_en": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”...",
-      "score": 5
-    },
-    {
-      "id": "9026899f60e4",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "summary_vi": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand....",
-      "summary_en": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand....",
-      "score": 5
-    },
-    {
-      "id": "102564d4308f",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "summary_vi": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem....",
-      "summary_en": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem....",
       "score": 5
     },
     {
