@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T19:21:33.172709+00:00",
+  "updatedAt": "2026-07-26T22:05:12.472282+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "7d96daf2c192",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "description": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 26 Jul 2026 21:06:44 +0000",
+      "summary_vi": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns....",
+      "summary_en": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns....",
+      "score": 5
+    },
+    {
+      "id": "216b0412425a",
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000",
+      "summary_vi": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street....",
+      "summary_en": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street....",
+      "score": 5
+    },
+    {
       "id": "7fb8a23f82f9",
       "title": "Inside one London founder house rewriting the founder-house rules",
       "url": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 25 Jul 2026 20:24:14 +0000",
       "summary_vi": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What d...",
       "summary_en": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What d...",
-      "score": 5
-    },
-    {
-      "id": "9f1c697c2a57",
-      "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
-      "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "description": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 25 Jul 2026 19:23:32 +0000",
-      "summary_vi": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round....",
-      "summary_en": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round....",
-      "score": 5
-    },
-    {
-      "id": "42088a22fcb3",
-      "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-      "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-      "description": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 25 Jul 2026 16:46:46 +0000",
-      "summary_vi": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”...",
-      "summary_en": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”...",
       "score": 5
     },
     {
