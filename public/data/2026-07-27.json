@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updatedAt": "2026-07-27T03:54:24.933549+00:00",
+  "updatedAt": "2026-07-27T10:03:15.714040+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "9aee479a01e5",
+      "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
+      "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "description": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. With this fresh capital, the network is announcing its largest expansion yet.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 27 Jul 2026 10:00:00 +0000",
+      "summary_vi": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (wh...",
+      "summary_en": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (wh...",
+      "score": 5
+    },
+    {
       "id": "5d2ba47b7c6e",
       "title": "Are brain waves the next unlock for physical AI?",
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sun, 26 Jul 2026 01:30:00 +0000",
       "summary_vi": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f...",
       "summary_en": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated f...",
-      "score": 5
-    },
-    {
-      "id": "854bd10990f0",
-      "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-      "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
-      "description": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 25 Jul 2026 20:55:11 +0000",
-      "summary_vi": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law...",
-      "summary_en": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law...",
       "score": 5
     },
     {
