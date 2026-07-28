@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-28T19:45:30.222089+00:00",
+  "updatedAt": "2026-07-28T22:12:43.687564+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "2853fe7b4466",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 21:29:34 +0000",
+      "summary_vi": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
+      "summary_en": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
+      "score": 5
+    },
+    {
+      "id": "ab5715c29e35",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "summary_vi": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself....",
+      "summary_en": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself....",
+      "score": 5
+    },
+    {
+      "id": "cbe29efd99bf",
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "summary_vi": "His change of position comes after \"the first security incident that I have felt very viscerally.\"...",
+      "summary_en": "His change of position comes after \"the first security incident that I have felt very viscerally.\"...",
+      "score": 5
+    },
+    {
       "id": "d00081fa237a",
       "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
       "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
@@ -163,45 +202,6 @@
       "publishedAt": "Tue, 28 Jul 2026 18:16:39 +0000",
       "summary_vi": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarki...",
       "summary_en": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarki...",
-      "score": 5
-    },
-    {
-      "id": "2a2fab6832ee",
-      "title": "HBO Max embraces vertical video with a new ‘Shorts’ feed",
-      "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/",
-      "description": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch and as audiences become accustomed to short-form content on platforms like TikTok and Instagram Reels.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 17:57:57 +0000",
-      "summary_vi": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch ...",
-      "summary_en": "HBO Max, like other streaming platforms, is rethinking content discovery as large libraries are making it hard for viewers to find something to watch ...",
-      "score": 5
-    },
-    {
-      "id": "d9df917d1f0b",
-      "title": "Saudi prince buys 5% stake in Lucid Motors",
-      "url": "https://techcrunch.com/2026/07/28/saudi-prince-buys-5-stake-in-lucid-motors/",
-      "description": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 17:33:51 +0000",
-      "summary_vi": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied....",
-      "summary_en": "The investment comes after speculation that Saudi Arabia may take Lucid Motors private -- which the EV maker has denied....",
-      "score": 5
-    },
-    {
-      "id": "57b9aa43e338",
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 15:42:26 +0000",
-      "summary_vi": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power....",
-      "summary_en": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power....",
       "score": 5
     },
     {
