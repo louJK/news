@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-28T14:27:06.553120+00:00",
+  "updatedAt": "2026-07-28T16:47:16.613847+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,8 +101,60 @@
   ],
   "items": [
     {
+      "id": "57b9aa43e338",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 15:42:26 +0000",
+      "summary_vi": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power....",
+      "summary_en": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power....",
+      "score": 5
+    },
+    {
+      "id": "94b2d67ff07b",
+      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+      "url": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
+      "description": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 15:10:10 +0000",
+      "summary_vi": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates mo...",
+      "summary_en": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates mo...",
+      "score": 5
+    },
+    {
+      "id": "c17c0e8a3599",
+      "title": "Elon Musk’s X Money app is rolling out in the US",
+      "url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+      "description": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 14:57:12 +0000",
+      "summary_vi": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees...",
+      "summary_en": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees...",
+      "score": 5
+    },
+    {
+      "id": "70748ecadd76",
+      "title": "WhatsApp now lets you make calls using its web app",
+      "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
+      "description": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 28 Jul 2026 14:53:22 +0000",
+      "summary_vi": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions....",
+      "summary_en": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions....",
+      "score": 5
+    },
+    {
       "id": "72e62aa28e25",
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "description": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
       "source": "techcrunch",
@@ -128,7 +180,7 @@
     },
     {
       "id": "4fac33618388",
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
       "source": "techcrunch",
@@ -150,58 +202,6 @@
       "publishedAt": "Tue, 28 Jul 2026 13:00:00 +0000",
       "summary_vi": "Granola debutes an Apple Watch app for in-person notetaking...",
       "summary_en": "Granola debutes an Apple Watch app for in-person notetaking...",
-      "score": 5
-    },
-    {
-      "id": "c97c952d129e",
-      "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
-      "url": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-      "description": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 08:00:00 +0000",
-      "summary_vi": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025....",
-      "summary_en": "Baidu's Apollo Go autonomous vehicles will be available on Freenow, the mobility network that Lyft acquired in 2025....",
-      "score": 5
-    },
-    {
-      "id": "470d3cc5669e",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 04:30:00 +0000",
-      "summary_vi": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales....",
-      "summary_en": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales....",
-      "score": 5
-    },
-    {
-      "id": "063a78a65e9e",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 00:13:33 +0000",
-      "summary_vi": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities....",
-      "summary_en": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities....",
-      "score": 5
-    },
-    {
-      "id": "f1637c21f380",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000",
-      "summary_vi": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — wi...",
-      "summary_en": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — wi...",
       "score": 5
     },
     {
