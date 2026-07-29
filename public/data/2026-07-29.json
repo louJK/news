@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-29T11:31:11.256917+00:00",
+  "updatedAt": "2026-07-29T14:24:50.211146+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "839aa17663c3",
+      "title": "DoorDash is building its own drone delivery business",
+      "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
+      "description": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 29 Jul 2026 13:00:00 +0000",
+      "summary_vi": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States....",
+      "summary_en": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States....",
+      "score": 5
+    },
+    {
+      "id": "f1ba7b591d16",
+      "title": "Fast Metals is treating waste with more waste to extract critical minerals",
+      "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
+      "description": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 29 Jul 2026 12:00:00 +0000",
+      "summary_vi": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit....",
+      "summary_en": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit....",
+      "score": 5
+    },
+    {
       "id": "0fa1628d1c41",
       "title": "As AI content floods the internet, Pangram raises $9M to detect it",
       "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
@@ -176,32 +202,6 @@
       "publishedAt": "Tue, 28 Jul 2026 19:09:18 +0000",
       "summary_vi": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the st...",
       "summary_en": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the st...",
-      "score": 5
-    },
-    {
-      "id": "cd39281af54f",
-      "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-      "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-      "description": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 19:07:31 +0000",
-      "summary_vi": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacec...",
-      "summary_en": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacec...",
-      "score": 5
-    },
-    {
-      "id": "d3177181b123",
-      "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-      "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-      "description": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 19:06:33 +0000",
-      "summary_vi": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomo...",
-      "summary_en": "Rep. Kevin Mullin (D-California ) has proposed a bill that would direct federal regulators to establish minimum national safety standards for autonomo...",
       "score": 5
     },
     {
