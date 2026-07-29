@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-29T14:24:50.211146+00:00",
+  "updatedAt": "2026-07-29T16:28:13.452247+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "e84ed6e89e71",
+      "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
+      "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
+      "description": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue following Musk's $44 billion takeover of the social network",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 29 Jul 2026 15:36:48 +0000",
+      "summary_vi": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue foll...",
+      "summary_en": "X sued the WFA in 2024 for conducting what it called a \"systematic illegal boycott\" of the platform after it saw a decline in advertising revenue foll...",
+      "score": 5
+    },
+    {
+      "id": "c037c1f2be4b",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 29 Jul 2026 15:35:09 +0000",
+      "summary_vi": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedule...",
+      "summary_en": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedule...",
+      "score": 5
+    },
+    {
+      "id": "9c89fa740bd0",
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "description": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 29 Jul 2026 15:00:00 +0000",
+      "summary_vi": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona....",
+      "summary_en": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona....",
+      "score": 5
+    },
+    {
+      "id": "5de17107a676",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "summary_vi": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents....",
+      "summary_en": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents....",
+      "score": 5
+    },
+    {
       "id": "839aa17663c3",
       "title": "DoorDash is building its own drone delivery business",
       "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
@@ -150,58 +202,6 @@
       "publishedAt": "Wed, 29 Jul 2026 00:09:05 +0000",
       "summary_vi": "The deal is Cyera's third acquisition this year....",
       "summary_en": "The deal is Cyera's third acquisition this year....",
-      "score": 5
-    },
-    {
-      "id": "2853fe7b4466",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 21:29:34 +0000",
-      "summary_vi": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
-      "summary_en": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
-      "score": 5
-    },
-    {
-      "id": "ab5715c29e35",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 20:45:12 +0000",
-      "summary_vi": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself....",
-      "summary_en": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself....",
-      "score": 5
-    },
-    {
-      "id": "cbe29efd99bf",
-      "title": "Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 20:17:08 +0000",
-      "summary_vi": "His change of position comes after \"the first security incident that I have felt very viscerally.\"...",
-      "summary_en": "His change of position comes after \"the first security incident that I have felt very viscerally.\"...",
-      "score": 5
-    },
-    {
-      "id": "d00081fa237a",
-      "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-      "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-      "description": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 28 Jul 2026 19:09:18 +0000",
-      "summary_vi": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the st...",
-      "summary_en": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the st...",
       "score": 5
     },
     {
