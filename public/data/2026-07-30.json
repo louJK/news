@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "updatedAt": "2026-07-30T05:48:23.225963+00:00",
+  "updatedAt": "2026-07-30T08:38:33.116648+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -193,7 +193,7 @@
     },
     {
       "id": "101b78fb3cd4",
-      "title": "The Hugging Face AI break-in explained",
+      "title": "The Hugging Face break-in explained",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "source": "techcrunch",
