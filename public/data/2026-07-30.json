@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "updatedAt": "2026-07-30T19:45:01.105514+00:00",
+  "updatedAt": "2026-07-30T22:13:52.619222+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "358552aaff9a",
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "summary_vi": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on th...",
+      "summary_en": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on th...",
+      "score": 5
+    },
+    {
+      "id": "87eb0c888a46",
+      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 30 Jul 2026 20:13:12 +0000",
+      "summary_vi": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores....",
+      "summary_en": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores....",
+      "score": 5
+    },
+    {
+      "id": "b02910e87419",
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 30 Jul 2026 19:44:16 +0000",
+      "summary_vi": "Friend, the AI wearable, can now talk to its users — for an enhanced price....",
+      "summary_en": "Friend, the AI wearable, can now talk to its users — for an enhanced price....",
+      "score": 5
+    },
+    {
       "id": "f41c7307b777",
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
@@ -143,7 +182,7 @@
       "id": "97625a3cb9dd",
       "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
       "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-      "description": "Add another member to the fast-and-furious AI unicorn club: Simile",
+      "description": "Add another member to the fast-and-furious AI unicorn club: Simile.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -154,7 +193,7 @@
     },
     {
       "id": "8cd5eeec4f1c",
-      "title": "Spotify launches ‘User notes’ to let users add memories to songs",
+      "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
       "url": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
       "description": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it",
       "source": "techcrunch",
@@ -163,45 +202,6 @@
       "publishedAt": "Thu, 30 Jul 2026 17:41:25 +0000",
       "summary_vi": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlis...",
       "summary_en": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlis...",
-      "score": 5
-    },
-    {
-      "id": "9327b8297589",
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 30 Jul 2026 16:09:42 +0000",
-      "summary_vi": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environ...",
-      "summary_en": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environ...",
-      "score": 5
-    },
-    {
-      "id": "4d2b441bafdf",
-      "title": "Tesla made its 10 millionth EV",
-      "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
-      "description": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 30 Jul 2026 16:00:25 +0000",
-      "summary_vi": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay packa...",
-      "summary_en": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay packa...",
-      "score": 5
-    },
-    {
-      "id": "a4b5a2605f60",
-      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-      "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-      "description": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 30 Jul 2026 15:45:36 +0000",
-      "summary_vi": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years....",
-      "summary_en": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years....",
       "score": 5
     },
     {
