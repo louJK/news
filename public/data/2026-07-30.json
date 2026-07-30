@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "updatedAt": "2026-07-30T08:38:33.116648+00:00",
+  "updatedAt": "2026-07-30T11:14:34.742160+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -205,6 +205,19 @@
       "score": 5
     },
     {
+      "id": "d3ef4a34cd19",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 30 Jul 2026 10:15:19 +0000",
+      "summary_vi": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue ...",
+      "summary_en": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue ...",
+      "score": 5
+    },
+    {
       "id": "b4d3a90f6379",
       "title": "The AI Hype Index: Unsexy AI",
       "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
@@ -293,19 +306,6 @@
       "publishedAt": "Thu, 23 Jul 2026 12:00:00 +0000",
       "summary_vi": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of...",
       "summary_en": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of...",
-      "score": 5
-    },
-    {
-      "id": "6d5a86555da5",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Tue, 21 Jul 2026 10:37:34 +0000",
-      "summary_vi": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale dat...",
-      "summary_en": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale dat...",
       "score": 5
     }
   ]
