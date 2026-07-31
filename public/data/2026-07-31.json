@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-07-31T19:46:06.570103+00:00",
+  "updatedAt": "2026-07-31T22:12:42.597072+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "43c8e5201fe9",
+      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
+      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
+      "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 22:00:08 +0000",
+      "summary_vi": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo ve...",
+      "summary_en": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company, and has plans to make four-wheel pedal-assist cargo ve...",
+      "score": 5
+    },
+    {
+      "id": "fe8e80977b31",
+      "title": "Silicon Valley loves young founders. Until it doesn’t.",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 22:00:00 +0000",
+      "summary_vi": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies ...",
+      "summary_en": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies ...",
+      "score": 5
+    },
+    {
+      "id": "ef91c0cf4706",
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "description": "India's app market generated a record $345 million in Q2.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 21:07:45 +0000",
+      "summary_vi": "India's app market generated a record $345 million in Q2....",
+      "summary_en": "India's app market generated a record $345 million in Q2....",
+      "score": 5
+    },
+    {
+      "id": "cebdf34cbbc8",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "summary_vi": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash....",
+      "summary_en": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash....",
+      "score": 5
+    },
+    {
       "id": "cb1bcb635f10",
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
@@ -150,58 +202,6 @@
       "publishedAt": "Fri, 31 Jul 2026 16:49:08 +0000",
       "summary_vi": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking ...",
       "summary_en": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking ...",
-      "score": 5
-    },
-    {
-      "id": "02a679ae68f9",
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 16:08:18 +0000",
-      "summary_vi": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions....",
-      "summary_en": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions....",
-      "score": 5
-    },
-    {
-      "id": "02578c5eaab3",
-      "title": "GM and Ford are talking less and less about EVs",
-      "url": "https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/",
-      "description": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 15:47:46 +0000",
-      "summary_vi": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs....",
-      "summary_en": "The leading U.S. automakers are mentioning EVs on their investor calls at pre-pandemic rates, according to new data from TechCrunch and Hudson Labs....",
-      "score": 5
-    },
-    {
-      "id": "c33daa70f797",
-      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-      "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "description": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 15:37:58 +0000",
-      "summary_vi": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices....",
-      "summary_en": "AI data center demand is fueling a multi-year chip shortage, pushing up component costs and retail device prices....",
-      "score": 5
-    },
-    {
-      "id": "d6b9a6d8c12d",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 15:16:17 +0000",
-      "summary_vi": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months....",
-      "summary_en": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months....",
       "score": 5
     },
     {
