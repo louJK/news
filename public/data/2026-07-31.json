@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-07-31T16:52:50.014266+00:00",
+  "updatedAt": "2026-07-31T19:46:06.570103+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "cb1bcb635f10",
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "description": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 19:39:51 +0000",
+      "summary_vi": "The new funding brings Index's total available investing capital to $3.5 billion....",
+      "summary_en": "The new funding brings Index's total available investing capital to $3.5 billion....",
+      "score": 5
+    },
+    {
+      "id": "544eb6244930",
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
+      "description": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 19:00:00 +0000",
+      "summary_vi": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role i...",
+      "summary_en": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role i...",
+      "score": 5
+    },
+    {
+      "id": "734a51283c78",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
+      "summary_vi": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. Th...",
+      "summary_en": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. Th...",
+      "score": 5
+    },
+    {
+      "id": "1539977fb106",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 16:49:08 +0000",
+      "summary_vi": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking ...",
+      "summary_en": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking ...",
+      "score": 5
+    },
+    {
       "id": "02a679ae68f9",
       "title": "Siri AI could come with a paywall for power users",
       "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
@@ -150,58 +202,6 @@
       "publishedAt": "Fri, 31 Jul 2026 15:16:17 +0000",
       "summary_vi": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months....",
       "summary_en": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months....",
-      "score": 5
-    },
-    {
-      "id": "2d251f65e487",
-      "title": "Reddit is testing a new way to watch — and listen to — its viral posts",
-      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral TikTok videos that pair Reddit stories with gameplay or other footage. CEO Steve Huffman said the feature is already in the works and could begin testing later this year.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 14:49:21 +0000",
-      "summary_vi": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral Ti...",
-      "summary_en": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most popular posts, taking inspiration from the viral Ti...",
-      "score": 5
-    },
-    {
-      "id": "eccb7dbefe54",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 14:47:11 +0000",
-      "summary_vi": "The startup is building voice models designed to make AI phone calls pass the Turing test....",
-      "summary_en": "The startup is building voice models designed to make AI phone calls pass the Turing test....",
-      "score": 5
-    },
-    {
-      "id": "f8ce29dfd341",
-      "title": "WhatsApp is testing a new folder for messages from large businesses",
-      "url": "https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/",
-      "description": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 14:39:43 +0000",
-      "summary_vi": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them....",
-      "summary_en": "WhatsApp will automatically move messages from large businesses to a new folder a few hours after you receive them....",
-      "score": 5
-    },
-    {
-      "id": "ffa622ff5e3c",
-      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
-      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
-      "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 13:45:53 +0000",
-      "summary_vi": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan....",
-      "summary_en": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan....",
       "score": 5
     },
     {
