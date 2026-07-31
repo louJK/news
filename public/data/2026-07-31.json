@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-07-31T09:11:10.356543+00:00",
+  "updatedAt": "2026-07-31T14:24:35.060976+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "ffa622ff5e3c",
+      "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger",
+      "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+      "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 13:45:53 +0000",
+      "summary_vi": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan....",
+      "summary_en": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan....",
+      "score": 5
+    },
+    {
+      "id": "d75e47df0c08",
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "description": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 31 Jul 2026 12:00:00 +0000",
+      "summary_vi": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding....",
+      "summary_en": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding....",
+      "score": 5
+    },
+    {
       "id": "ac80cd240e82",
       "title": "Anthropic says its own AI models breached three companies during security tests",
       "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
@@ -176,32 +202,6 @@
       "publishedAt": "Thu, 30 Jul 2026 22:37:06 +0000",
       "summary_vi": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weig...",
       "summary_en": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weig...",
-      "score": 5
-    },
-    {
-      "id": "358552aaff9a",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 30 Jul 2026 20:26:38 +0000",
-      "summary_vi": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on th...",
-      "summary_en": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on th...",
-      "score": 5
-    },
-    {
-      "id": "87eb0c888a46",
-      "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-      "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
-      "description": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 30 Jul 2026 20:13:12 +0000",
-      "summary_vi": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores....",
-      "summary_en": "The health tech data giant, which handles vast amounts of patients' medical data, said hackers struck one of its protected health data stores....",
       "score": 5
     },
     {
