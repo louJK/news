@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-08-01T19:19:58.356831+00:00",
+  "updatedAt": "2026-08-01T22:04:24.256464+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "0bb15545c738",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "description": "How one founder house is betting work-life balance can beat burnout .",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 21:14:48 +0000",
+      "summary_vi": "How one founder house is betting work-life balance can beat burnout ....",
+      "summary_en": "How one founder house is betting work-life balance can beat burnout ....",
+      "score": 5
+    },
+    {
+      "id": "88ab0b7f770b",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "summary_vi": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward....",
+      "summary_en": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward....",
+      "score": 5
+    },
+    {
+      "id": "c3a681b52914",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "summary_vi": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or ...",
+      "summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or ...",
+      "score": 5
+    },
+    {
       "id": "0c877079e7c5",
       "title": "Should you still buy your next smartphone — or subscribe to it instead?",
       "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 01 Aug 2026 14:00:00 +0000",
       "summary_vi": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help....",
       "summary_en": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help....",
-      "score": 5
-    },
-    {
-      "id": "e4fc5f196f52",
-      "title": "What’s the best handheld mini fan?",
-      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
-      "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 01 Aug 2026 13:36:54 +0000",
-      "summary_vi": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable....",
-      "summary_en": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable....",
-      "score": 5
-    },
-    {
-      "id": "1d34eb822975",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 22:47:26 +0000",
-      "summary_vi": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face....",
-      "summary_en": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face....",
-      "score": 5
-    },
-    {
-      "id": "43c8e5201fe9",
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 22:00:08 +0000",
-      "summary_vi": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo veh...",
-      "summary_en": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo veh...",
       "score": 5
     },
     {
