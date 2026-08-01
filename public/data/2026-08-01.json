@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-08-01T13:42:38.388553+00:00",
+  "updatedAt": "2026-08-01T16:07:17.730490+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "cafcb1a9de8c",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 15:58:17 +0000",
+      "summary_vi": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....",
+      "summary_en": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....",
+      "score": 5
+    },
+    {
+      "id": "6321efd8c58e",
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "description": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 15:05:00 +0000",
+      "summary_vi": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the lis...",
+      "summary_en": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the lis...",
+      "score": 5
+    },
+    {
+      "id": "cd011687faf2",
+      "title": "Apps that help you break free from doomscrolling and get active",
+      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+      "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 14:00:00 +0000",
+      "summary_vi": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help....",
+      "summary_en": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help....",
+      "score": 5
+    },
+    {
       "id": "e4fc5f196f52",
       "title": "What’s the best handheld mini fan?",
       "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 31 Jul 2026 21:07:45 +0000",
       "summary_vi": "India's app market generated a record $345 million in Q2....",
       "summary_en": "India's app market generated a record $345 million in Q2....",
-      "score": 5
-    },
-    {
-      "id": "cebdf34cbbc8",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
-      "summary_vi": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash....",
-      "summary_en": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash....",
-      "score": 5
-    },
-    {
-      "id": "cb1bcb635f10",
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "description": "The new funding brings Index's total available investing capital to $3.5 billion.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 19:39:51 +0000",
-      "summary_vi": "The new funding brings Index's total available investing capital to $3.5 billion....",
-      "summary_en": "The new funding brings Index's total available investing capital to $3.5 billion....",
-      "score": 5
-    },
-    {
-      "id": "544eb6244930",
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "description": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 19:00:00 +0000",
-      "summary_vi": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role i...",
-      "summary_en": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role i...",
       "score": 5
     },
     {
