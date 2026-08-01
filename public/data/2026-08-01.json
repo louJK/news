@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-08-01T16:07:17.730490+00:00",
+  "updatedAt": "2026-08-01T19:19:58.356831+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "0c877079e7c5",
+      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+      "description": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 18:47:27 +0000",
+      "summary_vi": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing....",
+      "summary_en": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing....",
+      "score": 5
+    },
+    {
+      "id": "46b49e93011a",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 01 Aug 2026 17:07:34 +0000",
+      "summary_vi": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents....",
+      "summary_en": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents....",
+      "score": 5
+    },
+    {
       "id": "cafcb1a9de8c",
       "title": "This $9 key physically locks your most addictive apps",
       "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 31 Jul 2026 22:00:08 +0000",
       "summary_vi": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo veh...",
       "summary_en": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo veh...",
-      "score": 5
-    },
-    {
-      "id": "fe8e80977b31",
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 22:00:00 +0000",
-      "summary_vi": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies ...",
-      "summary_en": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies ...",
-      "score": 5
-    },
-    {
-      "id": "ef91c0cf4706",
-      "title": "India is starting to pay for apps, not just download them",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "description": "India's app market generated a record $345 million in Q2.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 31 Jul 2026 21:07:45 +0000",
-      "summary_vi": "India's app market generated a record $345 million in Q2....",
-      "summary_en": "India's app market generated a record $345 million in Q2....",
       "score": 5
     },
     {
