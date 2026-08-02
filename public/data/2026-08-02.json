@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "updatedAt": "2026-08-02T16:06:18.409741+00:00",
+  "updatedAt": "2026-08-02T19:19:56.004974+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "dad54bb61460",
+      "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+      "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+      "description": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 02 Aug 2026 17:05:07 +0000",
+      "summary_vi": "Let's see how this \"frontier community for techno-optimists\" is doing ......",
+      "summary_en": "Let's see how this \"frontier community for techno-optimists\" is doing ......",
+      "score": 5
+    },
+    {
       "id": "657b386943d1",
       "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
       "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 01 Aug 2026 17:07:34 +0000",
       "summary_vi": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents....",
       "summary_en": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents....",
-      "score": 5
-    },
-    {
-      "id": "cafcb1a9de8c",
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 01 Aug 2026 15:58:17 +0000",
-      "summary_vi": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....",
-      "summary_en": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....",
       "score": 5
     },
     {
