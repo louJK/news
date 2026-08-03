@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "updatedAt": "2026-08-03T19:51:16.043587+00:00",
+  "updatedAt": "2026-08-03T22:13:21.415758+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "abc9d20c2f05",
+      "title": "Snap CEO sidesteps Specs pre-order questions on Q2 earnings call",
+      "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+      "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 03 Aug 2026 22:10:58 +0000",
+      "summary_vi": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade....",
+      "summary_en": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade....",
+      "score": 5
+    },
+    {
+      "id": "4d7bc75aa17b",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "description": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 03 Aug 2026 20:00:00 +0000",
+      "summary_vi": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from mo...",
+      "summary_en": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from mo...",
+      "score": 5
+    },
+    {
       "id": "d3807dc56de2",
       "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
       "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
@@ -115,9 +141,9 @@
     },
     {
       "id": "5c210e03771f",
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "description": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "description": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -156,7 +182,7 @@
       "id": "bead3af33d16",
       "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Mon, 03 Aug 2026 18:00:24 +0000",
       "summary_vi": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and event...",
       "summary_en": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app helps users save places and event...",
-      "score": 5
-    },
-    {
-      "id": "6daf59fef663",
-      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
-      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
-      "description": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly locked out of the messaging app.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 03 Aug 2026 17:46:01 +0000",
-      "summary_vi": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly lo...",
-      "summary_en": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users reported being unexpectedly lo...",
-      "score": 5
-    },
-    {
-      "id": "e5895e668bc3",
-      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-      "description": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 03 Aug 2026 17:16:43 +0000",
-      "summary_vi": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June....",
-      "summary_en": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June....",
       "score": 5
     },
     {
