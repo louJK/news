@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "updatedAt": "2026-08-03T03:45:07.129234+00:00",
+  "updatedAt": "2026-08-03T09:58:30.771090+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -205,6 +205,19 @@
       "score": 5
     },
     {
+      "id": "e4b3c3d5632c",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 03 Aug 2026 08:30:05 +0000",
+      "summary_vi": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "score": 5
+    },
+    {
       "id": "d3ef4a34cd19",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 27 Jul 2026 11:32:58 +0000",
       "summary_vi": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end ac...",
       "summary_en": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end ac...",
-      "score": 5
-    },
-    {
-      "id": "7f188a0c6b4b",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 23 Jul 2026 12:00:00 +0000",
-      "summary_vi": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of...",
-      "summary_en": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of...",
       "score": 5
     }
   ]
