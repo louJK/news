@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "updatedAt": "2026-08-05T03:24:18.200200+00:00",
+  "updatedAt": "2026-08-05T08:45:56.650163+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "0a8846ec2e83",
+      "title": "Wispr Flow launches a Granola-styled meeting notetaker",
+      "url": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
+      "description": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 05 Aug 2026 07:15:49 +0000",
+      "summary_vi": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items....",
+      "summary_en": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items....",
+      "score": 5
+    },
+    {
       "id": "c9f29b8d2736",
       "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
       "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 04 Aug 2026 20:05:26 +0000",
       "summary_vi": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that...",
       "summary_en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that...",
-      "score": 5
-    },
-    {
-      "id": "af3fbfe150b0",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 04 Aug 2026 19:48:40 +0000",
-      "summary_vi": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta....",
-      "summary_en": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta....",
       "score": 5
     },
     {
