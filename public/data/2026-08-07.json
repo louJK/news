@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T16:03:49.684227+00:00",
+  "updatedAt": "2026-08-07T19:06:36.520895+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "62678037a7fe",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "summary_vi": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing ...",
+      "summary_en": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing ...",
+      "score": 5
+    },
+    {
+      "id": "093008b9f5a1",
+      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+      "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "description": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 07 Aug 2026 16:09:04 +0000",
+      "summary_vi": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach....",
+      "summary_en": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach....",
+      "score": 5
+    },
+    {
       "id": "7e1ac39081de",
       "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
       "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 07 Aug 2026 14:07:31 +0000",
       "summary_vi": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels....",
       "summary_en": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels....",
-      "score": 5
-    },
-    {
-      "id": "a8ba33321458",
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 12:30:00 +0000",
-      "summary_vi": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect t...",
-      "summary_en": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect t...",
-      "score": 5
-    },
-    {
-      "id": "141bf0235755",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "description": "Meta's total fine has raked up to $942 million in this case.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "summary_vi": "Meta's total fine has raked up to $942 million in this case...",
-      "summary_en": "Meta's total fine has raked up to $942 million in this case...",
       "score": 5
     },
     {
