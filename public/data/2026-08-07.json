@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T19:06:36.520895+00:00",
+  "updatedAt": "2026-08-07T21:47:42.174991+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,49 @@
   ],
   "items": [
     {
+      "id": "c534158d528e",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "summary_vi": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
+      "summary_en": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
+      "score": 5
+    },
+    {
+      "id": "3ac7659d9bc3",
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "description": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 07 Aug 2026 21:20:00 +0000",
+      "summary_vi": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....",
+      "summary_en": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....",
+      "score": 5
+    },
+    {
+      "id": "7feef810b451",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 07 Aug 2026 21:00:08 +0000",
+      "summary_vi": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through gov...",
+      "summary_en": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through gov...",
+      "score": 5
+    },
+    {
       "id": "62678037a7fe",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 07 Aug 2026 14:30:00 +0000",
       "summary_vi": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch...",
       "summary_en": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch...",
-      "score": 5
-    },
-    {
-      "id": "db5142cc98d9",
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "description": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 14:28:31 +0000",
-      "summary_vi": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured....",
-      "summary_en": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured....",
-      "score": 5
-    },
-    {
-      "id": "5f5222e53a44",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "summary_vi": "Airbnb will debut a new AI-powered search experience with a toggle....",
-      "summary_en": "Airbnb will debut a new AI-powered search experience with a toggle....",
-      "score": 5
-    },
-    {
-      "id": "7f75e7743e17",
-      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "description": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 14:07:31 +0000",
-      "summary_vi": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels....",
-      "summary_en": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels....",
       "score": 5
     },
     {
