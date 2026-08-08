@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "updatedAt": "2026-08-08T18:48:47.607621+00:00",
+  "updatedAt": "2026-08-08T21:37:33.934206+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "b56115e127cb",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "summary_vi": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
+      "summary_en": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
+      "score": 5
+    },
+    {
+      "id": "61f42ecb8f77",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "description": "NextSlide says its team members are now working on ChatGPT.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "summary_vi": "NextSlide says its team members are now working on ChatGPT....",
+      "summary_en": "NextSlide says its team members are now working on ChatGPT....",
+      "score": 5
+    },
+    {
       "id": "a5d0ee6979c3",
       "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
       "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 07 Aug 2026 21:20:00 +0000",
       "summary_vi": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....",
       "summary_en": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....",
-      "score": 5
-    },
-    {
-      "id": "7feef810b451",
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "description": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 21:00:08 +0000",
-      "summary_vi": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through gov...",
-      "summary_en": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through gov...",
-      "score": 5
-    },
-    {
-      "id": "62678037a7fe",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "summary_vi": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, h...",
-      "summary_en": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, h...",
       "score": 5
     },
     {
