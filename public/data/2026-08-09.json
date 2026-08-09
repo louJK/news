@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "updatedAt": "2026-08-09T18:51:19.535437+00:00",
+  "updatedAt": "2026-08-09T21:39:54.470970+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "f893fb1dc932",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "summary_vi": "The AI-focused hedge fund is still making some big bets....",
+      "summary_en": "The AI-focused hedge fund is still making some big bets....",
+      "score": 5
+    },
+    {
+      "id": "700247b13669",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "summary_vi": "Programming with Claude Code will soon require even less human oversight....",
+      "summary_en": "Programming with Claude Code will soon require even less human oversight....",
+      "score": 5
+    },
+    {
       "id": "aa0367c27bfd",
       "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
       "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
       "summary_vi": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
       "summary_en": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
-      "score": 5
-    },
-    {
-      "id": "61f42ecb8f77",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "description": "NextSlide says its team members are now working on ChatGPT.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "summary_vi": "NextSlide says its team members are now working on ChatGPT....",
-      "summary_en": "NextSlide says its team members are now working on ChatGPT....",
-      "score": 5
-    },
-    {
-      "id": "a5d0ee6979c3",
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "description": "X is winding down its existing Revenue Sharing program.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 08 Aug 2026 16:34:22 +0000",
-      "summary_vi": "X is winding down its existing Revenue Sharing program....",
-      "summary_en": "X is winding down its existing Revenue Sharing program....",
       "score": 5
     },
     {
