@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "updatedAt": "2026-08-09T15:39:26.291811+00:00",
+  "updatedAt": "2026-08-09T18:51:19.535437+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "aa0367c27bfd",
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 16:05:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
       "id": "d2ac7303d625",
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 08 Aug 2026 16:34:22 +0000",
       "summary_vi": "X is winding down its existing Revenue Sharing program....",
       "summary_en": "X is winding down its existing Revenue Sharing program....",
-      "score": 5
-    },
-    {
-      "id": "d8c36633c35a",
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "description": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 08 Aug 2026 16:00:00 +0000",
-      "summary_vi": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size....",
-      "summary_en": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size....",
       "score": 5
     },
     {
