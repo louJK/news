@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "updatedAt": "2026-08-09T13:04:37.588528+00:00",
+  "updatedAt": "2026-08-09T15:39:26.291811+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "d2ac7303d625",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 15:00:00 +0000",
+      "summary_vi": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader....",
+      "summary_en": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader....",
+      "score": 5
+    },
+    {
+      "id": "35f6bb826f1d",
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "summary_vi": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, indu...",
+      "summary_en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, indu...",
+      "score": 5
+    },
+    {
+      "id": "b90cd0f3486f",
+      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
+      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
+      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 14:00:00 +0000",
+      "summary_vi": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detecti...",
+      "summary_en": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detecti...",
+      "score": 5
+    },
+    {
       "id": "e28a1bafae9f",
       "title": "This former notorious red-light district is now one of the world’s top AI hubs",
       "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 08 Aug 2026 16:00:00 +0000",
       "summary_vi": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size....",
       "summary_en": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size....",
-      "score": 5
-    },
-    {
-      "id": "f5ae6a822390",
-      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-      "description": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 08 Aug 2026 15:00:00 +0000",
-      "summary_vi": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hacke...",
-      "summary_en": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hacke...",
-      "score": 5
-    },
-    {
-      "id": "59163ffd3cbe",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "summary_vi": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and car...",
-      "summary_en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and car...",
-      "score": 5
-    },
-    {
-      "id": "c534158d528e",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "summary_vi": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
-      "summary_en": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
       "score": 5
     },
     {
