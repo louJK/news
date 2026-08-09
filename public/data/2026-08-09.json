@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "updatedAt": "2026-08-09T09:47:08.233883+00:00",
+  "updatedAt": "2026-08-09T13:04:37.588528+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "e28a1bafae9f",
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "description": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 09 Aug 2026 13:00:00 +0000",
+      "summary_vi": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new....",
+      "summary_en": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new....",
+      "score": 5
+    },
+    {
       "id": "b56115e127cb",
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 07 Aug 2026 21:30:11 +0000",
       "summary_vi": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
       "summary_en": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending....",
-      "score": 5
-    },
-    {
-      "id": "3ac7659d9bc3",
-      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 07 Aug 2026 21:20:00 +0000",
-      "summary_vi": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....",
-      "summary_en": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true....",
       "score": 5
     },
     {
