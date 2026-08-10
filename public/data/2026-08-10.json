@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "updatedAt": "2026-08-10T10:24:15.622759+00:00",
+  "updatedAt": "2026-08-10T13:23:44.249000+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "ee092482a3ff",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "summary_vi": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips....",
+      "summary_en": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips....",
+      "score": 5
+    },
+    {
+      "id": "d2a64df2821e",
+      "title": "Google Play adds Venmo as a payment option",
+      "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+      "description": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "summary_vi": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games....",
+      "summary_en": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games....",
+      "score": 5
+    },
+    {
       "id": "f893fb1dc932",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sun, 09 Aug 2026 14:00:00 +0000",
       "summary_vi": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detecti...",
       "summary_en": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detecti...",
-      "score": 5
-    },
-    {
-      "id": "e28a1bafae9f",
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "description": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 09 Aug 2026 13:00:00 +0000",
-      "summary_vi": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new....",
-      "summary_en": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new....",
-      "score": 5
-    },
-    {
-      "id": "b56115e127cb",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "summary_vi": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
-      "summary_en": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollu...",
       "score": 5
     },
     {
