@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "updatedAt": "2026-08-10T13:23:44.249000+00:00",
+  "updatedAt": "2026-08-10T16:05:48.148711+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "b16a9d72067a",
+      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+      "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+      "description": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 10 Aug 2026 15:22:42 +0000",
+      "summary_vi": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State...",
+      "summary_en": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State...",
+      "score": 5
+    },
+    {
+      "id": "c06a72559449",
+      "title": "Archer buys former rival Wisk Aero",
+      "url": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
+      "description": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 10 Aug 2026 15:09:39 +0000",
+      "summary_vi": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer....",
+      "summary_en": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer....",
+      "score": 5
+    },
+    {
+      "id": "ecdd6bda7b67",
+      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+      "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+      "description": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 10 Aug 2026 14:20:19 +0000",
+      "summary_vi": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack....",
+      "summary_en": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack....",
+      "score": 5
+    },
+    {
+      "id": "8add5efe536d",
+      "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
+      "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
+      "description": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 10 Aug 2026 14:14:43 +0000",
+      "summary_vi": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract b...",
+      "summary_en": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract b...",
+      "score": 5
+    },
+    {
       "id": "ee092482a3ff",
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
       "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
@@ -150,58 +202,6 @@
       "publishedAt": "Sun, 09 Aug 2026 19:20:32 +0000",
       "summary_vi": "Programming with Claude Code will soon require even less human oversight....",
       "summary_en": "Programming with Claude Code will soon require even less human oversight....",
-      "score": 5
-    },
-    {
-      "id": "aa0367c27bfd",
-      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 09 Aug 2026 16:05:00 +0000",
-      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
-      "score": 5
-    },
-    {
-      "id": "d2ac7303d625",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 09 Aug 2026 15:00:00 +0000",
-      "summary_vi": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader....",
-      "summary_en": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader....",
-      "score": 5
-    },
-    {
-      "id": "35f6bb826f1d",
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "summary_vi": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, indu...",
-      "summary_en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, indu...",
-      "score": 5
-    },
-    {
-      "id": "b90cd0f3486f",
-      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-      "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-      "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 09 Aug 2026 14:00:00 +0000",
-      "summary_vi": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detecti...",
-      "summary_en": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detecti...",
       "score": 5
     },
     {
