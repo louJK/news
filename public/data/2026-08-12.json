@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-12T10:13:16.630187+00:00",
+  "updatedAt": "2026-08-12T13:23:33.408047+00:00",
   "totalItems": 24,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "618c36a0317e",
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "summary_vi": "Blacksmith says revenue has grown more than tenfold over the past year....",
+      "summary_en": "Blacksmith says revenue has grown more than tenfold over the past year....",
+      "score": 5
+    },
+    {
       "id": "d225c60a0e03",
       "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
       "url": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 11 Aug 2026 19:15:35 +0000",
       "summary_vi": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems....",
       "summary_en": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems....",
-      "score": 5
-    },
-    {
-      "id": "61f03f2379bc",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "description": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 11 Aug 2026 18:49:12 +0000",
-      "summary_vi": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice fe...",
-      "summary_en": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice fe...",
       "score": 5
     },
     {
