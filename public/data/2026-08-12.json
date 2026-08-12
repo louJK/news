@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-12T19:10:28.078912+00:00",
+  "updatedAt": "2026-08-12T21:53:23.491299+00:00",
   "totalItems": 24,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "275752d074ef",
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "description": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 12 Aug 2026 20:53:41 +0000",
+      "summary_vi": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite....",
+      "summary_en": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite....",
+      "score": 5
+    },
+    {
+      "id": "0e1a976108c7",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "summary_vi": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"...",
+      "summary_en": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"...",
+      "score": 5
+    },
+    {
       "id": "17f519f2af4b",
       "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
       "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
@@ -130,7 +156,7 @@
       "id": "b77f0ff8e550",
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "description": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Wed, 12 Aug 2026 16:57:58 +0000",
       "summary_vi": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app....",
       "summary_en": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app....",
-      "score": 5
-    },
-    {
-      "id": "d4e662e0ffa5",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 12 Aug 2026 16:46:02 +0000",
-      "summary_vi": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even ...",
-      "summary_en": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even ...",
-      "score": 5
-    },
-    {
-      "id": "f04588bde593",
-      "title": "Tesla wants to build a $10B solar factory in Texas",
-      "url": "https://techcrunch.com/2026/08/12/tesla-wants-to-build-a-10b-solar-factory-in-texas/",
-      "description": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 12 Aug 2026 16:18:31 +0000",
-      "summary_vi": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs....",
-      "summary_en": "Tesla wants to build a massive solar factory in Texas, but first it wants the state to chip in to defray the costs....",
       "score": 5
     },
     {
