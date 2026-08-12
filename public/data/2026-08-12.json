@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-12T02:28:49.784416+00:00",
-  "totalItems": 16,
+  "updatedAt": "2026-08-12T04:53:05.522370+00:00",
+  "totalItems": 24,
   "categories": [
     "Tech",
     "AI",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "40443c208af1",
+      "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "description": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 12 Aug 2026 04:30:00 +0000",
+      "summary_vi": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases....",
+      "summary_en": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases....",
+      "score": 5
+    },
+    {
       "id": "10bc1f3f0bcc",
       "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
       "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 11 Aug 2026 17:46:14 +0000",
       "summary_vi": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is s...",
       "summary_en": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is s...",
-      "score": 5
-    },
-    {
-      "id": "8476d0f174a0",
-      "title": "What’s Scaleup Europe, the $5.7B fund that just backed satellite company ICEYE?",
-      "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/",
-      "description": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 11 Aug 2026 17:41:49 +0000",
-      "summary_vi": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE....",
-      "summary_en": "Scaleup Europe, a public-private fund with a $5.7 billion target, made its first investment by backing Finnish satellite company ICEYE....",
       "score": 5
     },
     {
@@ -306,6 +306,110 @@
       "publishedAt": "Tue, 28 Jul 2026 09:18:57 +0000",
       "summary_vi": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at h...",
       "summary_en": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at h...",
+      "score": 5
+    },
+    {
+      "id": "f0faec98f86e",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. 27 types. One agent skill for Claude Code, Codex, and Pi. Your brand in 60 seconds — the skill reads your website and maps colors + fonts to every diagram. Already have diagrams in draw.io ? Point it at the file and it redraws them at the form",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer wo...",
+      "summary_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer wo...",
+      "score": 5
+    },
+    {
+      "id": "5dfe15d5980d",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. 🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deli",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a...",
+      "summary_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a...",
+      "score": 5
+    },
+    {
+      "id": "a7f9890fb36a",
+      "title": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by design. Decision Intelligence &nbsp;·&nbsp; Context Management &nbsp;·&nbsp; Determi",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source ...",
+      "summary_en": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source ...",
+      "score": 5
+    },
+    {
+      "id": "e2e3cda3fa2e",
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions Node Version Manager Table of Contents Intro About Installing and Updating Install &amp; Update Script Additional Notes Installing in Docker Installing in Docker for CICD-Jobs Troubleshooting on Linux Troubleshooting on macOS Ansible Verify Installation Important Notes Git Install Manual Install Manual Upgrade Usage Long-term Support Migrating Global Packages While Installing Migrating Global Packages B",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions Node Version Manager Table of Contents Intro About Insta...",
+      "summary_en": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions Node Version Manager Table of Contents Intro About Insta...",
+      "score": 5
+    },
+    {
+      "id": "0d1bd25a3199",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. DEFINE PLAN BUILD VERIFY REVIEW SHIP ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ │ Idea │ ───▶ │ Spec │ ───▶ │ Code │ ───▶ │ Test │ ───▶ │ QA │ ───▶ │ ",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the wor...",
+      "summary_en": "Production-grade engineering skills for AI coding agents. Agent Skills Production-grade engineering skills for AI coding agents. Skills encode the wor...",
+      "score": 5
+    },
+    {
+      "id": "4ec6d5af71ee",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. 📈 股票智能分析系统 &nbsp; 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱 产品预览 · 功能特性 · 快速开始 · 推送效果 · 文档中心 · 完整指南 简体中文 | English | 繁體中文 💖 赞助商 (Sponsors) 🖥️ 产品预览 ✨ 功能特性 能力 覆盖内容 AI 决策报告 核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单 多市场数据聚合 覆盖 A股、港股、美股、日股、韩股、台股和",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi...",
+      "summary_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decisi...",
+      "score": 5
+    },
+    {
+      "id": "9df15693a325",
+      "title": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs --> --> --> Code-Graph-RAG Code-Graph-RAG parses a multi-language codebase with Tree-sitter, builds a knowledge graph of its structure in Memgraph, and lets you query, edit, and optimise that code in plain English. It works across a monorepo of mixed languages under one unified graph schema. Latest News 🔥 Ruby Support : Ruby joins the graph through a new pluggable as",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs --> --> --> Code-Gr...",
+      "summary_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs --> --> --> Code-Gr...",
+      "score": 5
+    },
+    {
+      "id": "ea97e2f9b307",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your orga",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Ski...",
+      "summary_en": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Ski...",
       "score": 5
     }
   ]
