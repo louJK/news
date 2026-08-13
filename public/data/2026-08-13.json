@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "updatedAt": "2026-08-13T16:03:18.154113+00:00",
+  "updatedAt": "2026-08-13T19:10:23.274812+00:00",
   "totalItems": 24,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "4f7a500cee94",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "description": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "summary_vi": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests c...",
+      "summary_en": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests c...",
+      "score": 5
+    },
+    {
+      "id": "9a1de941a4f8",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "summary_vi": "Dali Rajic will take over as OpenAI's top salesperson....",
+      "summary_en": "Dali Rajic will take over as OpenAI's top salesperson....",
+      "score": 5
+    },
+    {
+      "id": "6d2316ab43a9",
+      "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+      "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+      "description": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 13 Aug 2026 16:37:53 +0000",
+      "summary_vi": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027....",
+      "summary_en": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027....",
+      "score": 5
+    },
+    {
       "id": "560420453f6b",
       "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
       "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
@@ -163,45 +202,6 @@
       "publishedAt": "Thu, 13 Aug 2026 15:00:00 +0000",
       "summary_vi": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks....",
       "summary_en": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks....",
-      "score": 5
-    },
-    {
-      "id": "f31b1a5b40ca",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "description": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 13 Aug 2026 14:34:43 +0000",
-      "summary_vi": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ....",
-      "summary_en": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ....",
-      "score": 5
-    },
-    {
-      "id": "5fbfd56dfce8",
-      "title": "In a first, US will allow some private firms to carry out cyberattacks",
-      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-      "description": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 13 Aug 2026 14:09:05 +0000",
-      "summary_vi": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive...",
-      "summary_en": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive...",
-      "score": 5
-    },
-    {
-      "id": "c205fb2f3a61",
-      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
-      "description": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 13 Aug 2026 13:30:00 +0000",
-      "summary_vi": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into t...",
-      "summary_en": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into t...",
       "score": 5
     },
     {
