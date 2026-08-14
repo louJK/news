@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "updatedAt": "2026-08-14T10:10:25.519935+00:00",
+  "updatedAt": "2026-08-14T13:19:43.977758+00:00",
   "totalItems": 24,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "fa797b8a84cc",
+      "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "url": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "description": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 10:44:30 +0000",
+      "summary_vi": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities....",
+      "summary_en": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities....",
+      "score": 5
+    },
+    {
       "id": "d1c213446c37",
       "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
       "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000",
       "summary_vi": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal....",
       "summary_en": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal....",
-      "score": 5
-    },
-    {
-      "id": "4f7a500cee94",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "summary_vi": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests ...",
-      "summary_en": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests ...",
       "score": 5
     },
     {
