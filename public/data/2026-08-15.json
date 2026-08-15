@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-15T12:49:33.905661+00:00",
+  "updatedAt": "2026-08-15T15:27:12.897004+00:00",
   "totalItems": 24,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "24a1720c04d7",
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 13:15:20 +0000",
+      "summary_vi": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies....",
+      "summary_en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies....",
+      "score": 5
+    },
+    {
       "id": "563a2c5415c4",
       "title": "Talks to sell PayPal to Stripe and Advent are heating up",
       "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
       "summary_vi": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
       "summary_en": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
-      "score": 5
-    },
-    {
-      "id": "d0a06ebad8a6",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "summary_vi": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#1...",
-      "summary_en": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#1...",
       "score": 5
     },
     {
