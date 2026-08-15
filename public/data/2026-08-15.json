@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-15T15:27:12.897004+00:00",
+  "updatedAt": "2026-08-15T18:38:11.072643+00:00",
   "totalItems": 24,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "e68ddcb83011",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "summary_vi": "AI coding startup Cursor is now officially a part of SpaceX....",
+      "summary_en": "AI coding startup Cursor is now officially a part of SpaceX....",
+      "score": 5
+    },
+    {
+      "id": "0dccda6e63b0",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "summary_vi": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms....",
+      "summary_en": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms....",
+      "score": 5
+    },
+    {
       "id": "24a1720c04d7",
       "title": "Every fusion startup that has raised over $100M",
       "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 14 Aug 2026 18:58:15 +0000",
       "summary_vi": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights....",
       "summary_en": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights....",
-      "score": 5
-    },
-    {
-      "id": "0de257ede334",
-      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 14 Aug 2026 16:21:04 +0000",
-      "summary_vi": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss....",
-      "summary_en": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss....",
-      "score": 5
-    },
-    {
-      "id": "0e0aa6481012",
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
-      "summary_vi": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
-      "summary_en": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
       "score": 5
     },
     {
