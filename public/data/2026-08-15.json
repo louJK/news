@@ -1,0 +1,416 @@
+{
+  "date": "2026-08-15",
+  "updatedAt": "2026-08-15T01:39:44.228481+00:00",
+  "totalItems": 24,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "563a2c5415c4",
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "description": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 22:43:24 +0000",
+      "summary_vi": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the c...",
+      "summary_en": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the c...",
+      "score": 5
+    },
+    {
+      "id": "9554add5e38b",
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 20:37:49 +0000",
+      "summary_vi": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles....",
+      "summary_en": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles....",
+      "score": 5
+    },
+    {
+      "id": "a60e9c26e429",
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "description": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 19:33:00 +0000",
+      "summary_vi": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his...",
+      "summary_en": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his...",
+      "score": 5
+    },
+    {
+      "id": "5f19a03d0576",
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
+      "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+      "description": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 19:04:32 +0000",
+      "summary_vi": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and...",
+      "summary_en": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and...",
+      "score": 5
+    },
+    {
+      "id": "0dea06793bea",
+      "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+      "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+      "description": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 18:58:15 +0000",
+      "summary_vi": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights....",
+      "summary_en": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights....",
+      "score": 5
+    },
+    {
+      "id": "0de257ede334",
+      "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+      "url": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+      "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 16:21:04 +0000",
+      "summary_vi": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss....",
+      "summary_en": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss....",
+      "score": 5
+    },
+    {
+      "id": "0e0aa6481012",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "summary_vi": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
+      "summary_en": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
+      "score": 5
+    },
+    {
+      "id": "d0a06ebad8a6",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "summary_vi": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#1...",
+      "summary_en": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#1...",
+      "score": 5
+    },
+    {
+      "id": "c22abf289983",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "summary_vi": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
+      "summary_en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
+      "score": 5
+    },
+    {
+      "id": "599ea52fc1f6",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "summary_vi": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch...",
+      "summary_en": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch...",
+      "score": 5
+    },
+    {
+      "id": "afc23a12a580",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "summary_vi": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives ...",
+      "summary_en": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives ...",
+      "score": 5
+    },
+    {
+      "id": "1281650c995b",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I...",
+      "score": 5
+    },
+    {
+      "id": "20c95f3fe530",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary_vi": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physic...",
+      "summary_en": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physic...",
+      "score": 5
+    },
+    {
+      "id": "6859719fca47",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary_vi": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+      "summary_en": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+      "score": 5
+    },
+    {
+      "id": "dc0d90ec364e",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 03 Aug 2026 18:43:30 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoi...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoi...",
+      "score": 5
+    },
+    {
+      "id": "e4b3c3d5632c",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 03 Aug 2026 08:30:05 +0000",
+      "summary_vi": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "score": 5
+    },
+    {
+      "id": "f0faec98f86e",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. 27 visual types. One agent skill for Claude Code, Codex, and Pi. Semantic patterns describe behavior separately from layout, so a queue",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer wo...",
+      "summary_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer wo...",
+      "score": 5
+    },
+    {
+      "id": "a7f9890fb36a",
+      "title": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source Palantir for AI Agents Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by design. Decision Intelligence &nbsp;·&nbsp; Context Management &nbsp;·&nbsp; Determi",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source ...",
+      "summary_en": "Graph-Native Infrastructure for Context and Accountable AI Systems Graph-Native Infrastructure for Context and Accountable AI Systems The Open Source ...",
+      "score": 5
+    },
+    {
+      "id": "ea97e2f9b307",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io . Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your orga",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Ski...",
+      "summary_en": "Public repository for Agent Skills Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Ski...",
+      "score": 5
+    },
+    {
+      "id": "88adb36d994a",
+      "title": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. Needle 2 Needle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. Needle 2 Needle 2 is an open 45M-parameter model for tool calling, ...",
+      "summary_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. Needle 2 Needle 2 is an open 45M-parameter model for tool calling, ...",
+      "score": 5
+    },
+    {
+      "id": "cf22fb2fe760",
+      "title": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. FluidVoice Open source voice-to-text dictation app for macOS with on-device AI enhancement. Install with Homebrew: brew install --cask fluidvoice Manual download: latest release Note FluidVoice is on macOS today. iOS and Windows are on the way — join the waitlist to get notified when we launch: altic.dev/fluid/w",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Wind...",
+      "summary_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Wind...",
+      "score": 5
+    },
+    {
+      "id": "4242e51e337a",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. Unsloth is the first desktop app to run and train models. Features • Quickstart • Notebooks • Documentation ⚡ Get started Download the native Unsloth Desktop app for your operating system: Platform Link Windows Download macOS Download Linux / Ubuntu (deb) Download Linux (AppImage) Download Linux (Arm64) Download Download from Unsloth or GitHub Releases . Or if you pre",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. Unsloth is the first...",
+      "summary_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. Unsloth is the first...",
+      "score": 5
+    },
+    {
+      "id": "bbfc2ca772d5",
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · Book demo · Website · Feature requests · Contribute · Hiring Macro is the all-in-one workspace for you and your team. It unifies email + messages + docs + tasks + agents + CRM into a single fast interface with shared team-level memory. Everything in your workspace is @linked and searchable so your team (and your agents) never have to switch tools. W",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · B...",
+      "summary_en": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. Sign up · Docs · B...",
+      "score": 5
+    },
+    {
+      "id": "30f62a06b3c4",
+      "title": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. Holehe OSINT - Email to Registered Accounts 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at: megadose@protonmail.com 📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English! Holehe Online Version Summary Efficiently finding registered ac",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten pa...",
+      "summary_en": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten pa...",
+      "score": 5
+    }
+  ]
+}
