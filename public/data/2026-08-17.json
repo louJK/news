@@ -1,0 +1,416 @@
+{
+  "date": "2026-08-17",
+  "updatedAt": "2026-08-17T01:44:41.390455+00:00",
+  "totalItems": 24,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "7430ad56634d",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "summary_vi": "OpenRouter's CEO recently described the startup as Stripe for AI....",
+      "summary_en": "OpenRouter's CEO recently described the startup as Stripe for AI....",
+      "score": 5
+    },
+    {
+      "id": "30514dd888ea",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "summary_vi": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision....",
+      "summary_en": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision....",
+      "score": 5
+    },
+    {
+      "id": "9eeacf6b78b6",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "summary_vi": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI....",
+      "summary_en": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI....",
+      "score": 5
+    },
+    {
+      "id": "848a823a1e6e",
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 16 Aug 2026 16:04:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
+      "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
+      "score": 5
+    },
+    {
+      "id": "a17d0cbb65ba",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "summary_vi": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"...",
+      "summary_en": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"...",
+      "score": 5
+    },
+    {
+      "id": "73cbb223a27a",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "summary_vi": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?...",
+      "summary_en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?...",
+      "score": 5
+    },
+    {
+      "id": "e68ddcb83011",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "summary_vi": "AI coding startup Cursor is now officially a part of SpaceX....",
+      "summary_en": "AI coding startup Cursor is now officially a part of SpaceX....",
+      "score": 5
+    },
+    {
+      "id": "0dccda6e63b0",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 15 Aug 2026 16:10:00 +0000",
+      "summary_vi": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms....",
+      "summary_en": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms....",
+      "score": 5
+    },
+    {
+      "id": "c22abf289983",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "summary_vi": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
+      "summary_en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
+      "score": 5
+    },
+    {
+      "id": "599ea52fc1f6",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "summary_vi": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch...",
+      "summary_en": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch...",
+      "score": 5
+    },
+    {
+      "id": "afc23a12a580",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "summary_vi": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives ...",
+      "summary_en": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives ...",
+      "score": 5
+    },
+    {
+      "id": "1281650c995b",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I...",
+      "score": 5
+    },
+    {
+      "id": "20c95f3fe530",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary_vi": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physic...",
+      "summary_en": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physic...",
+      "score": 5
+    },
+    {
+      "id": "6859719fca47",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary_vi": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+      "summary_en": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the ...",
+      "score": 5
+    },
+    {
+      "id": "dc0d90ec364e",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 03 Aug 2026 18:43:30 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoi...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoi...",
+      "score": 5
+    },
+    {
+      "id": "e4b3c3d5632c",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 03 Aug 2026 08:30:05 +0000",
+      "summary_vi": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "score": 5
+    },
+    {
+      "id": "af4602932aef",
+      "title": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is not yet stable and may change without notice. Paper: A Programming Paradigm for Spatiotemporal Composability Documentation: cordis-primer",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Meta-Framework of Spatiotemporal Composability Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is...",
+      "summary_en": "Meta-Framework of Spatiotemporal Composability Cordis A Meta-Framework of Spatiotemporal Composability. Cordis is under active development. The API is...",
+      "score": 5
+    },
+    {
+      "id": "f0faec98f86e",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer won't hate. New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs. New in 2.3: semantic system patterns and optional accessible motion, while static output stays the default. 27 visual types. One agent skill for Claude Code, Codex, and Pi. Semantic patterns describe behavior separately from layout, so a queue",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer wo...",
+      "summary_en": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. Diagram Design Editorial diagrams your designer wo...",
+      "score": 5
+    },
+    {
+      "id": "21302fb12d0b",
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor-plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) continual-learning Continual Learning Cursor Developer Tools Incremental transcript-driven memory updates for AGENTS.md using high-signal bullet points only. cursor-team-kit ",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Ea...",
+      "summary_en": "Cursor plugin specification and official plugins Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Ea...",
+      "score": 5
+    },
+    {
+      "id": "88adb36d994a",
+      "title": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. Needle 2 Needle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. Needle 2 Needle 2 is an open 45M-parameter model for tool calling, ...",
+      "summary_en": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots. Needle 2 Needle 2 is an open 45M-parameter model for tool calling, ...",
+      "score": 5
+    },
+    {
+      "id": "4242e51e337a",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. Unsloth is the first desktop app to run and train models. Features • Quickstart • Notebooks • Documentation ⚡ Get started Download the native Unsloth Desktop app for your operating system: Platform Link Windows Download macOS Download Linux / Ubuntu (deb) Download Linux (AppImage) Download Linux (Arm64) Download Download from Unsloth or GitHub Releases . Or if you pre",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. Unsloth is the first...",
+      "summary_en": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. Unsloth is the first...",
+      "score": 5
+    },
+    {
+      "id": "a55c819fccc2",
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. Sign up and start building today! Fork our official APILayer Postman Collection and get started in under 60 seconds. APIs Covered Under APILayer Suite! IPstack Markestack Aviatio",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "A collective list of free APIs APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using...",
+      "summary_en": "A collective list of free APIs APILayer Unified Suite in now Live! 🎉 🥳 APILayer unified suite allows you to integrate production-grade REST APIs using...",
+      "score": 5
+    },
+    {
+      "id": "839948fdcd0c",
+      "title": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. Soup Fine-tune and post-train LLMs in one command. No SSH, no config hell. Website · Quick Start · Config · Docs · Commands · Models · Discord · Product Hunt Soup turns the pain of LLM fine-tuning into a simple workflow. One config, one command, done. pip install \"soup-cli[train]\" # add [train] to fine-tune; bare `soup-cli` is the light CLI soup init --template chat soup train Fine-tune an 8B model on a 4 GB l",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. Soup Fine-tune and post-train LLMs in one command. No SSH, no c...",
+      "summary_en": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. Soup Fine-tune and post-train LLMs in one command. No SSH, no c...",
+      "score": 5
+    },
+    {
+      "id": "8a080a19e768",
+      "title": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development 🌱 Spec Kit Define what to build before building it — with any AI coding agent. An open source toolkit for building high-quality software with any AI coding agent — a ready-to-use spec-driven process (or bring your own), endlessly extensible, community-driven, and built for your whole organization. English · 简体中文 Table of Contents 🤔 What is Spec-Driven Development? ⚡ Get Started 📽️ Video Overview 🌍 Community 🤖 Supported AI Coding Agen",
+      "source": "github_trending",
+      "sourceName": "GitHub Trending",
+      "category": "Dev",
+      "publishedAt": "",
+      "summary_vi": "💫 Toolkit to help you get started with Spec-Driven Development 🌱 Spec Kit Define what to build before building it — with any AI coding agent. An open ...",
+      "summary_en": "💫 Toolkit to help you get started with Spec-Driven Development 🌱 Spec Kit Define what to build before building it — with any AI coding agent. An open ...",
+      "score": 5
+    }
+  ]
+}
