@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-18T18:47:38.889097+00:00",
+  "updatedAt": "2026-08-18T21:29:39.012466+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "c48b408163b2",
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "description": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 18 Aug 2026 20:36:20 +0000",
+      "summary_vi": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC f...",
+      "summary_en": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC f...",
+      "score": 5
+    },
+    {
+      "id": "f4b80598f4f5",
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 18 Aug 2026 20:03:56 +0000",
+      "summary_vi": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purc...",
+      "summary_en": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purc...",
+      "score": 5
+    },
+    {
       "id": "0bfb066bf07c",
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -156,7 +182,7 @@
       "id": "622cdda3d3c6",
       "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
       "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "description": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+      "description": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Tue, 18 Aug 2026 16:19:10 +0000",
       "summary_vi": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos....",
       "summary_en": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos....",
-      "score": 5
-    },
-    {
-      "id": "ea6ea361e558",
-      "title": "Bluesky says its recent outage was caused by another DDoS attack",
-      "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
-      "description": "This is the latest large-scale DDoS attack to hit the social networking site this year.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 18 Aug 2026 15:59:48 +0000",
-      "summary_vi": "This is the latest large-scale DDoS attack to hit the social networking site this year....",
-      "summary_en": "This is the latest large-scale DDoS attack to hit the social networking site this year....",
-      "score": 5
-    },
-    {
-      "id": "2b9b3cf50e86",
-      "title": "Peacock is raising prices across all of its streaming plans",
-      "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-      "description": "\"These price changes allow Peacock to continue to create the best experience for its viewers, remain competitive in the marketplace, and deliver unique content across all genres,\" the company wrote on a support page.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 18 Aug 2026 15:26:31 +0000",
-      "summary_vi": "The cheapest ad-supported “Select” plan is increasing from $7.99 to $8.99 per month....",
-      "summary_en": "The cheapest ad-supported “Select” plan is increasing from $7.99 to $8.99 per month....",
       "score": 5
     },
     {
