@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-19T09:39:24.274546+00:00",
+  "updatedAt": "2026-08-19T12:58:12.584710+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "fe46527ac030",
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "description": "It's the data, stupid.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "summary_vi": "It's the data, stupid....",
+      "summary_en": "It's the data, stupid....",
+      "score": 5
+    },
+    {
+      "id": "cdd5fddf71dd",
+      "title": "You can Venmo your college tuition, for some reason",
+      "url": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+      "description": "Kids these days don't know how good they have it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "summary_vi": "Kids these days don't know how good they have it....",
+      "summary_en": "Kids these days don't know how good they have it....",
+      "score": 5
+    },
+    {
+      "id": "d205738f828c",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "summary_vi": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber....",
+      "summary_en": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber....",
+      "score": 5
+    },
+    {
       "id": "38269b8f7f4f",
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -163,45 +202,6 @@
       "publishedAt": "Tue, 18 Aug 2026 17:31:01 +0000",
       "summary_vi": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup communit...",
       "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup communit...",
-      "score": 5
-    },
-    {
-      "id": "506ef6f4e042",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "description": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "summary_vi": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says....",
-      "summary_en": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says....",
-      "score": 5
-    },
-    {
-      "id": "24490df0ac4a",
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "description": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 18 Aug 2026 17:12:13 +0000",
-      "summary_vi": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making i...",
-      "summary_en": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making i...",
-      "score": 5
-    },
-    {
-      "id": "622cdda3d3c6",
-      "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
-      "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-      "description": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 18 Aug 2026 16:39:05 +0000",
-      "summary_vi": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors....",
-      "summary_en": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors....",
       "score": 5
     },
     {
