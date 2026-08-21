@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "updatedAt": "2026-08-21T15:40:08.046680+00:00",
+  "updatedAt": "2026-08-21T18:45:47.344754+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "21783aeedadd",
+      "title": "Tesla’s solar roof is dead — here’s what went wrong",
+      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "description": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 21 Aug 2026 18:09:53 +0000",
+      "summary_vi": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?...",
+      "summary_en": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?...",
+      "score": 5
+    },
+    {
+      "id": "066036b62cac",
+      "title": "Waymo hands over documents in NHTSA’s child collision probe",
+      "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+      "description": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 21 Aug 2026 17:49:58 +0000",
+      "summary_vi": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"...",
+      "summary_en": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"...",
+      "score": 5
+    },
+    {
+      "id": "61a1dbea2b2b",
+      "title": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+      "url": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+      "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 21 Aug 2026 16:53:39 +0000",
+      "summary_vi": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin C...",
+      "summary_en": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin C...",
+      "score": 5
+    },
+    {
+      "id": "847d6c942751",
+      "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+      "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+      "description": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 21 Aug 2026 16:01:54 +0000",
+      "summary_vi": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- i...",
+      "summary_en": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- i...",
+      "score": 5
+    },
+    {
       "id": "1f967ed317f4",
       "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
       "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
@@ -150,58 +202,6 @@
       "publishedAt": "Fri, 21 Aug 2026 13:48:26 +0000",
       "summary_vi": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases....",
       "summary_en": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases....",
-      "score": 5
-    },
-    {
-      "id": "b0e22beaaf5f",
-      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-      "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-      "description": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 21 Aug 2026 13:35:23 +0000",
-      "summary_vi": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies....",
-      "summary_en": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies....",
-      "score": 5
-    },
-    {
-      "id": "05d1da53ace1",
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "description": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 21 Aug 2026 13:05:00 +0000",
-      "summary_vi": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service ...",
-      "summary_en": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service ...",
-      "score": 5
-    },
-    {
-      "id": "2954f75ed6ff",
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "description": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 21 Aug 2026 00:23:36 +0000",
-      "summary_vi": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months....",
-      "summary_en": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months....",
-      "score": 5
-    },
-    {
-      "id": "715aa7b8d8cb",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 21 Aug 2026 00:13:44 +0000",
-      "summary_vi": "Surging demand for AI training data is driving rapid growth for the startup and its rivals....",
-      "summary_en": "Surging demand for AI training data is driving rapid growth for the startup and its rivals....",
       "score": 5
     },
     {
