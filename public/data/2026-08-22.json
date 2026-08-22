@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "updatedAt": "2026-08-22T12:50:52.259035+00:00",
+  "updatedAt": "2026-08-22T15:27:24.831599+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "c25ecbf51b53",
+      "title": "US battery startups have found a lifeline in defense",
+      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+      "description": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 22 Aug 2026 15:20:00 +0000",
+      "summary_vi": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after E...",
+      "summary_en": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after E...",
+      "score": 5
+    },
+    {
+      "id": "8bda54eb52df",
+      "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+      "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+      "description": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 22 Aug 2026 14:00:00 +0000",
+      "summary_vi": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt ...",
+      "summary_en": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt ...",
+      "score": 5
+    },
+    {
       "id": "8014b9bf1f18",
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
       "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 21 Aug 2026 20:58:07 +0000",
       "summary_vi": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives....",
       "summary_en": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives....",
-      "score": 5
-    },
-    {
-      "id": "a461a274e989",
-      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-      "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-      "description": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 21 Aug 2026 20:25:21 +0000",
-      "summary_vi": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 millio...",
-      "summary_en": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 millio...",
-      "score": 5
-    },
-    {
-      "id": "3a4211235d0e",
-      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-      "description": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 21 Aug 2026 19:57:46 +0000",
-      "summary_vi": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit...",
-      "summary_en": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit...",
       "score": 5
     },
     {
