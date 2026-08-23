@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-23T15:28:15.908762+00:00",
+  "updatedAt": "2026-08-23T18:37:49.074524+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "caeae8aba479",
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 23 Aug 2026 16:03:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
+      "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
+      "score": 5
+    },
+    {
+      "id": "d26899ffdb40",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 23 Aug 2026 15:30:00 +0000",
+      "summary_vi": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused....",
+      "summary_en": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused....",
+      "score": 5
+    },
+    {
       "id": "c058daa1dd11",
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
       "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000",
       "summary_vi": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
       "summary_en": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
-      "score": 5
-    },
-    {
-      "id": "796f7a9c48e9",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "summary_vi": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems i...",
-      "summary_en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems i...",
-      "score": 5
-    },
-    {
-      "id": "c25ecbf51b53",
-      "title": "US battery startups have found a lifeline in defense",
-      "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-      "description": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 22 Aug 2026 15:20:00 +0000",
-      "summary_vi": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after E...",
-      "summary_en": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after E...",
       "score": 5
     },
     {
