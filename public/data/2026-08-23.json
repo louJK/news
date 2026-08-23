@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-23T18:37:49.074524+00:00",
+  "updatedAt": "2026-08-23T21:27:03.801181+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "be28f1428bf3",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "summary_vi": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation....",
+      "summary_en": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation....",
+      "score": 5
+    },
+    {
+      "id": "38092a5bb168",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "description": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 23 Aug 2026 19:30:00 +0000",
+      "summary_vi": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR....",
+      "summary_en": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR....",
+      "score": 5
+    },
+    {
+      "id": "fc3e349b3942",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
+      "summary_vi": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool....",
+      "summary_en": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool....",
+      "score": 5
+    },
+    {
       "id": "caeae8aba479",
       "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
       "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000",
       "summary_vi": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
       "summary_en": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
-      "score": 5
-    },
-    {
-      "id": "05cdf650ffdb",
-      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 22 Aug 2026 20:24:20 +0000",
-      "summary_vi": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats....",
-      "summary_en": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats....",
-      "score": 5
-    },
-    {
-      "id": "f264c057671c",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "summary_vi": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone...",
-      "summary_en": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone...",
-      "score": 5
-    },
-    {
-      "id": "39119bad22db",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "summary_vi": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
-      "summary_en": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
       "score": 5
     },
     {
