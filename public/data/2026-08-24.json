@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updatedAt": "2026-08-24T13:02:07.999936+00:00",
+  "updatedAt": "2026-08-24T15:46:12.754549+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,71 @@
   ],
   "items": [
     {
+      "id": "0565e9e7b154",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "summary_vi": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise ...",
+      "summary_en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise ...",
+      "score": 5
+    },
+    {
+      "id": "e0099f0b8b45",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "summary_vi": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses....",
+      "summary_en": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses....",
+      "score": 5
+    },
+    {
+      "id": "db07451bcf8b",
+      "title": "Brake problems in GM EVs draw greater federal scrutiny",
+      "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "description": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 24 Aug 2026 14:18:47 +0000",
+      "summary_vi": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catas...",
+      "summary_en": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catas...",
+      "score": 5
+    },
+    {
+      "id": "aa2dd08ad7da",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "description": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 24 Aug 2026 13:47:26 +0000",
+      "summary_vi": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibi...",
+      "summary_en": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibi...",
+      "score": 5
+    },
+    {
+      "id": "3da0c65afbfd",
+      "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "description": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 24 Aug 2026 13:45:15 +0000",
+      "summary_vi": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity....",
+      "summary_en": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity....",
+      "score": 5
+    },
+    {
       "id": "be28f1428bf3",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
       "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -140,68 +205,16 @@
       "score": 5
     },
     {
-      "id": "caeae8aba479",
-      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 23 Aug 2026 16:03:00 +0000",
-      "summary_vi": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
-      "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation....",
-      "score": 5
-    },
-    {
-      "id": "d26899ffdb40",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "summary_vi": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused....",
-      "summary_en": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused....",
-      "score": 5
-    },
-    {
-      "id": "c058daa1dd11",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "summary_vi": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their ...",
-      "summary_en": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their ...",
-      "score": 5
-    },
-    {
-      "id": "6ce2b1d23580",
-      "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-      "description": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 23 Aug 2026 03:00:00 +0000",
-      "summary_vi": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume....",
-      "summary_en": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume....",
-      "score": 5
-    },
-    {
-      "id": "480d7ab40672",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "summary_vi": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
-      "summary_en": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings....",
+      "id": "b11795f5f35f",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "summary_vi": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
+      "summary_en": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 17 Aug 2026 09:00:00 +0000",
       "summary_vi": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. Th...",
       "summary_en": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. Th...",
-      "score": 5
-    },
-    {
-      "id": "c22abf289983",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "description": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
-      "summary_vi": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
-      "summary_en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
       "score": 5
     }
   ]
