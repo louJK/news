@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updatedAt": "2026-08-24T07:09:45.801130+00:00",
+  "updatedAt": "2026-08-24T09:54:38.658298+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -205,6 +205,19 @@
       "score": 5
     },
     {
+      "id": "b781f4c498ae",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "summary_vi": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the wor...",
+      "summary_en": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the wor...",
+      "score": 5
+    },
+    {
       "id": "5e86b723ff64",
       "title": "Debates over AI consciousness are a trap",
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
@@ -293,19 +306,6 @@
       "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
       "summary_vi": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
       "summary_en": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparen...",
-      "score": 5
-    },
-    {
-      "id": "599ea52fc1f6",
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "summary_vi": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch...",
-      "summary_en": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch...",
       "score": 5
     }
   ]
