@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T18:48:06.795883+00:00",
+  "updatedAt": "2026-08-25T21:34:32.928339+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "383105d352e0",
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 25 Aug 2026 20:44:12 +0000",
+      "summary_vi": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repositor...",
+      "summary_en": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repositor...",
+      "score": 5
+    },
+    {
+      "id": "61f72c1ca7d4",
+      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "description": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut.&#160; Instagram says the process can produce [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 25 Aug 2026 19:22:52 +0000",
+      "summary_vi": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “Fir...",
+      "summary_en": "Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “Fir...",
+      "score": 5
+    },
+    {
+      "id": "5d321e71ab65",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "description": "The company's new fundraising total now stands at $232 million.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000",
+      "summary_vi": "The company's new fundraising total now stands at $232 million....",
+      "summary_en": "The company's new fundraising total now stands at $232 million....",
+      "score": 5
+    },
+    {
       "id": "86914721e145",
       "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
       "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
@@ -163,45 +202,6 @@
       "publishedAt": "Tue, 25 Aug 2026 17:32:03 +0000",
       "summary_vi": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment....",
       "summary_en": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment....",
-      "score": 5
-    },
-    {
-      "id": "47f6c894f30d",
-      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
-      "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
-      "description": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 16:35:00 +0000",
-      "summary_vi": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features hel...",
-      "summary_en": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features hel...",
-      "score": 5
-    },
-    {
-      "id": "dacef993307d",
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
-      "description": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 15:48:38 +0000",
-      "summary_vi": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack....",
-      "summary_en": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack....",
-      "score": 5
-    },
-    {
-      "id": "0c8bf55c3b6a",
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "description": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 15:30:00 +0000",
-      "summary_vi": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself....",
-      "summary_en": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself....",
       "score": 5
     },
     {
