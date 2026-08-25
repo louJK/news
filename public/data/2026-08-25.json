@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T09:41:24.650880+00:00",
+  "updatedAt": "2026-08-25T12:58:23.310071+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "37ca5a25147a",
+      "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+      "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+      "description": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 25 Aug 2026 12:37:37 +0000",
+      "summary_vi": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs....",
+      "summary_en": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs....",
+      "score": 5
+    },
+    {
+      "id": "98d6e4b2f39e",
+      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+      "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+      "description": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "summary_vi": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device,...",
+      "summary_en": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device,...",
+      "score": 5
+    },
+    {
+      "id": "93a87e369cbc",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "summary_vi": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product....",
+      "summary_en": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product....",
+      "score": 5
+    },
+    {
       "id": "19bcdfe5e2ad",
       "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
       "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
@@ -163,45 +202,6 @@
       "publishedAt": "Mon, 24 Aug 2026 20:45:33 +0000",
       "summary_vi": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business....",
       "summary_en": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business....",
-      "score": 5
-    },
-    {
-      "id": "d14fdbf4a30e",
-      "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
-      "description": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 24 Aug 2026 20:16:34 +0000",
-      "summary_vi": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15....",
-      "summary_en": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15....",
-      "score": 5
-    },
-    {
-      "id": "86efb41a86ac",
-      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "description": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 24 Aug 2026 19:58:17 +0000",
-      "summary_vi": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney genera...",
-      "summary_en": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney genera...",
-      "score": 5
-    },
-    {
-      "id": "aae956ca03d6",
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-      "description": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 24 Aug 2026 19:54:50 +0000",
-      "summary_vi": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers....",
-      "summary_en": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers....",
       "score": 5
     },
     {
