@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T06:57:24.222849+00:00",
+  "updatedAt": "2026-08-25T09:41:24.650880+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -205,6 +205,19 @@
       "score": 5
     },
     {
+      "id": "dac3a9d1e696",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "description": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 25 Aug 2026 09:00:00 +0000",
+      "summary_vi": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life...",
+      "summary_en": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life...",
+      "score": 5
+    },
+    {
       "id": "b11795f5f35f",
       "title": "How to encourage smarter AI use in the classroom",
       "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 17 Aug 2026 19:16:09 +0000",
       "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, ...",
       "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, ...",
-      "score": 5
-    },
-    {
-      "id": "0c3e7b3f060b",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "description": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "summary_vi": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. Th...",
-      "summary_en": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. Th...",
       "score": 5
     }
   ]
