@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-26T09:49:43.993169+00:00",
+  "updatedAt": "2026-08-26T13:04:13.316237+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "9831f37a70b7",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 26 Aug 2026 13:00:00 +0000",
+      "summary_vi": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent....",
+      "summary_en": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent....",
+      "score": 5
+    },
+    {
+      "id": "26bfb8eb611d",
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 26 Aug 2026 12:55:28 +0000",
+      "summary_vi": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV An...",
+      "summary_en": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV An...",
+      "score": 5
+    },
+    {
+      "id": "c7519cb8e616",
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "description": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "summary_vi": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames....",
+      "summary_en": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames....",
+      "score": 5
+    },
+    {
+      "id": "d56bb99852c0",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "description": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "summary_vi": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers....",
+      "summary_en": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers....",
+      "score": 5
+    },
+    {
       "id": "b4b1e595499f",
       "title": "Ventures Platform goes bigger — and broader — with its second Africa fund",
       "url": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
@@ -150,58 +202,6 @@
       "publishedAt": "Wed, 26 Aug 2026 00:06:20 +0000",
       "summary_vi": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vi...",
       "summary_en": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vi...",
-      "score": 5
-    },
-    {
-      "id": "383105d352e0",
-      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
-      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
-      "description": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code repository be taken down over alleged scraping.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 20:44:12 +0000",
-      "summary_vi": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code reposito...",
-      "summary_en": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding its instances and code reposito...",
-      "score": 5
-    },
-    {
-      "id": "61f72c1ca7d4",
-      "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-      "description": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 19:22:52 +0000",
-      "summary_vi": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creat...",
-      "summary_en": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creat...",
-      "score": 5
-    },
-    {
-      "id": "5d321e71ab65",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "description": "The company's new fundraising total now stands at $232 million.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000",
-      "summary_vi": "The company's new fundraising total now stands at $232 million....",
-      "summary_en": "The company's new fundraising total now stands at $232 million....",
-      "score": 5
-    },
-    {
-      "id": "86914721e145",
-      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-      "description": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 25 Aug 2026 18:26:55 +0000",
-      "summary_vi": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029....",
-      "summary_en": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029....",
       "score": 5
     },
     {
