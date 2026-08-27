@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "updatedAt": "2026-08-27T00:38:02.878701+00:00",
+  "updatedAt": "2026-08-27T14:01:34.344088+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,8 +101,47 @@
   ],
   "items": [
     {
+      "id": "faa1a03b9722",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "description": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 27 Aug 2026 13:00:00 +0000",
+      "summary_vi": "Plaud's new 'agentic' earbuds are priced at $249....",
+      "summary_en": "Plaud's new 'agentic' earbuds are priced at $249....",
+      "score": 5
+    },
+    {
+      "id": "9f21c491f251",
+      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 27 Aug 2026 11:35:59 +0000",
+      "summary_vi": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers....",
+      "summary_en": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers....",
+      "score": 5
+    },
+    {
+      "id": "7a131e105527",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "summary_vi": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c...",
+      "summary_en": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its c...",
+      "score": 5
+    },
+    {
       "id": "dff9dc0737a4",
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
       "source": "techcrunch",
@@ -163,45 +202,6 @@
       "publishedAt": "Wed, 26 Aug 2026 19:37:34 +0000",
       "summary_vi": "Consumer AI apps need to stop making users learn their product architecture....",
       "summary_en": "Consumer AI apps need to stop making users learn their product architecture....",
-      "score": 5
-    },
-    {
-      "id": "a65015085aa1",
-      "title": "How do we explain OpenAI’s executive exodus?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "description": "Was Greg Brockman the right executive all along?",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 26 Aug 2026 19:34:04 +0000",
-      "summary_vi": "Was Greg Brockman the right executive all along?...",
-      "summary_en": "Was Greg Brockman the right executive all along?...",
-      "score": 5
-    },
-    {
-      "id": "0f701375c211",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "summary_vi": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date....",
-      "summary_en": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date....",
-      "score": 5
-    },
-    {
-      "id": "72bcbc260cb7",
-      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
-      "description": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 26 Aug 2026 18:35:40 +0000",
-      "summary_vi": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’...",
-      "summary_en": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’...",
       "score": 5
     },
     {
