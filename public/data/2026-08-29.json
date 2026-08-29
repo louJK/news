@@ -1,0 +1,312 @@
+{
+  "date": "2026-08-29",
+  "updatedAt": "2026-08-29T01:40:18.046883+00:00",
+  "totalItems": 16,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "f10125c70d96",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 23:24:27 +0000",
+      "summary_vi": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automake...",
+      "summary_en": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automake...",
+      "score": 5
+    },
+    {
+      "id": "93c197c40326",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 22:42:48 +0000",
+      "summary_vi": "Are XREAL's smart glasses the way of the future for home entertainment?...",
+      "summary_en": "Are XREAL's smart glasses the way of the future for home entertainment?...",
+      "score": 5
+    },
+    {
+      "id": "f88a0fcca760",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "summary_vi": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ...",
+      "summary_en": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ...",
+      "score": 5
+    },
+    {
+      "id": "24c26e96ef00",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "summary_vi": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov...",
+      "summary_en": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov...",
+      "score": 5
+    },
+    {
+      "id": "89c9a1fa20f1",
+      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
+      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
+      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 18:50:00 +0000",
+      "summary_vi": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email ...",
+      "summary_en": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email ...",
+      "score": 5
+    },
+    {
+      "id": "f019f50bce19",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "description": "There's a lot of capital pouring into the business of giving models away.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 18:19:40 +0000",
+      "summary_vi": "There's a lot of capital pouring into the business of giving models away....",
+      "summary_en": "There's a lot of capital pouring into the business of giving models away....",
+      "score": 5
+    },
+    {
+      "id": "a4e185da0952",
+      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+      "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 17:09:05 +0000",
+      "summary_vi": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem....",
+      "summary_en": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem....",
+      "score": 5
+    },
+    {
+      "id": "ca0446dffeaf",
+      "title": "More Americans oppose police license plate cameras than support them: survey",
+      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
+      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 28 Aug 2026 15:57:58 +0000",
+      "summary_vi": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras....",
+      "summary_en": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras....",
+      "score": 5
+    },
+    {
+      "id": "db5b8f4203cb",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "description": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "summary_vi": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, accordi...",
+      "summary_en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, accordi...",
+      "score": 5
+    },
+    {
+      "id": "606181c5d71a",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary_vi": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas...",
+      "summary_en": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas...",
+      "score": 5
+    },
+    {
+      "id": "8e8985dedaae",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary_vi": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puz...",
+      "summary_en": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puz...",
+      "score": 5
+    },
+    {
+      "id": "a1de5e17b3b1",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "description": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 07:01:00 +0000",
+      "summary_vi": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, an...",
+      "summary_en": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, an...",
+      "score": 5
+    },
+    {
+      "id": "dac3a9d1e696",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "description": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 25 Aug 2026 09:00:00 +0000",
+      "summary_vi": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life...",
+      "summary_en": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life...",
+      "score": 5
+    },
+    {
+      "id": "b11795f5f35f",
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "summary_vi": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
+      "summary_en": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
+      "score": 5
+    },
+    {
+      "id": "b781f4c498ae",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "summary_vi": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the wor...",
+      "summary_en": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the wor...",
+      "score": 5
+    },
+    {
+      "id": "5e86b723ff64",
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 20 Aug 2026 15:42:39 +0000",
+      "summary_vi": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but ang...",
+      "summary_en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but ang...",
+      "score": 5
+    }
+  ]
+}
