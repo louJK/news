@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "updatedAt": "2026-08-29T09:54:56.785901+00:00",
+  "updatedAt": "2026-08-29T16:35:20.922821+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "27a4e5c2a23f",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "description": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 29 Aug 2026 16:10:00 +0000",
+      "summary_vi": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas....",
+      "summary_en": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas....",
+      "score": 5
+    },
+    {
+      "id": "ddfe512dedc9",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 29 Aug 2026 14:00:00 +0000",
+      "summary_vi": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little ...",
+      "summary_en": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little ...",
+      "score": 5
+    },
+    {
+      "id": "e277e4a4618d",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000",
+      "summary_vi": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
+      "summary_en": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
+      "score": 5
+    },
+    {
       "id": "f10125c70d96",
       "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
       "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 28 Aug 2026 18:50:00 +0000",
       "summary_vi": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email ...",
       "summary_en": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email ...",
-      "score": 5
-    },
-    {
-      "id": "f019f50bce19",
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "description": "There's a lot of capital pouring into the business of giving models away.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "summary_vi": "There's a lot of capital pouring into the business of giving models away....",
-      "summary_en": "There's a lot of capital pouring into the business of giving models away....",
-      "score": 5
-    },
-    {
-      "id": "a4e185da0952",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "description": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 17:09:05 +0000",
-      "summary_vi": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem....",
-      "summary_en": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem....",
-      "score": 5
-    },
-    {
-      "id": "ca0446dffeaf",
-      "title": "More Americans oppose police license plate cameras than support them: survey",
-      "url": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "description": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 15:57:58 +0000",
-      "summary_vi": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras....",
-      "summary_en": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras....",
       "score": 5
     },
     {
