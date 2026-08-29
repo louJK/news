@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "updatedAt": "2026-08-29T16:35:20.922821+00:00",
+  "updatedAt": "2026-08-29T20:47:54.869868+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "0d18d5472b03",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "summary_vi": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....",
+      "summary_en": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....",
+      "score": 5
+    },
+    {
+      "id": "698656d72c29",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 29 Aug 2026 17:51:10 +0000",
+      "summary_vi": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over A...",
+      "summary_en": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over A...",
+      "score": 5
+    },
+    {
+      "id": "619cf37e65ee",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "summary_vi": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is fin...",
+      "summary_en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is fin...",
+      "score": 5
+    },
+    {
       "id": "27a4e5c2a23f",
       "title": "Hollywood celebs are getting into microdrama apps",
       "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 28 Aug 2026 22:42:48 +0000",
       "summary_vi": "Are XREAL's smart glasses the way of the future for home entertainment?...",
       "summary_en": "Are XREAL's smart glasses the way of the future for home entertainment?...",
-      "score": 5
-    },
-    {
-      "id": "f88a0fcca760",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "summary_vi": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ...",
-      "summary_en": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring ...",
-      "score": 5
-    },
-    {
-      "id": "24c26e96ef00",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "summary_vi": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov...",
-      "summary_en": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov...",
-      "score": 5
-    },
-    {
-      "id": "89c9a1fa20f1",
-      "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
-      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "description": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 18:50:00 +0000",
-      "summary_vi": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email ...",
-      "summary_en": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email ...",
       "score": 5
     },
     {
