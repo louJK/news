@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-30T11:42:34.573872+00:00",
+  "updatedAt": "2026-08-30T16:30:03.968043+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "67389318ad3f",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 30 Aug 2026 16:03:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "e4de3653e651",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "summary_vi": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment....",
+      "summary_en": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment....",
+      "score": 5
+    },
+    {
       "id": "0d18d5472b03",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000",
       "summary_vi": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
       "summary_en": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
-      "score": 5
-    },
-    {
-      "id": "f10125c70d96",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "description": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 23:24:27 +0000",
-      "summary_vi": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automake...",
-      "summary_en": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automake...",
-      "score": 5
-    },
-    {
-      "id": "93c197c40326",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "description": "Are XREAL's smart glasses the way of the future for home entertainment?",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 28 Aug 2026 22:42:48 +0000",
-      "summary_vi": "Are XREAL's smart glasses the way of the future for home entertainment?...",
-      "summary_en": "Are XREAL's smart glasses the way of the future for home entertainment?...",
       "score": 5
     },
     {
