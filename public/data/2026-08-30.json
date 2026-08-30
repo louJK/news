@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-30T16:30:03.968043+00:00",
+  "updatedAt": "2026-08-30T20:52:35.999312+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "378833979da6",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "description": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 30 Aug 2026 18:33:44 +0000",
+      "summary_vi": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability....",
+      "summary_en": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability....",
+      "score": 5
+    },
+    {
+      "id": "d5dafdd78fb6",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "description": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "summary_vi": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — bu...",
+      "summary_en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — bu...",
+      "score": 5
+    },
+    {
       "id": "67389318ad3f",
       "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
       "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 29 Aug 2026 16:10:00 +0000",
       "summary_vi": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas....",
       "summary_en": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas....",
-      "score": 5
-    },
-    {
-      "id": "ddfe512dedc9",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "description": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "summary_vi": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little ...",
-      "summary_en": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little ...",
-      "score": 5
-    },
-    {
-      "id": "e277e4a4618d",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "summary_vi": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
-      "summary_en": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
       "score": 5
     },
     {
