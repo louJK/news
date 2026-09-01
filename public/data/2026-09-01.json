@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updatedAt": "2026-09-01T08:30:32.485086+00:00",
+  "updatedAt": "2026-09-01T14:04:19.808354+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "79a8e18f81b8",
+      "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+      "description": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 01 Sep 2026 14:03:00 +0000",
+      "summary_vi": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you....",
+      "summary_en": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you....",
+      "score": 5
+    },
+    {
+      "id": "a4bc7c87b045",
+      "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+      "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+      "description": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 01 Sep 2026 13:58:42 +0000",
+      "summary_vi": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"...",
+      "summary_en": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"...",
+      "score": 5
+    },
+    {
+      "id": "98b66a042c1a",
+      "title": "If space data centers feel far-fetched, why not interstellar travel?",
+      "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+      "description": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 01 Sep 2026 10:00:00 +0000",
+      "summary_vi": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri....",
+      "summary_en": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri....",
+      "score": 5
+    },
+    {
       "id": "2d298b6ce5a1",
       "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
       "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
@@ -163,45 +202,6 @@
       "publishedAt": "Mon, 31 Aug 2026 23:14:14 +0000",
       "summary_vi": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups....",
       "summary_en": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups....",
-      "score": 5
-    },
-    {
-      "id": "44ff834392cb",
-      "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-      "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-      "description": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 31 Aug 2026 22:14:05 +0000",
-      "summary_vi": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads....",
-      "summary_en": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads....",
-      "score": 5
-    },
-    {
-      "id": "c8ac26c5fa2a",
-      "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-      "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-      "description": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 31 Aug 2026 20:20:25 +0000",
-      "summary_vi": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising....",
-      "summary_en": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising....",
-      "score": 5
-    },
-    {
-      "id": "77b770af978c",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "summary_vi": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools....",
-      "summary_en": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools....",
       "score": 5
     },
     {
