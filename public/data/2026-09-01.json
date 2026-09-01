@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updatedAt": "2026-09-01T00:31:37.382010+00:00",
+  "updatedAt": "2026-09-01T08:30:32.485086+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "2d298b6ce5a1",
+      "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+      "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+      "description": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 01 Sep 2026 05:00:00 +0000",
+      "summary_vi": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping fi...",
+      "summary_en": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping fi...",
+      "score": 5
+    },
+    {
       "id": "ddd60eb51f47",
       "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
       "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
@@ -189,19 +202,6 @@
       "publishedAt": "Mon, 31 Aug 2026 20:13:45 +0000",
       "summary_vi": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools....",
       "summary_en": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools....",
-      "score": 5
-    },
-    {
-      "id": "8cd75049f7b8",
-      "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-      "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 31 Aug 2026 19:32:21 +0000",
-      "summary_vi": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event....",
-      "summary_en": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event....",
       "score": 5
     },
     {
