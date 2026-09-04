@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "updatedAt": "2026-09-04T04:04:52.652265+00:00",
+  "updatedAt": "2026-09-04T11:01:18.192715+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "3e1ba23902a5",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "summary_vi": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong wi...",
+      "summary_en": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong wi...",
+      "score": 5
+    },
+    {
       "id": "5737d6df236a",
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -192,16 +205,16 @@
       "score": 5
     },
     {
-      "id": "f1f94c405560",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 03 Sep 2026 18:37:57 +0000",
-      "summary_vi": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ult...",
-      "summary_en": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ult...",
+      "id": "16db96c97099",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "description": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "summary_vi": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind ...",
+      "summary_en": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind ...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Tue, 25 Aug 2026 09:00:00 +0000",
       "summary_vi": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life...",
       "summary_en": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life...",
-      "score": 5
-    },
-    {
-      "id": "b11795f5f35f",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "summary_vi": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
-      "summary_en": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo...",
       "score": 5
     }
   ]
