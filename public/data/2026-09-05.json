@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updatedAt": "2026-09-05T14:57:52.125737+00:00",
+  "updatedAt": "2026-09-05T17:15:28.816665+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "6010f59d56bf",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 17:00:00 +0000",
+      "summary_vi": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
+      "summary_en": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
+      "score": 5
+    },
+    {
+      "id": "de7e9ba0c659",
+      "title": "Oura is going public, but these smart ring companies are coming for its crown",
+      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+      "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 15:00:00 +0000",
+      "summary_vi": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of appr...",
+      "summary_en": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of appr...",
+      "score": 5
+    },
+    {
       "id": "f48898262d8e",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 04 Sep 2026 16:51:23 +0000",
       "summary_vi": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis....",
       "summary_en": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis....",
-      "score": 5
-    },
-    {
-      "id": "718826050bb2",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "summary_vi": "It's the latest failure of OpenAI's internal monitoring and security systems....",
-      "summary_en": "It's the latest failure of OpenAI's internal monitoring and security systems....",
-      "score": 5
-    },
-    {
-      "id": "bfcd16fb2c0f",
-      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "description": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 15:00:00 +0000",
-      "summary_vi": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow....",
-      "summary_en": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow....",
       "score": 5
     },
     {
