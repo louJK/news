@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updatedAt": "2026-09-05T17:15:28.816665+00:00",
+  "updatedAt": "2026-09-05T20:12:28.841164+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "f774e48a95a8",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "summary_vi": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
+      "summary_en": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
+      "score": 5
+    },
+    {
+      "id": "669fdcb55695",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "summary_vi": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
+      "summary_en": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
+      "score": 5
+    },
+    {
       "id": "6010f59d56bf",
       "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
       "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 04 Sep 2026 17:52:05 +0000",
       "summary_vi": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bir...",
       "summary_en": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bir...",
-      "score": 5
-    },
-    {
-      "id": "eb999a1a327a",
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "summary_vi": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware ch...",
-      "summary_en": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware ch...",
-      "score": 5
-    },
-    {
-      "id": "b1fbbc702d2c",
-      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "description": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 16:51:23 +0000",
-      "summary_vi": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis....",
-      "summary_en": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis....",
       "score": 5
     },
     {
