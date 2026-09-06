@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "updatedAt": "2026-09-06T20:16:18.071570+00:00",
+  "updatedAt": "2026-09-06T22:49:58.842870+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "4d1388743b58",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "summary_vi": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
+      "summary_en": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
+      "score": 5
+    },
+    {
+      "id": "3997b3420fb1",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "summary_vi": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
+      "summary_en": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
+      "score": 5
+    },
+    {
       "id": "f33b1fcaa623",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 05 Sep 2026 17:00:00 +0000",
       "summary_vi": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
       "summary_en": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
-      "score": 5
-    },
-    {
-      "id": "de7e9ba0c659",
-      "title": "Oura is going public, but these smart ring companies are coming for its crown",
-      "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 05 Sep 2026 15:00:00 +0000",
-      "summary_vi": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of appr...",
-      "summary_en": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of appr...",
-      "score": 5
-    },
-    {
-      "id": "f48898262d8e",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "summary_vi": "The round is being raised just months after the robot data startup exited from stealth....",
-      "summary_en": "The round is being raised just months after the robot data startup exited from stealth....",
       "score": 5
     },
     {
