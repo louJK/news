@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "updatedAt": "2026-09-06T15:18:31.628301+00:00",
+  "updatedAt": "2026-09-06T20:16:18.071570+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "f33b1fcaa623",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "summary_vi": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"...",
+      "summary_en": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"...",
+      "score": 5
+    },
+    {
+      "id": "be19f0a9969d",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 16:08:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
       "id": "8a7e0f31a983",
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 04 Sep 2026 23:36:14 +0000",
       "summary_vi": "The round is being raised just months after the robot data startup exited from stealth....",
       "summary_en": "The round is being raised just months after the robot data startup exited from stealth....",
-      "score": 5
-    },
-    {
-      "id": "2180a1fa6f13",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "summary_vi": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should...",
-      "summary_en": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should...",
-      "score": 5
-    },
-    {
-      "id": "e160d21430ae",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "summary_vi": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO....",
-      "summary_en": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO....",
       "score": 5
     },
     {
