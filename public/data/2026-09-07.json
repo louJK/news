@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "updatedAt": "2026-09-07T12:10:24.108714+00:00",
+  "updatedAt": "2026-09-07T19:04:11.101731+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "6de323e41c10",
+      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+      "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 07 Sep 2026 18:02:29 +0000",
+      "summary_vi": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its ...",
+      "summary_en": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its ...",
+      "score": 5
+    },
+    {
+      "id": "f4f95dccedd7",
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "description": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 07 Sep 2026 15:58:00 +0000",
+      "summary_vi": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods....",
+      "summary_en": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods....",
+      "score": 5
+    },
+    {
       "id": "4d1388743b58",
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 05 Sep 2026 19:35:24 +0000",
       "summary_vi": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
       "summary_en": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
-      "score": 5
-    },
-    {
-      "id": "669fdcb55695",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000",
-      "summary_vi": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
-      "summary_en": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
-      "score": 5
-    },
-    {
-      "id": "6010f59d56bf",
-      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 05 Sep 2026 17:00:00 +0000",
-      "summary_vi": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
-      "summary_en": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
       "score": 5
     },
     {
