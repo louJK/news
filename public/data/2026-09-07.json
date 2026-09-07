@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-07",
+  "updatedAt": "2026-09-07T04:07:43.606153+00:00",
+  "totalItems": 16,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "4d1388743b58",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "description": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 21:41:06 +0000",
+      "summary_vi": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
+      "summary_en": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store....",
+      "score": 5
+    },
+    {
+      "id": "3997b3420fb1",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "summary_vi": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
+      "summary_en": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
+      "score": 5
+    },
+    {
+      "id": "f33b1fcaa623",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "summary_vi": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"...",
+      "summary_en": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"...",
+      "score": 5
+    },
+    {
+      "id": "be19f0a9969d",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 06 Sep 2026 16:08:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "8a7e0f31a983",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "summary_vi": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
+      "summary_en": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
+      "score": 5
+    },
+    {
+      "id": "f774e48a95a8",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "summary_vi": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
+      "summary_en": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
+      "score": 5
+    },
+    {
+      "id": "669fdcb55695",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "summary_vi": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
+      "summary_en": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum....",
+      "score": 5
+    },
+    {
+      "id": "6010f59d56bf",
+      "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
+      "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+      "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 05 Sep 2026 17:00:00 +0000",
+      "summary_vi": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
+      "summary_en": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off....",
+      "score": 5
+    },
+    {
+      "id": "c540530472dc",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "summary_vi": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical rese...",
+      "summary_en": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical rese...",
+      "score": 5
+    },
+    {
+      "id": "16db96c97099",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "description": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "summary_vi": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind ...",
+      "summary_en": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind ...",
+      "score": 5
+    },
+    {
+      "id": "c0e30f013c2a",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 02 Sep 2026 14:00:00 +0000",
+      "summary_vi": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-spe...",
+      "summary_en": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-spe...",
+      "score": 5
+    },
+    {
+      "id": "e985a8c11fb3",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v...",
+      "score": 5
+    },
+    {
+      "id": "db5b8f4203cb",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "description": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "summary_vi": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, accordi...",
+      "summary_en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, accordi...",
+      "score": 5
+    },
+    {
+      "id": "606181c5d71a",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary_vi": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas...",
+      "summary_en": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plas...",
+      "score": 5
+    },
+    {
+      "id": "8e8985dedaae",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "summary_vi": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puz...",
+      "summary_en": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puz...",
+      "score": 5
+    },
+    {
+      "id": "a1de5e17b3b1",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "description": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 26 Aug 2026 07:01:00 +0000",
+      "summary_vi": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, an...",
+      "summary_en": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, an...",
+      "score": 5
+    }
+  ]
+}
