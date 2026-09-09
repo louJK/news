@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "updatedAt": "2026-09-09T20:48:39.653657+00:00",
+  "updatedAt": "2026-09-09T23:07:10.665793+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "a62cdeb365cc",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "summary_vi": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board....",
+      "summary_en": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board....",
+      "score": 5
+    },
+    {
+      "id": "7540bc2c5d65",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 09 Sep 2026 21:43:34 +0000",
+      "summary_vi": "Massachusetts has become the third state in as many months to slap new restrictions on data center development....",
+      "summary_en": "Massachusetts has become the third state in as many months to slap new restrictions on data center development....",
+      "score": 5
+    },
+    {
+      "id": "6caff675a342",
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
+      "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+      "description": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 09 Sep 2026 20:58:09 +0000",
+      "summary_vi": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere....",
+      "summary_en": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere....",
+      "score": 5
+    },
+    {
       "id": "24345bcea52a",
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
       "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
@@ -163,45 +202,6 @@
       "publishedAt": "Wed, 09 Sep 2026 19:08:59 +0000",
       "summary_vi": "The Siri Recap feature is similar to other note-taking apps like Granola....",
       "summary_en": "The Siri Recap feature is similar to other note-taking apps like Granola....",
-      "score": 5
-    },
-    {
-      "id": "ef66728a9235",
-      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-      "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-      "description": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 09 Sep 2026 18:34:24 +0000",
-      "summary_vi": "The legal AI startup and VC darling has nearly doubled its valuation in nine months....",
-      "summary_en": "The legal AI startup and VC darling has nearly doubled its valuation in nine months....",
-      "score": 5
-    },
-    {
-      "id": "41fc243c5eb6",
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "description": "The update uses Apple Intelligence to make better sense of your health data.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 09 Sep 2026 18:16:29 +0000",
-      "summary_vi": "The update uses Apple Intelligence to make better sense of your health data....",
-      "summary_en": "The update uses Apple Intelligence to make better sense of your health data....",
-      "score": 5
-    },
-    {
-      "id": "73877e938b55",
-      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-      "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-      "description": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 09 Sep 2026 18:08:46 +0000",
-      "summary_vi": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember ...",
-      "summary_en": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember ...",
       "score": 5
     },
     {
