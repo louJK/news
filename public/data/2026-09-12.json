@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-12T10:29:39.997428+00:00",
+  "updatedAt": "2026-09-12T15:23:01.824598+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "8ea9af46d419",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 12 Sep 2026 14:40:00 +0000",
+      "summary_vi": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....",
+      "summary_en": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....",
+      "score": 5
+    },
+    {
       "id": "c923ead07513",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 11 Sep 2026 19:35:54 +0000",
       "summary_vi": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each d...",
       "summary_en": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each d...",
-      "score": 5
-    },
-    {
-      "id": "d1716c9e5b97",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "description": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 11 Sep 2026 19:00:00 +0000",
-      "summary_vi": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilit...",
-      "summary_en": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilit...",
       "score": 5
     },
     {
