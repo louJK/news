@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "updatedAt": "2026-09-13T16:00:54.515948+00:00",
+  "updatedAt": "2026-09-13T20:36:40.561847+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "ddc287c6ed34",
+      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 13 Sep 2026 20:28:00 +0000",
+      "summary_vi": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch....",
+      "summary_en": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch....",
+      "score": 5
+    },
+    {
+      "id": "423bcba40c75",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "summary_vi": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity....",
+      "summary_en": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity....",
+      "score": 5
+    },
+    {
+      "id": "6b54256d4afb",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "summary_vi": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concern...",
+      "summary_en": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concern...",
+      "score": 5
+    },
+    {
+      "id": "9ccd192da0c0",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 13 Sep 2026 16:04:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
       "id": "1a165b0e5d6d",
       "title": "Fusion power startups find new partners in the defense world",
       "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
@@ -150,58 +202,6 @@
       "publishedAt": "Sat, 12 Sep 2026 19:34:44 +0000",
       "summary_vi": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?...",
       "summary_en": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?...",
-      "score": 5
-    },
-    {
-      "id": "5b418801f451",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "description": "Tesla’s halo sports car was first announced in November 2017.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 12 Sep 2026 19:21:19 +0000",
-      "summary_vi": "Tesla’s halo sports car was first announced in November 2017....",
-      "summary_en": "Tesla’s halo sports car was first announced in November 2017....",
-      "score": 5
-    },
-    {
-      "id": "8ea9af46d419",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 12 Sep 2026 14:40:00 +0000",
-      "summary_vi": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....",
-      "summary_en": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators....",
-      "score": 5
-    },
-    {
-      "id": "c923ead07513",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "summary_vi": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
-      "summary_en": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
-      "score": 5
-    },
-    {
-      "id": "383ef265234e",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 11 Sep 2026 21:19:05 +0000",
-      "summary_vi": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two....",
-      "summary_en": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two....",
       "score": 5
     },
     {
