@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T04:32:17.426118+00:00",
+  "updatedAt": "2026-09-17T11:25:27.781070+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "3177aa668ffd",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 17 Sep 2026 11:00:00 +0000",
+      "summary_vi": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures....",
+      "summary_en": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures....",
+      "score": 5
+    },
+    {
+      "id": "4f879da66298",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "summary_vi": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies...",
+      "summary_en": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies...",
+      "score": 5
+    },
+    {
       "id": "b7c7d891caa0",
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
@@ -176,32 +202,6 @@
       "publishedAt": "Wed, 16 Sep 2026 21:35:00 +0000",
       "summary_vi": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content....",
       "summary_en": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content....",
-      "score": 5
-    },
-    {
-      "id": "553a38183ddf",
-      "title": "Pulley, a Carta rival, is shutting down",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "description": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 16 Sep 2026 21:23:19 +0000",
-      "summary_vi": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December....",
-      "summary_en": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December....",
-      "score": 5
-    },
-    {
-      "id": "a4f0cae5cc3a",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 16 Sep 2026 21:07:24 +0000",
-      "summary_vi": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningf...",
-      "summary_en": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningf...",
       "score": 5
     },
     {
