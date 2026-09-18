@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updatedAt": "2026-09-18T20:45:10.146920+00:00",
+  "updatedAt": "2026-09-18T23:09:15.412590+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "49776e1c52dc",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "summary_vi": "Accenture is about to take on its most high-risk consulting engagement ever....",
+      "summary_en": "Accenture is about to take on its most high-risk consulting engagement ever....",
+      "score": 5
+    },
+    {
       "id": "c9073c10ba1f",
       "title": "Automattic names interim CFO after exec departures",
       "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
@@ -117,7 +130,7 @@
       "id": "dca35b9a7f2c",
       "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
       "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+      "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 18 Sep 2026 17:33:50 +0000",
       "summary_vi": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fi...",
       "summary_en": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fi...",
-      "score": 5
-    },
-    {
-      "id": "705069fd3407",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 17:26:41 +0000",
-      "summary_vi": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point....",
-      "summary_en": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point....",
       "score": 5
     },
     {
