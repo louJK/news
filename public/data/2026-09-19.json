@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T15:44:29.305301+00:00",
+  "updatedAt": "2026-09-19T20:24:57.397776+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "c0e5bbea1628",
+      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "summary_vi": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax....",
+      "summary_en": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax....",
+      "score": 5
+    },
+    {
+      "id": "c67b3655b36c",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "summary_vi": "Google said Gemini had \"acted appropriately\" by ending each hack immediately....",
+      "summary_en": "Google said Gemini had \"acted appropriately\" by ending each hack immediately....",
+      "score": 5
+    },
+    {
+      "id": "021b211a9222",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 17:00:00 +0000",
+      "summary_vi": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueli...",
+      "summary_en": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueli...",
+      "score": 5
+    },
+    {
       "id": "031e78fea7f6",
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
       "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
@@ -127,6 +166,19 @@
       "score": 5
     },
     {
+      "id": "a4b8614ad9dd",
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 14:00:00 +0000",
+      "summary_vi": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket...",
+      "summary_en": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket...",
+      "score": 5
+    },
+    {
       "id": "0ac6fc9717b5",
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
@@ -150,58 +202,6 @@
       "publishedAt": "Sat, 19 Sep 2026 01:00:00 +0000",
       "summary_vi": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
       "summary_en": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
-      "score": 5
-    },
-    {
-      "id": "d8747de7e501",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "summary_vi": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese....",
-      "summary_en": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese....",
-      "score": 5
-    },
-    {
-      "id": "43903881cded",
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "summary_vi": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations....",
-      "summary_en": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations....",
-      "score": 5
-    },
-    {
-      "id": "dcced75f93e2",
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "summary_vi": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all....",
-      "summary_en": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all....",
-      "score": 5
-    },
-    {
-      "id": "99bd6d4072b2",
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "summary_vi": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns....",
-      "summary_en": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns....",
       "score": 5
     },
     {
