@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T20:24:57.397776+00:00",
+  "updatedAt": "2026-09-19T22:50:08.877866+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,8 +101,21 @@
   ],
   "items": [
     {
+      "id": "194c7523c48f",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "summary_vi": "Without buyouts, Flock would \"almost certainly\" need to lay off staff....",
+      "summary_en": "Without buyouts, Flock would \"almost certainly\" need to lay off staff....",
+      "score": 5
+    },
+    {
       "id": "c0e5bbea1628",
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "source": "techcrunch",
@@ -189,19 +202,6 @@
       "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
       "summary_vi": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models....",
       "summary_en": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models....",
-      "score": 5
-    },
-    {
-      "id": "2f121b448c20",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 19 Sep 2026 01:00:00 +0000",
-      "summary_vi": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
-      "summary_en": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators....",
       "score": 5
     },
     {
