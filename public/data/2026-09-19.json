@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T10:42:30.646414+00:00",
+  "updatedAt": "2026-09-19T15:44:29.305301+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "031e78fea7f6",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "summary_vi": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when...",
+      "summary_en": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when...",
+      "score": 5
+    },
+    {
+      "id": "f48af8241edf",
+      "title": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "summary_vi": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction....",
+      "summary_en": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction....",
+      "score": 5
+    },
+    {
+      "id": "0ac6fc9717b5",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "summary_vi": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models....",
+      "summary_en": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models....",
+      "score": 5
+    },
+    {
       "id": "2f121b448c20",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 18 Sep 2026 23:12:32 +0000",
       "summary_vi": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns....",
       "summary_en": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns....",
-      "score": 5
-    },
-    {
-      "id": "49776e1c52dc",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "summary_vi": "Accenture is about to take on its most high-risk consulting engagement ever....",
-      "summary_en": "Accenture is about to take on its most high-risk consulting engagement ever....",
-      "score": 5
-    },
-    {
-      "id": "c9073c10ba1f",
-      "title": "Automattic names interim CFO after exec departures",
-      "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-      "description": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 20:25:22 +0000",
-      "summary_vi": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being....",
-      "summary_en": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being....",
-      "score": 5
-    },
-    {
-      "id": "dca35b9a7f2c",
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 18 Sep 2026 20:24:33 +0000",
-      "summary_vi": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance....",
-      "summary_en": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance....",
       "score": 5
     },
     {
