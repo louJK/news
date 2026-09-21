@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-21T19:56:02.044209+00:00",
+  "updatedAt": "2026-09-21T23:58:48.697780+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,36 @@
   ],
   "items": [
     {
+      "id": "502072b10c62",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "summary_vi": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....",
+      "summary_en": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....",
+      "score": 5
+    },
+    {
+      "id": "c06d2cf00824",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "summary_vi": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research....",
+      "summary_en": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research....",
+      "score": 5
+    },
+    {
       "id": "491414dc30a2",
       "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
       "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "description": "5 days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25, 11:59 p.m. PT.",
+      "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -176,32 +202,6 @@
       "publishedAt": "Mon, 21 Sep 2026 16:45:47 +0000",
       "summary_vi": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing....",
       "summary_en": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing....",
-      "score": 5
-    },
-    {
-      "id": "8a06f4e34726",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "summary_vi": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s prof...",
-      "summary_en": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s prof...",
-      "score": 5
-    },
-    {
-      "id": "719dd1e473cc",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 21 Sep 2026 15:00:00 +0000",
-      "summary_vi": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 b...",
-      "summary_en": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 b...",
       "score": 5
     },
     {
