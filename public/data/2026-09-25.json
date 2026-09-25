@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T04:31:26.721058+00:00",
+  "updatedAt": "2026-09-25T11:36:17.906388+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "bb5c1e3c8a7d",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "summary_vi": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period....",
+      "summary_en": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period....",
+      "score": 5
+    },
+    {
       "id": "06dbc1d0a57c",
       "title": "Waymo is scaling fast: Here’s what the fleet data shows",
       "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
@@ -192,16 +205,16 @@
       "score": 5
     },
     {
-      "id": "ec8182929aab",
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 24 Sep 2026 17:07:55 +0000",
-      "summary_vi": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree....",
-      "summary_en": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree....",
+      "id": "b50925bd3c97",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Fri, 25 Sep 2026 09:16:25 +0000",
+      "summary_vi": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg...",
+      "summary_en": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
       "summary_vi": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez H...",
       "summary_en": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez H...",
-      "score": 5
-    },
-    {
-      "id": "43991f137a69",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "description": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Fri, 18 Sep 2026 11:29:22 +0000",
-      "summary_vi": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI real...",
-      "summary_en": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI real...",
       "score": 5
     }
   ]
