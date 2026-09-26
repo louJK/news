@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T20:55:47.299474+00:00",
+  "updatedAt": "2026-09-26T23:28:32.358774+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "db474621d18a",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "summary_vi": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period....",
+      "summary_en": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period....",
+      "score": 5
+    },
+    {
       "id": "4406bcba8c88",
       "title": "TikTok agrees to pay at least $100M in Alabama settlement",
       "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 25 Sep 2026 23:04:34 +0000",
       "summary_vi": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board....",
       "summary_en": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board....",
-      "score": 5
-    },
-    {
-      "id": "9550a58b2b1b",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "summary_vi": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge....",
-      "summary_en": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge....",
       "score": 5
     },
     {
