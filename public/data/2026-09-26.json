@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T16:11:32.085445+00:00",
+  "updatedAt": "2026-09-26T20:55:47.299474+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "4406bcba8c88",
+      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
+      "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 26 Sep 2026 20:24:45 +0000",
+      "summary_vi": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was...",
+      "summary_en": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was...",
+      "score": 5
+    },
+    {
+      "id": "cb948f29afe1",
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 26 Sep 2026 17:44:00 +0000",
+      "summary_vi": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a...",
+      "summary_en": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a...",
+      "score": 5
+    },
+    {
+      "id": "013b17239c5a",
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 26 Sep 2026 17:00:00 +0000",
+      "summary_vi": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour....",
+      "summary_en": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour....",
+      "score": 5
+    },
+    {
       "id": "974092efe5bb",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
       "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 25 Sep 2026 22:20:47 +0000",
       "summary_vi": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge....",
       "summary_en": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge....",
-      "score": 5
-    },
-    {
-      "id": "8de38d355790",
-      "title": "Meta opens early access program for new Muse features",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "description": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 25 Sep 2026 20:34:53 +0000",
-      "summary_vi": "Anyone interested in joining has to ask Muse to put them on the list....",
-      "summary_en": "Anyone interested in joining has to ask Muse to put them on the list....",
-      "score": 5
-    },
-    {
-      "id": "41845a3718a2",
-      "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-      "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 25 Sep 2026 20:33:58 +0000",
-      "summary_vi": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery....",
-      "summary_en": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery....",
-      "score": 5
-    },
-    {
-      "id": "4b9cd4f252fe",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "summary_vi": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an...",
-      "summary_en": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an...",
       "score": 5
     },
     {
