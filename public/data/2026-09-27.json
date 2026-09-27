@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T11:49:04.690022+00:00",
+  "updatedAt": "2026-09-27T16:47:37.312952+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "62faa8b88a01",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "description": "\"AI is the devil and I its maker.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "summary_vi": "\"AI is the devil and I its maker.\"...",
+      "summary_en": "\"AI is the devil and I its maker.\"...",
+      "score": 5
+    },
+    {
+      "id": "94a11600420c",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 27 Sep 2026 16:02:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "1309404bd07d",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 27 Sep 2026 15:00:00 +0000",
+      "summary_vi": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noi...",
+      "summary_en": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noi...",
+      "score": 5
+    },
+    {
       "id": "e4d19eb73cb3",
       "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
       "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 26 Sep 2026 17:44:00 +0000",
       "summary_vi": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a...",
       "summary_en": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a...",
-      "score": 5
-    },
-    {
-      "id": "013b17239c5a",
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 26 Sep 2026 17:00:00 +0000",
-      "summary_vi": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour....",
-      "summary_en": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour....",
-      "score": 5
-    },
-    {
-      "id": "974092efe5bb",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "summary_vi": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves....",
-      "summary_en": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves....",
-      "score": 5
-    },
-    {
-      "id": "e0c16d6f1c1d",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "description": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 26 Sep 2026 01:08:57 +0000",
-      "summary_vi": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses....",
-      "summary_en": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses....",
       "score": 5
     },
     {
