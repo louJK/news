@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T16:47:37.312952+00:00",
+  "updatedAt": "2026-09-27T21:12:07.934234+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "920676792664",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "summary_vi": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
+      "summary_en": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
+      "score": 5
+    },
+    {
+      "id": "ee2957dde3ef",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "summary_vi": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic....",
+      "summary_en": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic....",
+      "score": 5
+    },
+    {
       "id": "62faa8b88a01",
       "title": "Anthropic’s Dario Amodei gets the SNL treatment",
       "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 26 Sep 2026 21:02:06 +0000",
       "summary_vi": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period....",
       "summary_en": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period....",
-      "score": 5
-    },
-    {
-      "id": "4406bcba8c88",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "description": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 26 Sep 2026 20:24:45 +0000",
-      "summary_vi": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was...",
-      "summary_en": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was...",
-      "score": 5
-    },
-    {
-      "id": "cb948f29afe1",
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 26 Sep 2026 17:44:00 +0000",
-      "summary_vi": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a...",
-      "summary_en": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a...",
       "score": 5
     },
     {
