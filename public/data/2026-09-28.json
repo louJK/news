@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updatedAt": "2026-09-28T04:56:51.661433+00:00",
+  "updatedAt": "2026-09-28T13:32:29.148621+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "d4ce871abe28",
+      "title": "SpaceX’s Starship rocket reaches orbit for the first time",
+      "url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+      "description": "Though not without some drama along the way.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 28 Sep 2026 13:19:18 +0000",
+      "summary_vi": "Though not without some drama along the way....",
+      "summary_en": "Though not without some drama along the way....",
+      "score": 5
+    },
+    {
+      "id": "0ca75c516866",
+      "title": "Ocean surveillance startup Quartermaster raises another $140M",
+      "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+      "description": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Mon, 28 Sep 2026 13:00:00 +0000",
+      "summary_vi": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”...",
+      "summary_en": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”...",
+      "score": 5
+    },
+    {
       "id": "73aba0ce5fee",
       "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
       "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
@@ -179,29 +205,16 @@
       "score": 5
     },
     {
-      "id": "e4d19eb73cb3",
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 27 Sep 2026 01:40:30 +0000",
-      "summary_vi": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve...",
-      "summary_en": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve...",
-      "score": 5
-    },
-    {
-      "id": "7fbf00bb0a9a",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "summary_vi": "The limited test covers select products and users, with a broader rollout planned for later in October....",
-      "summary_en": "The limited test covers select products and users, with a broader rollout planned for later in October....",
+      "id": "9df3eed3c7ef",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "summary_vi": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
+      "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can rea...",
       "score": 5
     },
     {
@@ -293,19 +306,6 @@
       "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
       "summary_vi": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chai...",
       "summary_en": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chai...",
-      "score": 5
-    },
-    {
-      "id": "c90b91454dad",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "description": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;",
-      "source": "mit_ai",
-      "sourceName": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "summary_vi": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez H...",
-      "summary_en": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez H...",
       "score": 5
     }
   ]
