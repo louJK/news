@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30T00:16:58.663811+00:00",
+  "updatedAt": "2026-09-30T09:31:58.232853+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "a722f22711be",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 30 Sep 2026 04:08:00 +0000",
+      "summary_vi": "Some of India's largest banks are holding off on supporting Apple Pay initially....",
+      "summary_en": "Some of India's largest banks are holding off on supporting Apple Pay initially....",
+      "score": 5
+    },
+    {
       "id": "c29c6d0a2ff6",
       "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 29 Sep 2026 19:52:37 +0000",
       "summary_vi": "The new round is anticipated to be the company's last before its delayed 2027 public debut....",
       "summary_en": "The new round is anticipated to be the company's last before its delayed 2027 public debut....",
-      "score": 5
-    },
-    {
-      "id": "267c040ff0ad",
-      "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-      "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-      "description": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 29 Sep 2026 18:48:03 +0000",
-      "summary_vi": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San...",
-      "summary_en": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San...",
       "score": 5
     },
     {
