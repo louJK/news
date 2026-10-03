@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T16:04:20.726342+00:00",
+  "updatedAt": "2026-10-03T20:54:32.035570+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "0b303479eb8c",
+      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 03 Oct 2026 19:33:15 +0000",
+      "summary_vi": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a wa...",
+      "summary_en": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a wa...",
+      "score": 5
+    },
+    {
+      "id": "f31587f81232",
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 03 Oct 2026 18:43:57 +0000",
+      "summary_vi": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers....",
+      "summary_en": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers....",
+      "score": 5
+    },
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "summary_vi": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from th...",
+      "summary_en": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from th...",
+      "score": 5
+    },
+    {
       "id": "5a0a0ddb0806",
       "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
       "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 03 Oct 2026 00:45:39 +0000",
       "summary_vi": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
       "summary_en": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
-      "score": 5
-    },
-    {
-      "id": "539a805f7f2b",
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "description": "The proposed legislation would extend to all automotica license plate readers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 03 Oct 2026 00:21:57 +0000",
-      "summary_vi": "The proposed legislation would extend to all automotica license plate readers....",
-      "summary_en": "The proposed legislation would extend to all automotica license plate readers....",
-      "score": 5
-    },
-    {
-      "id": "f8f9945809c1",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 02 Oct 2026 21:09:14 +0000",
-      "summary_vi": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money....",
-      "summary_en": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money....",
-      "score": 5
-    },
-    {
-      "id": "ca751af23b3a",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "summary_vi": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people....",
-      "summary_en": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people....",
       "score": 5
     },
     {
