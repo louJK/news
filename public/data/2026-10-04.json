@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T18:35:13.736022+00:00",
+  "updatedAt": "2026-10-04T23:54:20.961773+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "072378cdfd56",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "summary_vi": "AI slop seems to be overwhelming bug bounty programs....",
+      "summary_en": "AI slop seems to be overwhelming bug bounty programs....",
+      "score": 5
+    },
+    {
+      "id": "693ea3f4f734",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "summary_vi": "On Equity, we discussed the Trump administration's attempts to rebrand AI....",
+      "summary_en": "On Equity, we discussed the Trump administration's attempts to rebrand AI....",
+      "score": 5
+    },
+    {
       "id": "f7c282232744",
       "title": "TechCrunch Mobility: Reining in robotaxis",
       "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 03 Oct 2026 15:02:01 +0000",
       "summary_vi": "Bitchat has become largely unavailable in India as a result of the restrictions....",
       "summary_en": "Bitchat has become largely unavailable in India as a result of the restrictions....",
-      "score": 5
-    },
-    {
-      "id": "2e8add58aa01",
-      "title": "Vessev built an electric ferry that almost flies",
-      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-      "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 03 Oct 2026 14:42:00 +0000",
-      "summary_vi": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats....",
-      "summary_en": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats....",
-      "score": 5
-    },
-    {
-      "id": "6ae30ec75fda",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "summary_vi": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ...",
-      "summary_en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ...",
       "score": 5
     },
     {
