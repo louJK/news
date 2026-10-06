@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T05:56:52.685798+00:00",
+  "updatedAt": "2026-10-06T13:12:14.445686+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "56c402c80bda",
+      "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+      "description": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "summary_vi": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round....",
+      "summary_en": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round....",
+      "score": 5
+    },
+    {
+      "id": "12ea16c4cb2d",
+      "title": "Facebook tests going Reels-first in India",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 12:38:53 +0000",
+      "summary_vi": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and cente...",
+      "summary_en": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and cente...",
+      "score": 5
+    },
+    {
+      "id": "46e679a8cb4c",
+      "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+      "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+      "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 12:00:00 +0000",
+      "summary_vi": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 ...",
+      "summary_en": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 ...",
+      "score": 5
+    },
+    {
       "id": "8f6e00a50f00",
       "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
       "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
@@ -163,45 +202,6 @@
       "publishedAt": "Mon, 05 Oct 2026 19:33:53 +0000",
       "summary_vi": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti...",
       "summary_en": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti...",
-      "score": 5
-    },
-    {
-      "id": "a8ac03afa12d",
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-      "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 05 Oct 2026 18:54:30 +0000",
-      "summary_vi": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating even...",
-      "summary_en": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating even...",
-      "score": 5
-    },
-    {
-      "id": "1278561c2128",
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-      "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 05 Oct 2026 18:29:00 +0000",
-      "summary_vi": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products....",
-      "summary_en": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products....",
-      "score": 5
-    },
-    {
-      "id": "c5aabd4affd8",
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 05 Oct 2026 18:07:07 +0000",
-      "summary_vi": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf....",
-      "summary_en": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf....",
       "score": 5
     },
     {
