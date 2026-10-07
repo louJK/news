@@ -1,0 +1,312 @@
+{
+  "date": "2026-10-07",
+  "updatedAt": "2026-10-07T00:32:57.955158+00:00",
+  "totalItems": 16,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "1c59e9f06989",
+      "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "description": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 22:55:39 +0000",
+      "summary_vi": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads...",
+      "summary_en": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads...",
+      "score": 5
+    },
+    {
+      "id": "1f15e5a235c5",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "description": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 22:53:09 +0000",
+      "summary_vi": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner....",
+      "summary_en": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner....",
+      "score": 5
+    },
+    {
+      "id": "3bd217aa84bd",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 22:34:03 +0000",
+      "summary_vi": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaig...",
+      "summary_en": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaig...",
+      "score": 5
+    },
+    {
+      "id": "e2d7657db4f8",
+      "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "description": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 20:47:01 +0000",
+      "summary_vi": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday...",
+      "summary_en": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday...",
+      "score": 5
+    },
+    {
+      "id": "aedc083d210f",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "summary_vi": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights....",
+      "summary_en": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights....",
+      "score": 5
+    },
+    {
+      "id": "c6c0f9e409ef",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 20:00:30 +0000",
+      "summary_vi": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone....",
+      "summary_en": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone....",
+      "score": 5
+    },
+    {
+      "id": "159ed2438ba1",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 19:56:50 +0000",
+      "summary_vi": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l...",
+      "summary_en": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l...",
+      "score": 5
+    },
+    {
+      "id": "47e6fb94fc92",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 06 Oct 2026 18:22:45 +0000",
+      "summary_vi": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct....",
+      "summary_en": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct....",
+      "score": 5
+    },
+    {
+      "id": "16ad415e0c7f",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "description": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 05 Oct 2026 15:47:52 +0000",
+      "summary_vi": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. Mor...",
+      "summary_en": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. Mor...",
+      "score": 5
+    },
+    {
+      "id": "10d6f4f6fd7b",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "description": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 05 Oct 2026 13:29:32 +0000",
+      "summary_vi": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big ...",
+      "summary_en": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big ...",
+      "score": 5
+    },
+    {
+      "id": "cc4fbf263535",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "summary_vi": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its m...",
+      "summary_en": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its m...",
+      "score": 5
+    },
+    {
+      "id": "c8d1f5dc3656",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "description": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "summary_vi": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and scienc...",
+      "summary_en": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and scienc...",
+      "score": 5
+    },
+    {
+      "id": "ed9dd57bde82",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Fri, 02 Oct 2026 15:49:04 +0000",
+      "summary_vi": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can ab...",
+      "summary_en": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can ab...",
+      "score": 5
+    },
+    {
+      "id": "6714225038a5",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "description": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "summary_vi": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to i...",
+      "summary_en": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to i...",
+      "score": 5
+    },
+    {
+      "id": "249c91905a11",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "summary_vi": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Fa...",
+      "summary_en": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Fa...",
+      "score": 5
+    },
+    {
+      "id": "2665823bec02",
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 29 Sep 2026 10:43:45 +0000",
+      "summary_vi": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cl...",
+      "summary_en": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cl...",
+      "score": 5
+    }
+  ]
+}
