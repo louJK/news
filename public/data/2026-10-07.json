@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T00:32:57.955158+00:00",
+  "updatedAt": "2026-10-07T10:04:49.920201+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "92841c6b049b",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Wed, 07 Oct 2026 07:00:00 +0000",
+      "summary_vi": "Spotify will make 350,000 titles available in over 120 languages for this expansion...",
+      "summary_en": "Spotify will make 350,000 titles available in over 120 languages for this expansion...",
+      "score": 5
+    },
+    {
       "id": "1c59e9f06989",
       "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
       "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
@@ -189,19 +202,6 @@
       "publishedAt": "Tue, 06 Oct 2026 19:56:50 +0000",
       "summary_vi": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l...",
       "summary_en": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l...",
-      "score": 5
-    },
-    {
-      "id": "47e6fb94fc92",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Tue, 06 Oct 2026 18:22:45 +0000",
-      "summary_vi": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct....",
-      "summary_en": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct....",
       "score": 5
     },
     {
