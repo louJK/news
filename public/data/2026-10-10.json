@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T17:13:44.237109+00:00",
+  "updatedAt": "2026-10-10T21:27:13.482012+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "719244ff4837",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "summary_vi": "Is Apple hoping to get into the AI-generated podcast business?...",
+      "summary_en": "Is Apple hoping to get into the AI-generated podcast business?...",
+      "score": 5
+    },
+    {
       "id": "3e031e4aed98",
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 09 Oct 2026 22:08:24 +0000",
       "summary_vi": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, in...",
       "summary_en": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, in...",
-      "score": 5
-    },
-    {
-      "id": "6609f1addbf3",
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "summary_vi": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs....",
-      "summary_en": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs....",
       "score": 5
     },
     {
