@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T04:12:45.767860+00:00",
+  "updatedAt": "2026-10-15T11:13:43.727833+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "74a5b05214cc",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "description": "Figma is also releasing its code layers feature in open beta.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "summary_vi": "Figma is also releasing its code layers feature in open beta....",
+      "summary_en": "Figma is also releasing its code layers feature in open beta....",
+      "score": 5
+    },
+    {
       "id": "7624c31011dc",
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
       "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
@@ -189,19 +202,6 @@
       "publishedAt": "Wed, 14 Oct 2026 21:48:20 +0000",
       "summary_vi": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom....",
       "summary_en": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom....",
-      "score": 5
-    },
-    {
-      "id": "b212bc9f8ea1",
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 14 Oct 2026 21:30:33 +0000",
-      "summary_vi": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about ...",
-      "summary_en": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about ...",
       "score": 5
     },
     {
