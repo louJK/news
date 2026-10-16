@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T20:50:17.922534+00:00",
+  "updatedAt": "2026-10-16T23:23:46.997588+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "13131774e811",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "summary_vi": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa...",
+      "summary_en": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa...",
+      "score": 5
+    },
+    {
       "id": "88bd67ef4a1e",
       "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
@@ -189,19 +202,6 @@
       "publishedAt": "Fri, 16 Oct 2026 16:00:00 +0000",
       "summary_vi": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very...",
       "summary_en": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very...",
-      "score": 5
-    },
-    {
-      "id": "805c6efc7dd4",
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 16 Oct 2026 15:33:49 +0000",
-      "summary_vi": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter....",
-      "summary_en": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter....",
       "score": 5
     },
     {
