@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T20:24:34.317401+00:00",
+  "updatedAt": "2026-10-17T22:58:53.912033+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "24a6bb2519a4",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "summary_vi": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....",
+      "summary_en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web....",
+      "score": 5
+    },
+    {
+      "id": "4fa3af691420",
+      "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 17 Oct 2026 20:55:52 +0000",
+      "summary_vi": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms....",
+      "summary_en": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms....",
+      "score": 5
+    },
+    {
       "id": "c2a828c7429b",
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
@@ -115,7 +141,7 @@
     },
     {
       "id": "5329074f8958",
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Fri, 16 Oct 2026 17:52:24 +0000",
       "summary_vi": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive clou...",
       "summary_en": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive clou...",
-      "score": 5
-    },
-    {
-      "id": "0ee63cc50f71",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "summary_vi": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with...",
-      "summary_en": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with...",
-      "score": 5
-    },
-    {
-      "id": "45595377d2fe",
-      "title": "Waymo’s robotaxis are headed to Canada",
-      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 16 Oct 2026 16:06:38 +0000",
-      "summary_vi": "The company will start off by testing its self-driving vehicles on Toronto's streets....",
-      "summary_en": "The company will start off by testing its self-driving vehicles on Toronto's streets....",
       "score": 5
     },
     {
