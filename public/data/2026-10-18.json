@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T20:25:23.563630+00:00",
+  "updatedAt": "2026-10-18T22:56:25.220312+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,32 @@
   ],
   "items": [
     {
+      "id": "22be4d8914e6",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 18 Oct 2026 21:00:00 +0000",
+      "summary_vi": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running...",
+      "summary_en": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running...",
+      "score": 5
+    },
+    {
+      "id": "8768eef8cad2",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "summary_vi": "Anthropic said that it will commit 5% of its shares to the fund....",
+      "summary_en": "Anthropic said that it will commit 5% of its shares to the fund....",
+      "score": 5
+    },
+    {
       "id": "41c627add3cc",
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
       "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
@@ -176,32 +202,6 @@
       "publishedAt": "Sat, 17 Oct 2026 20:21:19 +0000",
       "summary_vi": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year....",
       "summary_en": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year....",
-      "score": 5
-    },
-    {
-      "id": "5329074f8958",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "summary_vi": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on th...",
-      "summary_en": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on th...",
-      "score": 5
-    },
-    {
-      "id": "6c8620aebf62",
-      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "description": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 17 Oct 2026 15:30:00 +0000",
-      "summary_vi": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature....",
-      "summary_en": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature....",
       "score": 5
     },
     {
