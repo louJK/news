@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-23T04:22:01.303704+00:00",
+  "updatedAt": "2026-10-23T11:22:45.402703+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "208710b51bf1",
+      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 23 Oct 2026 04:22:57 +0000",
+      "summary_vi": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents....",
+      "summary_en": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents....",
+      "score": 5
+    },
+    {
       "id": "3bfe5c41c86a",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 22 Oct 2026 21:05:05 +0000",
       "summary_vi": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator...",
       "summary_en": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator...",
-      "score": 5
-    },
-    {
-      "id": "fca6ebf047cd",
-      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 22 Oct 2026 20:01:51 +0000",
-      "summary_vi": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned....",
-      "summary_en": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned....",
       "score": 5
     },
     {
