@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-23T16:51:34.222743+00:00",
+  "updatedAt": "2026-10-23T21:16:01.285072+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "a53eb54d049c",
+      "title": "VCs, Superhuman Mail founder share red flags about product market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 23 Oct 2026 20:57:13 +0000",
+      "summary_vi": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit pro...",
+      "summary_en": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit pro...",
+      "score": 5
+    },
+    {
+      "id": "98913997f615",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 23 Oct 2026 20:03:14 +0000",
+      "summary_vi": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a ful...",
+      "summary_en": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a ful...",
+      "score": 5
+    },
+    {
+      "id": "7d8cd9aab9b6",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 23 Oct 2026 19:25:13 +0000",
+      "summary_vi": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers....",
+      "summary_en": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers....",
+      "score": 5
+    },
+    {
+      "id": "97fa418027d6",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 23 Oct 2026 19:06:23 +0000",
+      "summary_vi": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of findin...",
+      "summary_en": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of findin...",
+      "score": 5
+    },
+    {
       "id": "79e04d329853",
       "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
       "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
@@ -150,58 +202,6 @@
       "publishedAt": "Fri, 23 Oct 2026 15:00:09 +0000",
       "summary_vi": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months....",
       "summary_en": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months....",
-      "score": 5
-    },
-    {
-      "id": "208710b51bf1",
-      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 23 Oct 2026 04:22:57 +0000",
-      "summary_vi": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents....",
-      "summary_en": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents....",
-      "score": 5
-    },
-    {
-      "id": "3bfe5c41c86a",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "description": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "summary_vi": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027....",
-      "summary_en": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027....",
-      "score": 5
-    },
-    {
-      "id": "02cf9a7a48f9",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "summary_vi": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at th...",
-      "summary_en": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at th...",
-      "score": 5
-    },
-    {
-      "id": "8dc6f2707dfe",
-      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 22 Oct 2026 23:50:41 +0000",
-      "summary_vi": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should t...",
-      "summary_en": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should t...",
       "score": 5
     },
     {
