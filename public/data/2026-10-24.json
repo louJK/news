@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T15:44:33.474203+00:00",
+  "updatedAt": "2026-10-24T20:33:00.641617+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "14717cc2caa6",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "summary_vi": "The moment you realize the internet is \"held together by glue and dreams.\"...",
+      "summary_en": "The moment you realize the internet is \"held together by glue and dreams.\"...",
+      "score": 5
+    },
+    {
+      "id": "41208e707565",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "summary_vi": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations....",
+      "summary_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations....",
+      "score": 5
+    },
+    {
+      "id": "7253feb50236",
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "description": "Instacart might sell itself to a larger competitor.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 24 Oct 2026 16:30:00 +0000",
+      "summary_vi": "Instacart might sell itself to a larger competitor....",
+      "summary_en": "Instacart might sell itself to a larger competitor....",
+      "score": 5
+    },
+    {
+      "id": "07faf6f38097",
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary_vi": "Block said that the voice model can run locally on a MacBook M4 Max...",
+      "summary_en": "Block said that the voice model can run locally on a MacBook M4 Max...",
+      "score": 5
+    },
+    {
       "id": "153c8391e852",
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
@@ -150,58 +202,6 @@
       "publishedAt": "Sat, 24 Oct 2026 14:15:00 +0000",
       "summary_vi": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display....",
       "summary_en": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display....",
-      "score": 5
-    },
-    {
-      "id": "b2f0cf19fa7c",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "summary_vi": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ...",
-      "summary_en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, ...",
-      "score": 5
-    },
-    {
-      "id": "1e71a2438daf",
-      "title": "Startups don’t need to go viral to win customers",
-      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-      "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 23 Oct 2026 23:07:45 +0000",
-      "summary_vi": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one....",
-      "summary_en": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one....",
-      "score": 5
-    },
-    {
-      "id": "7384891d7abd",
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 23 Oct 2026 23:05:49 +0000",
-      "summary_vi": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work....",
-      "summary_en": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work....",
-      "score": 5
-    },
-    {
-      "id": "67b40086dc1e",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 23 Oct 2026 21:59:19 +0000",
-      "summary_vi": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command....",
-      "summary_en": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command....",
       "score": 5
     },
     {
