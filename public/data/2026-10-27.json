@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27T00:19:57.338022+00:00",
+  "updatedAt": "2026-10-27T08:49:54.294463+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "49d2ea4e3556",
+      "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "description": "Whose hand is behind this travesty?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 27 Oct 2026 06:34:44 +0000",
+      "summary_vi": "Whose hand is behind this travesty?...",
+      "summary_en": "Whose hand is behind this travesty?...",
+      "score": 5
+    },
+    {
+      "id": "cb685d5b4cbc",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "summary_vi": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent....",
+      "summary_en": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent....",
+      "score": 5
+    },
+    {
+      "id": "8cbd8d09602b",
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "summary_vi": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a trai...",
+      "summary_en": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a trai...",
+      "score": 5
+    },
+    {
       "id": "906ba9a6c16a",
       "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
       "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
@@ -163,45 +202,6 @@
       "publishedAt": "Mon, 26 Oct 2026 17:45:00 +0000",
       "summary_vi": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skil...",
       "summary_en": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skil...",
-      "score": 5
-    },
-    {
-      "id": "8f4c26bb6bac",
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 26 Oct 2026 16:49:42 +0000",
-      "summary_vi": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook r...",
-      "summary_en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook r...",
-      "score": 5
-    },
-    {
-      "id": "2b01b79f74d7",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "summary_vi": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets....",
-      "summary_en": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets....",
-      "score": 5
-    },
-    {
-      "id": "d581a6e13878",
-      "title": "Microsoft offers buyouts to around 60,000 employees",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-      "description": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 26 Oct 2026 15:58:25 +0000",
-      "summary_vi": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce....",
-      "summary_en": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce....",
       "score": 5
     },
     {
