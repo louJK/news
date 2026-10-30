@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T00:44:09.096721+00:00",
+  "updatedAt": "2026-10-30T09:49:21.359194+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,10 +101,36 @@
   ],
   "items": [
     {
+      "id": "98f03f499cf5",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 30 Oct 2026 07:01:00 +0000",
+      "summary_vi": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automak...",
+      "summary_en": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automak...",
+      "score": 5
+    },
+    {
+      "id": "4585bce5af53",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "summary_vi": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace....",
+      "summary_en": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace....",
+      "score": 5
+    },
+    {
       "id": "8c87afc67f74",
       "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
       "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "source": "techcrunch",
       "sourceName": "TechCrunch",
       "category": "Tech",
@@ -115,7 +141,7 @@
     },
     {
       "id": "ee09513d3b25",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "source": "techcrunch",
@@ -176,32 +202,6 @@
       "publishedAt": "Thu, 29 Oct 2026 21:01:04 +0000",
       "summary_vi": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data....",
       "summary_en": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data....",
-      "score": 5
-    },
-    {
-      "id": "820a720fcb68",
-      "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
-      "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-      "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 29 Oct 2026 20:43:56 +0000",
-      "summary_vi": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much ...",
-      "summary_en": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much ...",
-      "score": 5
-    },
-    {
-      "id": "60144b1613db",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "summary_vi": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business....",
-      "summary_en": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business....",
       "score": 5
     },
     {
