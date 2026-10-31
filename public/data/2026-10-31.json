@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T19:11:20.904419+00:00",
+  "updatedAt": "2026-10-31T23:59:24.013606+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "8462b9fc7109",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000",
+      "summary_vi": "Apple's new CEO defended the company's current position in the AI landscape....",
+      "summary_en": "Apple's new CEO defended the company's current position in the AI landscape....",
+      "score": 5
+    },
+    {
+      "id": "ec476f3f219d",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 21:36:07 +0000",
+      "summary_vi": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and conne...",
+      "summary_en": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and conne...",
+      "score": 5
+    },
+    {
+      "id": "9a46afb49d1d",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 21:17:03 +0000",
+      "summary_vi": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....",
+      "summary_en": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....",
+      "score": 5
+    },
+    {
       "id": "149be8f7454b",
       "title": "OpenAI reportedly lowers funding target for new round",
       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 31 Oct 2026 01:20:05 +0000",
       "summary_vi": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan....",
       "summary_en": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan....",
-      "score": 5
-    },
-    {
-      "id": "0f484a6d1367",
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 30 Oct 2026 23:21:23 +0000",
-      "summary_vi": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform....",
-      "summary_en": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform....",
-      "score": 5
-    },
-    {
-      "id": "d319498a5eb3",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "summary_vi": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutt...",
-      "summary_en": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutt...",
-      "score": 5
-    },
-    {
-      "id": "c6d867f631df",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 30 Oct 2026 21:54:34 +0000",
-      "summary_vi": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise....",
-      "summary_en": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise....",
       "score": 5
     },
     {
