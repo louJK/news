@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T12:01:32.689003+00:00",
+  "updatedAt": "2026-10-31T19:11:20.904419+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "149be8f7454b",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "summary_vi": "OpenAI’s latest funding round doesn't seem to be living up to expectations....",
+      "summary_en": "OpenAI’s latest funding round doesn't seem to be living up to expectations....",
+      "score": 5
+    },
+    {
+      "id": "5d341a2e3e3e",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 15:41:57 +0000",
+      "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
+      "score": 5
+    },
+    {
+      "id": "e94c7a3be5c3",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 14:00:00 +0000",
+      "summary_vi": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max....",
+      "summary_en": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max....",
+      "score": 5
+    },
+    {
       "id": "254f6dcb91de",
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
       "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 30 Oct 2026 21:54:34 +0000",
       "summary_vi": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise....",
       "summary_en": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise....",
-      "score": 5
-    },
-    {
-      "id": "d12607a6e474",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 30 Oct 2026 21:52:03 +0000",
-      "summary_vi": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the mon...",
-      "summary_en": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the mon...",
-      "score": 5
-    },
-    {
-      "id": "3f35d1d70306",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 30 Oct 2026 21:48:53 +0000",
-      "summary_vi": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data....",
-      "summary_en": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data....",
-      "score": 5
-    },
-    {
-      "id": "62efadaf1b1a",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 30 Oct 2026 21:26:59 +0000",
-      "summary_vi": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson....",
-      "summary_en": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson....",
       "score": 5
     },
     {
