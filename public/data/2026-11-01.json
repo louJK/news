@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-01T13:01:57.202145+00:00",
+  "updatedAt": "2026-11-01T19:27:47.550472+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "164b9e817196",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 17:04:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "b8ce70dc3eb8",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 16:20:10 +0000",
+      "summary_vi": "The cryptocurrency exchange said it's now covered 95% of the stolen assets....",
+      "summary_en": "The cryptocurrency exchange said it's now covered 95% of the stolen assets....",
+      "score": 5
+    },
+    {
+      "id": "4d58d84f4f6a",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "description": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "summary_vi": "Google made a sturdy phone, but there is increasing competition in the foldable world....",
+      "summary_en": "Google made a sturdy phone, but there is increasing competition in the foldable world....",
+      "score": 5
+    },
+    {
+      "id": "308d14e49d9d",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 14:00:00 +0000",
+      "summary_vi": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar....",
+      "summary_en": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar....",
+      "score": 5
+    },
+    {
       "id": "4876e27ef4f7",
       "title": "Data centers are now a midterm issue, even in Brooklyn",
       "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
@@ -150,58 +202,6 @@
       "publishedAt": "Sat, 31 Oct 2026 21:17:03 +0000",
       "summary_vi": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....",
       "summary_en": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act....",
-      "score": 5
-    },
-    {
-      "id": "149be8f7454b",
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 31 Oct 2026 16:12:55 +0000",
-      "summary_vi": "OpenAI’s latest funding round doesn't seem to be living up to expectations....",
-      "summary_en": "OpenAI’s latest funding round doesn't seem to be living up to expectations....",
-      "score": 5
-    },
-    {
-      "id": "5d341a2e3e3e",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "description": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 31 Oct 2026 15:41:57 +0000",
-      "summary_vi": "TikTok may be working to become the app that people use for most of their digital activities....",
-      "summary_en": "TikTok may be working to become the app that people use for most of their digital activities....",
-      "score": 5
-    },
-    {
-      "id": "e94c7a3be5c3",
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 31 Oct 2026 14:00:00 +0000",
-      "summary_vi": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max....",
-      "summary_en": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max....",
-      "score": 5
-    },
-    {
-      "id": "254f6dcb91de",
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "description": "The money behind the money is thrilled, mostly.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 31 Oct 2026 04:16:50 +0000",
-      "summary_vi": "The money behind the money is thrilled, mostly....",
-      "summary_en": "The money behind the money is thrilled, mostly....",
       "score": 5
     },
     {
