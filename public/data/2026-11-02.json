@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T00:29:36.495093+00:00",
+  "totalItems": 16,
+  "categories": [
+    "Tech",
+    "AI",
+    "Dev"
+  ],
+  "sources": [
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "category": "Tech"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "category": "Tech"
+    },
+    {
+      "id": "theVerge",
+      "name": "The Verge",
+      "category": "Tech"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "category": "Tech"
+    },
+    {
+      "id": "arstechnica",
+      "name": "Ars Technica",
+      "category": "Tech"
+    },
+    {
+      "id": "openai_blog",
+      "name": "OpenAI Blog",
+      "category": "AI"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Blog",
+      "category": "AI"
+    },
+    {
+      "id": "huggingface",
+      "name": "HuggingFace Blog",
+      "category": "AI"
+    },
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "category": "AI"
+    },
+    {
+      "id": "mit_ai",
+      "name": "MIT Technology Review AI",
+      "category": "AI"
+    },
+    {
+      "id": "github_trending",
+      "name": "GitHub Trending",
+      "category": "Dev"
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "category": "Dev"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "category": "Dev"
+    },
+    {
+      "id": "r_machinelearning",
+      "name": "r/MachineLearning",
+      "category": "AI"
+    },
+    {
+      "id": "r_localllama",
+      "name": "r/LocalLLaMA",
+      "category": "AI"
+    },
+    {
+      "id": "r_comfyui",
+      "name": "r/comfyui",
+      "category": "AI"
+    },
+    {
+      "id": "r_aiart",
+      "name": "r/AIArt",
+      "category": "AI"
+    },
+    {
+      "id": "r_webdev",
+      "name": "r/webdev",
+      "category": "Dev"
+    }
+  ],
+  "items": [
+    {
+      "id": "cf5e1b5d84c4",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "description": "Data centers are deeply unpopular. But what if we called them something else?",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 21:55:23 +0000",
+      "summary_vi": "Data centers are deeply unpopular. But what if we called them something else?...",
+      "summary_en": "Data centers are deeply unpopular. But what if we called them something else?...",
+      "score": 5
+    },
+    {
+      "id": "b3a6357c7fdd",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 20:57:58 +0000",
+      "summary_vi": "On Equity, we discuss why tech CEO statements can seem so tone deaf....",
+      "summary_en": "On Equity, we discuss why tech CEO statements can seem so tone deaf....",
+      "score": 5
+    },
+    {
+      "id": "164b9e817196",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 17:04:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "b8ce70dc3eb8",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 16:20:10 +0000",
+      "summary_vi": "The cryptocurrency exchange said it's now covered 95% of the stolen assets....",
+      "summary_en": "The cryptocurrency exchange said it's now covered 95% of the stolen assets....",
+      "score": 5
+    },
+    {
+      "id": "4d58d84f4f6a",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "description": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "summary_vi": "Google made a sturdy phone, but there is increasing competition in the foldable world....",
+      "summary_en": "Google made a sturdy phone, but there is increasing competition in the foldable world....",
+      "score": 5
+    },
+    {
+      "id": "308d14e49d9d",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 14:00:00 +0000",
+      "summary_vi": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar....",
+      "summary_en": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar....",
+      "score": 5
+    },
+    {
+      "id": "4876e27ef4f7",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 01 Nov 2026 02:22:10 +0000",
+      "summary_vi": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic ...",
+      "summary_en": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic ...",
+      "score": 5
+    },
+    {
+      "id": "8462b9fc7109",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 31 Oct 2026 21:41:00 +0000",
+      "summary_vi": "Apple's new CEO defended the company's current position in the AI landscape....",
+      "summary_en": "Apple's new CEO defended the company's current position in the AI landscape....",
+      "score": 5
+    },
+    {
+      "id": "468ea3c00c34",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 29 Oct 2026 10:11:12 +0000",
+      "summary_vi": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Huggin...",
+      "summary_en": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Huggin...",
+      "score": 5
+    },
+    {
+      "id": "52fa9eb7caab",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 28 Oct 2026 20:32:02 +0000",
+      "summary_vi": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversati...",
+      "summary_en": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversati...",
+      "score": 5
+    },
+    {
+      "id": "2b0a5d044d7f",
+      "title": "Pairing industrial AI autonomy and human control",
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "description": "",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "summary_vi": "",
+      "summary_en": "",
+      "score": 5
+    },
+    {
+      "id": "e3353615c610",
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "description": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Tue, 27 Oct 2026 11:19:18 +0000",
+      "summary_vi": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an expe...",
+      "summary_en": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an expe...",
+      "score": 5
+    },
+    {
+      "id": "57916c9fe918",
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 26 Oct 2026 17:45:43 +0000",
+      "summary_vi": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After w...",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After w...",
+      "score": 5
+    },
+    {
+      "id": "1992a716e85d",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Mon, 26 Oct 2026 09:01:00 +0000",
+      "summary_vi": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform mak...",
+      "summary_en": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform mak...",
+      "score": 5
+    },
+    {
+      "id": "c4f2e7d5237a",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "description": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 22 Oct 2026 21:17:29 +0000",
+      "summary_vi": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shi...",
+      "summary_en": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shi...",
+      "score": 5
+    },
+    {
+      "id": "870bab36282f",
+      "title": "The Foundations of Scalable AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "description": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+      "source": "mit_ai",
+      "sourceName": "MIT Technology Review AI",
+      "category": "AI",
+      "publishedAt": "Thu, 22 Oct 2026 18:48:04 +0000",
+      "summary_vi": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This s...",
+      "summary_en": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This s...",
+      "score": 5
+    }
+  ]
+}
