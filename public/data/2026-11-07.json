@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updatedAt": "2026-11-07T12:47:01.119141+00:00",
+  "updatedAt": "2026-11-07T19:18:57.973553+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "274da77cbef3",
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 07 Nov 2026 19:00:00 +0000",
+      "summary_vi": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from f...",
+      "summary_en": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from f...",
+      "score": 5
+    },
+    {
+      "id": "ff59ab9d8295",
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 07 Nov 2026 17:24:07 +0000",
+      "summary_vi": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users....",
+      "summary_en": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users....",
+      "score": 5
+    },
+    {
+      "id": "d18845134cdd",
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 07 Nov 2026 17:18:00 +0000",
+      "summary_vi": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier mo...",
+      "summary_en": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier mo...",
+      "score": 5
+    },
+    {
       "id": "7ca1e0316573",
       "title": "Sequoia shutting down its Scouts program marks the end of an era",
       "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 06 Nov 2026 21:38:05 +0000",
       "summary_vi": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily....",
       "summary_en": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily....",
-      "score": 5
-    },
-    {
-      "id": "37d75a0fa379",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "summary_vi": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacki...",
-      "summary_en": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacki...",
-      "score": 5
-    },
-    {
-      "id": "dcfedcc7440b",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 06 Nov 2026 18:44:20 +0000",
-      "summary_vi": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers....",
-      "summary_en": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers....",
-      "score": 5
-    },
-    {
-      "id": "8f51c7b390aa",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 06 Nov 2026 17:23:52 +0000",
-      "summary_vi": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related...",
-      "summary_en": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related...",
       "score": 5
     },
     {
