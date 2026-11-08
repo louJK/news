@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-08T10:03:40.722732+00:00",
+  "updatedAt": "2026-11-08T17:50:32.797657+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "efb6564b8341",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 08 Nov 2026 17:30:00 +0000",
+      "summary_vi": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners....",
+      "summary_en": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners....",
+      "score": 5
+    },
+    {
+      "id": "b4bc604fc18b",
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 08 Nov 2026 17:02:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "7eb5b514610d",
+      "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+      "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+      "description": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 08 Nov 2026 15:00:00 +0000",
+      "summary_vi": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso....",
+      "summary_en": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso....",
+      "score": 5
+    },
+    {
       "id": "be545ac37e7a",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 07 Nov 2026 17:18:00 +0000",
       "summary_vi": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier mo...",
       "summary_en": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier mo...",
-      "score": 5
-    },
-    {
-      "id": "7ca1e0316573",
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 07 Nov 2026 05:01:54 +0000",
-      "summary_vi": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its c...",
-      "summary_en": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its c...",
-      "score": 5
-    },
-    {
-      "id": "9f1e12639c71",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 07 Nov 2026 04:16:43 +0000",
-      "summary_vi": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is wheth...",
-      "summary_en": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is wheth...",
-      "score": 5
-    },
-    {
-      "id": "bfdaf195a235",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "description": "The deal highlights the challenges of developing massive AI data centers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 07 Nov 2026 01:40:28 +0000",
-      "summary_vi": "The deal highlights the challenges of developing massive AI data centers....",
-      "summary_en": "The deal highlights the challenges of developing massive AI data centers....",
       "score": 5
     },
     {
