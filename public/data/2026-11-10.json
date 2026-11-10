@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-10T01:24:43.165900+00:00",
+  "updatedAt": "2026-11-10T10:56:00.667161+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,58 @@
   ],
   "items": [
     {
+      "id": "fc66a21ca327",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 10 Nov 2026 07:00:00 +0000",
+      "summary_vi": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages....",
+      "summary_en": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages....",
+      "score": 5
+    },
+    {
+      "id": "1e9f29c3209d",
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 10 Nov 2026 05:18:43 +0000",
+      "summary_vi": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 ...",
+      "summary_en": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 ...",
+      "score": 5
+    },
+    {
+      "id": "c0d20efed88f",
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 10 Nov 2026 04:34:15 +0000",
+      "summary_vi": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal....",
+      "summary_en": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal....",
+      "score": 5
+    },
+    {
+      "id": "55ff5cbc62ee",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "summary_vi": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported....",
+      "summary_en": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported....",
+      "score": 5
+    },
+    {
       "id": "a418baa2661a",
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
@@ -150,58 +202,6 @@
       "publishedAt": "Mon, 09 Nov 2026 22:23:42 +0000",
       "summary_vi": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securi...",
       "summary_en": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securi...",
-      "score": 5
-    },
-    {
-      "id": "18869a47a8da",
-      "title": "Fervo now has $12B in orders for its geothermal power tech",
-      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-      "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 09 Nov 2026 20:55:34 +0000",
-      "summary_vi": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah....",
-      "summary_en": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah....",
-      "score": 5
-    },
-    {
-      "id": "cd02f18399f3",
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 09 Nov 2026 20:09:06 +0000",
-      "summary_vi": "The Nvidia CEO also pulled out of an Anthropic event earlier....",
-      "summary_en": "The Nvidia CEO also pulled out of an Anthropic event earlier....",
-      "score": 5
-    },
-    {
-      "id": "26f743b0903c",
-      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-      "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 09 Nov 2026 19:39:41 +0000",
-      "summary_vi": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music stre...",
-      "summary_en": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music stre...",
-      "score": 5
-    },
-    {
-      "id": "9d2e28e73a2d",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Mon, 09 Nov 2026 19:24:51 +0000",
-      "summary_vi": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users....",
-      "summary_en": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users....",
       "score": 5
     },
     {
