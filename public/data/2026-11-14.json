@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-14T10:00:23.893818+00:00",
+  "updatedAt": "2026-11-14T17:51:54.567194+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "0f30e4537472",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "description": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 14 Nov 2026 17:45:04 +0000",
+      "summary_vi": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"...",
+      "summary_en": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"...",
+      "score": 5
+    },
+    {
+      "id": "17dd6d164624",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "summary_vi": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations....",
+      "summary_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations....",
+      "score": 5
+    },
+    {
+      "id": "4392222fa3b0",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sat, 14 Nov 2026 16:34:15 +0000",
+      "summary_vi": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigatio...",
+      "summary_en": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigatio...",
+      "score": 5
+    },
+    {
       "id": "2cc6f71479ff",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
@@ -163,45 +202,6 @@
       "publishedAt": "Fri, 13 Nov 2026 19:37:57 +0000",
       "summary_vi": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith....",
       "summary_en": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith....",
-      "score": 5
-    },
-    {
-      "id": "3bcb8ca81cba",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "summary_vi": "New research shows the most advanced AI models from China were trained on banned Nvidia chips....",
-      "summary_en": "New research shows the most advanced AI models from China were trained on banned Nvidia chips....",
-      "score": 5
-    },
-    {
-      "id": "a89e40511448",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "summary_vi": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers....",
-      "summary_en": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers....",
-      "score": 5
-    },
-    {
-      "id": "9c558a7ae326",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 13 Nov 2026 15:58:00 +0000",
-      "summary_vi": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop ...",
-      "summary_en": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop ...",
       "score": 5
     },
     {
