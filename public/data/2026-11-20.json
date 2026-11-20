@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updatedAt": "2026-11-20T02:12:00.673485+00:00",
+  "updatedAt": "2026-11-20T11:13:01.353081+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "9c652f409ab4",
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Fri, 20 Nov 2026 09:14:19 +0000",
+      "summary_vi": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown....",
+      "summary_en": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown....",
+      "score": 5
+    },
+    {
       "id": "15417601d21a",
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -189,19 +202,6 @@
       "publishedAt": "Thu, 19 Nov 2026 21:42:31 +0000",
       "summary_vi": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely som...",
       "summary_en": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely som...",
-      "score": 5
-    },
-    {
-      "id": "15a984f33604",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "description": "Uber is testing the new program in three U.S. cities.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Thu, 19 Nov 2026 21:33:24 +0000",
-      "summary_vi": "Uber is testing the new program in three U.S. cities....",
-      "summary_en": "Uber is testing the new program in three U.S. cities....",
       "score": 5
     },
     {
