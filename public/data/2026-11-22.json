@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updatedAt": "2026-11-22T10:58:21.898517+00:00",
+  "updatedAt": "2026-11-22T19:21:45.808097+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,45 @@
   ],
   "items": [
     {
+      "id": "9d8fa306d219",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 22 Nov 2026 18:08:43 +0000",
+      "summary_vi": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"...",
+      "summary_en": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"...",
+      "score": 5
+    },
+    {
+      "id": "290d35fa760c",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 22 Nov 2026 17:06:00 +0000",
+      "summary_vi": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it....",
+      "score": 5
+    },
+    {
+      "id": "c55215d90850",
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Sun, 22 Nov 2026 15:00:00 +0000",
+      "summary_vi": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges....",
+      "summary_en": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges....",
+      "score": 5
+    },
+    {
       "id": "f8ce89f0a31b",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
@@ -163,45 +202,6 @@
       "publishedAt": "Sat, 21 Nov 2026 16:00:00 +0000",
       "summary_vi": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if th...",
       "summary_en": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if th...",
-      "score": 5
-    },
-    {
-      "id": "e62267ab67ec",
-      "title": "Alaska, your next governor is a Wikipedia nerd",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "description": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 21 Nov 2026 15:18:29 +0000",
-      "summary_vi": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits....",
-      "summary_en": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits....",
-      "score": 5
-    },
-    {
-      "id": "e262e9837ef1",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Sat, 21 Nov 2026 04:00:00 +0000",
-      "summary_vi": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India....",
-      "summary_en": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India....",
-      "score": 5
-    },
-    {
-      "id": "e7c0769fe527",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Fri, 20 Nov 2026 20:58:29 +0000",
-      "summary_vi": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pot...",
-      "summary_en": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pot...",
       "score": 5
     },
     {
