@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-26T03:27:40.281877+00:00",
+  "updatedAt": "2026-11-26T16:41:50.922958+00:00",
   "totalItems": 16,
   "categories": [
     "Tech",
@@ -101,6 +101,19 @@
   ],
   "items": [
     {
+      "id": "ed1460477a26",
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "source": "techcrunch",
+      "sourceName": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "Thu, 26 Nov 2026 16:00:00 +0000",
+      "summary_vi": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all...",
+      "summary_en": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all...",
+      "score": 5
+    },
+    {
       "id": "bf17d49ef61f",
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -189,19 +202,6 @@
       "publishedAt": "Wed, 25 Nov 2026 18:49:52 +0000",
       "summary_vi": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers....",
       "summary_en": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers....",
-      "score": 5
-    },
-    {
-      "id": "fd530c75c77a",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-      "source": "techcrunch",
-      "sourceName": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "Wed, 25 Nov 2026 18:11:46 +0000",
-      "summary_vi": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to in...",
-      "summary_en": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to in...",
       "score": 5
     },
     {
